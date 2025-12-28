@@ -87933,19 +87933,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 00:19:00<br><b>Tipo de Incidente:</b> Vehículo Averiado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-7<br><b>Punto Kilométrico:</b> 581.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2538781,
-          37.95755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 29/12/2025 - 07:00:00<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-3<br><b>Punto Kilométrico:</b> 350.9 km"
       },
       "geometry": {
@@ -90062,19 +90049,6 @@
         "coordinates": [
           -6.5148573,
           37.24208
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:11:19<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-2000<br><b>Punto Kilométrico:</b> 11.1 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.1637564,
-          36.792652
         ]
       }
     },
@@ -95778,19 +95752,6 @@
         "coordinates": [
           -0.2439259,
           39.0837
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 01:42:00<br><b>Tipo de Obstrucción:</b> Objeto en Calzada<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CV-671<br><b>Punto Kilométrico:</b> 0.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1741626,
-          38.96528
         ]
       }
     },
@@ -118724,6 +118685,32 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:26:00<br><b>Tipo de Incidente:</b> Vehículo Averiado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-640<br><b>Punto Kilométrico:</b> 218.5 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.582331,
+          42.622635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:27:21<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CM-4024<br><b>Punto Kilométrico:</b> 0.1 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4301,
+          40.02277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 19/09/2025 - 01:09:34<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-332<br><b>Punto Kilométrico:</b> 226.0 km"
       },
       "geometry": {
@@ -118731,6 +118718,19 @@
         "coordinates": [
           -0.1846951,
           38.996323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:27:46<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> Ma-19<br><b>Punto Kilométrico:</b> 1.6 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6621876,
+          39.563187
         ]
       }
     },
@@ -118857,6 +118857,19 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:28:49<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> AS-17<br><b>Punto Kilométrico:</b> 33.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.72232,
+          43.35585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 27/12/2025 - 21:01:05<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> M-40<br><b>Punto Kilométrico:</b> 18.0 km"
       },
       "geometry": {
@@ -118877,6 +118890,45 @@
         "coordinates": [
           -5.9609914,
           36.259365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:29:46<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> M-506<br><b>Punto Kilométrico:</b> 8.9 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84711,
+          40.32525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:29:00<br><b>Tipo de Obstrucción:</b> Objeto en Calzada<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CV-400<br><b>Punto Kilométrico:</b> 0.9 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3983606,
+          39.43568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:34:41<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> TO-2542<br><b>Punto Kilométrico:</b> 2.3 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5752125,
+          40.005127
         ]
       }
     },
@@ -126784,6 +126836,58 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:45:18<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> M-50<br><b>Punto Kilométrico:</b> 14.7 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4966643,
+          40.47544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:45:25<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CV-365<br><b>Punto Kilométrico:</b> 1.1 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.43581,
+          39.50817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:46:00<br><b>Tipo de Incidente:</b> Vehículo Averiado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> DP-7307<br><b>Punto Kilométrico:</b> 0.6 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.985025,
+          42.54552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:47:13<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> NA-2420<br><b>Punto Kilométrico:</b> 31.9 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2779063,
+          42.613743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 12/11/2025 - 20:13:11<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-7176<br><b>Punto Kilométrico:</b> 1.8 km"
       },
       "geometry": {
@@ -130373,6 +130477,32 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:57:05<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-330a<br><b>Punto Kilométrico:</b> 629.8 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3736,
+          42.521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:59:16<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-7<br><b>Punto Kilométrico:</b> 1012.5 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.62166,
+          36.56348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 06/12/2025 - 21:35:09<br><b>Tipo de Obstrucción:</b> Objeto en Calzada<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> N-121-A<br><b>Punto Kilométrico:</b> 37.5 km"
       },
       "geometry": {
@@ -131151,6 +131281,32 @@
         "coordinates": [
           -1.59433,
           43.097062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:00:10<br><b>Tipo de Incidente:</b> Vehículo Averiado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-22<br><b>Punto Kilométrico:</b> 51.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1573304,
+          41.967323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:00:21<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CM-410<br><b>Punto Kilométrico:</b> 42.6 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7617,
+          39.6941
         ]
       }
     },
@@ -135156,6 +135312,84 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:11:13<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> M-300<br><b>Punto Kilométrico:</b> 12.2 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.40861,
+          40.37955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:09:00<br><b>Tipo de Incidente:</b> Vehículo Averiado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CV-645<br><b>Punto Kilométrico:</b> 2.7 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5448707,
+          38.982105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:09:03<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> BU-V-1002<br><b>Punto Kilométrico:</b> 1.1 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7153742,
+          42.284977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:09:00<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> M-841<br><b>Punto Kilométrico:</b> 4.8 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63742,
+          40.22726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:09:16<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> BA-071<br><b>Punto Kilométrico:</b> 5.5 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.511363,
+          38.52755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:08:53<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-330a<br><b>Punto Kilométrico:</b> 629.8 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3736,
+          42.521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 27/12/2025 - 18:34:00<br><b>Tipo de Obstrucción:</b> Objeto en Calzada<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> RM-15<br><b>Punto Kilométrico:</b> 30.2 km"
       },
       "geometry": {
@@ -135561,6 +135795,71 @@
         "coordinates": [
           -7.4808784,
           42.962196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:02:00<br><b>Tipo de Incidente:</b> Vehículo Averiado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-525<br><b>Punto Kilométrico:</b> 237.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8786154,
+          42.33225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:02:26<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> DESCONOCIDA<br><b>Punto Kilométrico:</b> 10.6 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.988753,
+          37.247486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:02:23<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-7054<br><b>Punto Kilométrico:</b> 12.1 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.610398,
+          36.736122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:01:43<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-525<br><b>Punto Kilométrico:</b> 236.9 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.878108,
+          42.331245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:00:52<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> Ma-19<br><b>Punto Kilométrico:</b> 3.5 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6823733,
+          39.564167
         ]
       }
     },
@@ -137179,6 +137478,19 @@
         "coordinates": [
           -3.737659,
           40.652216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:11:37<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-5000<br><b>Punto Kilométrico:</b> 1.1 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.907504,
+          37.274918
         ]
       }
     },
@@ -167571,6 +167883,32 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:08:35<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-7<br><b>Punto Kilométrico:</b> 300.8 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2924096,
+          39.685997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:08:25<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-635<br><b>Punto Kilométrico:</b> 15.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.740011,
+          43.384605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 23/12/2025 - 07:26:47<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-2<br><b>Punto Kilométrico:</b> 55.8 km"
       },
       "geometry": {
@@ -169201,13 +169539,13 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 27/12/2025 - 23:52:00<br><b>Tipo de Incidente:</b> Vehículo Averiado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-7<br><b>Punto Kilométrico:</b> 339.0 km"
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:25:01<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> NA-4200<br><b>Punto Kilométrico:</b> 4.2 km"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.5457966,
-          39.44793
+          -1.61076,
+          42.83125
         ]
       }
     },
@@ -169227,6 +169565,19 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:45:08<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-611<br><b>Punto Kilométrico:</b> 184.6 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.04855,
+          43.35223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 16/12/2025 - 12:56:03<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> NA-6073<br><b>Punto Kilométrico:</b> 0.2 km"
       },
       "geometry": {
@@ -169234,6 +169585,19 @@
         "coordinates": [
           -1.676059,
           42.65854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:08:19<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> BU-V-1002<br><b>Punto Kilométrico:</b> 1.3 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7182934,
+          42.284504
         ]
       }
     },
@@ -169253,6 +169617,71 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:05:24<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> PO-344<br><b>Punto Kilométrico:</b> 12.3 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.746897,
+          42.072327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:03:57<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-340<br><b>Punto Kilométrico:</b> 721.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.67104,
+          38.27005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:04:40<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-340a<br><b>Punto Kilométrico:</b> 519.8 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.93953,
+          37.16573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:08:00<br><b>Tipo de Obstrucción:</b> Inundación<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> AL-8106<br><b>Punto Kilométrico:</b> 1.8 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.779643,
+          37.260445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 05:05:00<br><b>Tipo de Obstrucción:</b> Objeto en Calzada<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-3<br><b>Punto Kilométrico:</b> 291.6 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0641878,
+          39.484394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 09/07/2025 - 18:49:32<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> TE-V-9001<br><b>Punto Kilométrico:</b> 4.3 km"
       },
       "geometry": {
@@ -169463,6 +169892,45 @@
         "coordinates": [
           -1.402103,
           40.267094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:23:30<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-396<br><b>Punto Kilométrico:</b> 12.7 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.895903,
+          36.39836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:23:33<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> M-506<br><b>Punto Kilométrico:</b> 8.9 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84711,
+          40.32525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:25:00<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> MA-8300<br><b>Punto Kilométrico:</b> 1.1 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2217054,
+          36.389687
         ]
       }
     },
@@ -169476,6 +169944,19 @@
         "coordinates": [
           -2.2204194,
           42.21589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:25:20<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> DP-0501<br><b>Punto Kilométrico:</b> 0.1 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.46481,
+          43.33526
         ]
       }
     },
@@ -169562,6 +170043,32 @@
         "coordinates": [
           -0.8095989,
           38.18551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:22:05<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-260<br><b>Punto Kilométrico:</b> 443.7 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0705412,
+          42.44208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:23:08<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-92<br><b>Punto Kilométrico:</b> 8.6 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.858109,
+          37.354897
         ]
       }
     },
@@ -172908,6 +173415,19 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:15:43<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> LE-420<br><b>Punto Kilométrico:</b> 24.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8914566,
+          42.511818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 16/12/2024 - 11:08:55<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> GR-5209<br><b>Punto Kilométrico:</b> 1.0 km"
       },
       "geometry": {
@@ -173368,6 +173888,19 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:11:00<br><b>Tipo de Incidente:</b> Vehículo Averiado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CV-183<br><b>Punto Kilométrico:</b> 2.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.033707,
+          39.95272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 29/12/2025 - 07:00:00<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 587.7 km"
       },
       "geometry": {
@@ -173388,19 +173921,6 @@
         "coordinates": [
           -6.0050116,
           36.846718
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:13:43<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> AL-7107<br><b>Punto Kilométrico:</b> 2.6 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8108883,
-          37.22003
         ]
       }
     },
@@ -173534,19 +174054,6 @@
         "coordinates": [
           -5.754639,
           43.556068
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:14:27<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> TF-13<br><b>Punto Kilométrico:</b> 12.9 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -16.357937,
-          28.540997
         ]
       }
     },
@@ -184160,32 +184667,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 02:36:00<br><b>Tipo de Obstrucción:</b> Objeto en Calzada<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CV-41<br><b>Punto Kilométrico:</b> 11.7 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.4935729,
-          39.054348
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:16:45<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-332<br><b>Punto Kilométrico:</b> 231.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.21846,
-          39.03119
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 17/10/2025 - 13:05:10<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> N-340a<br><b>Punto Kilométrico:</b> 1052.4 km"
       },
       "geometry": {
@@ -184348,19 +184829,6 @@
         "coordinates": [
           0.464657,
           40.470922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:16:22<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-357<br><b>Punto Kilométrico:</b> 58.2 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.58002,
-          36.721
         ]
       }
     },
@@ -191766,19 +192234,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:41:23<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-68<br><b>Punto Kilométrico:</b> 258.2 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.07676,
-          41.73863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 16/12/2025 - 12:57:31<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> NA-6030<br><b>Punto Kilométrico:</b> 17.0 km"
       },
       "geometry": {
@@ -192014,19 +192469,6 @@
         "coordinates": [
           -3.72351,
           40.611954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:41:48<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> GR-3209<br><b>Punto Kilométrico:</b> 1.8 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.60358,
-          37.128216
         ]
       }
     },
@@ -192306,1415 +192748,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:03:55<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CV-909<br><b>Punto Kilométrico:</b> 5.4 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.8609834,
-          38.17703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:56:56<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-1<br><b>Tipo de Obstrucción:</b> Quitanieves en la via<br><b>Punto Kilométrico:</b> 83.0 km"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            -3.612386,
-            41.058047
-          ],
-          [
-            -3.611939,
-            41.058799
-          ],
-          [
-            -3.611408,
-            41.059717
-          ],
-          [
-            -3.610895,
-            41.060593
-          ],
-          [
-            -3.610386,
-            41.061463
-          ],
-          [
-            -3.609782,
-            41.062499
-          ],
-          [
-            -3.608646,
-            41.064436
-          ],
-          [
-            -3.607899,
-            41.0657
-          ],
-          [
-            -3.607198,
-            41.067038
-          ],
-          [
-            -3.607097,
-            41.067276
-          ],
-          [
-            -3.606667,
-            41.068413
-          ],
-          [
-            -3.606376,
-            41.069168
-          ],
-          [
-            -3.605964,
-            41.070236
-          ],
-          [
-            -3.605626,
-            41.071119
-          ],
-          [
-            -3.605036,
-            41.072658
-          ],
-          [
-            -3.604589,
-            41.073811
-          ],
-          [
-            -3.604287,
-            41.074602
-          ],
-          [
-            -3.604028,
-            41.075287
-          ],
-          [
-            -3.603929,
-            41.075542
-          ],
-          [
-            -3.603814,
-            41.075813
-          ],
-          [
-            -3.603501,
-            41.076408
-          ],
-          [
-            -3.603422,
-            41.076524
-          ],
-          [
-            -3.603328,
-            41.07667
-          ],
-          [
-            -3.603157,
-            41.076909
-          ],
-          [
-            -3.603024,
-            41.077073
-          ],
-          [
-            -3.60288,
-            41.077242
-          ],
-          [
-            -3.602742,
-            41.077397
-          ],
-          [
-            -3.602556,
-            41.077592
-          ],
-          [
-            -3.602444,
-            41.077691
-          ],
-          [
-            -3.602024,
-            41.078054
-          ],
-          [
-            -3.601656,
-            41.078343
-          ],
-          [
-            -3.601229,
-            41.078657
-          ],
-          [
-            -3.600679,
-            41.079069
-          ],
-          [
-            -3.600156,
-            41.079542
-          ],
-          [
-            -3.599795,
-            41.079913
-          ],
-          [
-            -3.599675,
-            41.08004
-          ],
-          [
-            -3.59902,
-            41.080777
-          ],
-          [
-            -3.598523,
-            41.081323
-          ],
-          [
-            -3.598201,
-            41.081725
-          ],
-          [
-            -3.597945,
-            41.08206
-          ],
-          [
-            -3.597685,
-            41.082405
-          ],
-          [
-            -3.597467,
-            41.082731
-          ],
-          [
-            -3.597324,
-            41.082952
-          ],
-          [
-            -3.596977,
-            41.083575
-          ],
-          [
-            -3.596814,
-            41.08389
-          ],
-          [
-            -3.596666,
-            41.084212
-          ],
-          [
-            -3.596421,
-            41.084792
-          ],
-          [
-            -3.596298,
-            41.085145
-          ],
-          [
-            -3.596175,
-            41.085538
-          ],
-          [
-            -3.596023,
-            41.086043
-          ],
-          [
-            -3.595862,
-            41.086633
-          ],
-          [
-            -3.595718,
-            41.08718
-          ],
-          [
-            -3.595615,
-            41.087651
-          ],
-          [
-            -3.595516,
-            41.088178
-          ],
-          [
-            -3.595468,
-            41.0886
-          ],
-          [
-            -3.595448,
-            41.088783
-          ],
-          [
-            -3.595375,
-            41.089361
-          ],
-          [
-            -3.595311,
-            41.089904
-          ],
-          [
-            -3.595276,
-            41.090189
-          ],
-          [
-            -3.595248,
-            41.090419
-          ],
-          [
-            -3.595181,
-            41.090996
-          ],
-          [
-            -3.59512,
-            41.091527
-          ],
-          [
-            -3.595041,
-            41.092108
-          ],
-          [
-            -3.594983,
-            41.092623
-          ],
-          [
-            -3.594929,
-            41.093106
-          ],
-          [
-            -3.594862,
-            41.093484
-          ],
-          [
-            -3.594792,
-            41.093796
-          ],
-          [
-            -3.594692,
-            41.0941
-          ],
-          [
-            -3.594593,
-            41.094366
-          ],
-          [
-            -3.594467,
-            41.094658
-          ],
-          [
-            -3.594317,
-            41.094942
-          ],
-          [
-            -3.594137,
-            41.095249
-          ],
-          [
-            -3.593915,
-            41.09557
-          ],
-          [
-            -3.593579,
-            41.096016
-          ],
-          [
-            -3.593154,
-            41.096563
-          ],
-          [
-            -3.592841,
-            41.096999
-          ],
-          [
-            -3.592647,
-            41.097316
-          ],
-          [
-            -3.592517,
-            41.097546
-          ],
-          [
-            -3.592396,
-            41.097793
-          ],
-          [
-            -3.59229,
-            41.098046
-          ],
-          [
-            -3.592149,
-            41.098377
-          ],
-          [
-            -3.592045,
-            41.09869
-          ],
-          [
-            -3.592015,
-            41.098876
-          ],
-          [
-            -3.591954,
-            41.099213
-          ],
-          [
-            -3.591932,
-            41.099589
-          ],
-          [
-            -3.591936,
-            41.099848
-          ],
-          [
-            -3.591942,
-            41.099934
-          ],
-          [
-            -3.591989,
-            41.100249
-          ],
-          [
-            -3.592047,
-            41.100553
-          ],
-          [
-            -3.592122,
-            41.100848
-          ],
-          [
-            -3.592264,
-            41.101279
-          ],
-          [
-            -3.592398,
-            41.101633
-          ],
-          [
-            -3.59248,
-            41.101921
-          ],
-          [
-            -3.59255,
-            41.102227
-          ],
-          [
-            -3.592602,
-            41.102547
-          ],
-          [
-            -3.592619,
-            41.102823
-          ],
-          [
-            -3.592613,
-            41.103103
-          ],
-          [
-            -3.592588,
-            41.103341
-          ],
-          [
-            -3.592544,
-            41.103585
-          ],
-          [
-            -3.592477,
-            41.103852
-          ],
-          [
-            -3.592384,
-            41.104115
-          ],
-          [
-            -3.592265,
-            41.104403
-          ],
-          [
-            -3.592138,
-            41.104643
-          ],
-          [
-            -3.591955,
-            41.104918
-          ],
-          [
-            -3.591775,
-            41.105157
-          ],
-          [
-            -3.591614,
-            41.105355
-          ],
-          [
-            -3.591426,
-            41.105549
-          ],
-          [
-            -3.59121,
-            41.105756
-          ],
-          [
-            -3.590956,
-            41.105961
-          ],
-          [
-            -3.590636,
-            41.106213
-          ],
-          [
-            -3.590179,
-            41.106538
-          ],
-          [
-            -3.589966,
-            41.106693
-          ],
-          [
-            -3.589692,
-            41.106917
-          ],
-          [
-            -3.589442,
-            41.107148
-          ],
-          [
-            -3.589121,
-            41.107518
-          ],
-          [
-            -3.588923,
-            41.107784
-          ],
-          [
-            -3.58873,
-            41.108098
-          ],
-          [
-            -3.588594,
-            41.108383
-          ],
-          [
-            -3.58848,
-            41.108677
-          ],
-          [
-            -3.588391,
-            41.108988
-          ],
-          [
-            -3.588347,
-            41.109305
-          ],
-          [
-            -3.588307,
-            41.109684
-          ],
-          [
-            -3.588295,
-            41.11006
-          ],
-          [
-            -3.588271,
-            41.110555
-          ],
-          [
-            -3.588225,
-            41.110997
-          ],
-          [
-            -3.588158,
-            41.111335
-          ],
-          [
-            -3.588099,
-            41.111608
-          ],
-          [
-            -3.588016,
-            41.111895
-          ],
-          [
-            -3.587953,
-            41.112095
-          ],
-          [
-            -3.587785,
-            41.112544
-          ],
-          [
-            -3.587602,
-            41.113035
-          ],
-          [
-            -3.587441,
-            41.113482
-          ],
-          [
-            -3.587316,
-            41.113897
-          ],
-          [
-            -3.587227,
-            41.114284
-          ],
-          [
-            -3.587154,
-            41.114642
-          ],
-          [
-            -3.587049,
-            41.115355
-          ],
-          [
-            -3.586967,
-            41.115949
-          ],
-          [
-            -3.586888,
-            41.116393
-          ],
-          [
-            -3.586814,
-            41.116724
-          ],
-          [
-            -3.586697,
-            41.11713
-          ],
-          [
-            -3.586594,
-            41.117467
-          ],
-          [
-            -3.58645,
-            41.117907
-          ],
-          [
-            -3.586349,
-            41.118293
-          ],
-          [
-            -3.586283,
-            41.118604
-          ],
-          [
-            -3.586248,
-            41.11888
-          ],
-          [
-            -3.586222,
-            41.119161
-          ],
-          [
-            -3.586207,
-            41.119348
-          ],
-          [
-            -3.58619,
-            41.120033
-          ],
-          [
-            -3.586188,
-            41.120636
-          ],
-          [
-            -3.586148,
-            41.121005
-          ],
-          [
-            -3.586094,
-            41.121328
-          ],
-          [
-            -3.586022,
-            41.121647
-          ],
-          [
-            -3.585918,
-            41.121959
-          ],
-          [
-            -3.585784,
-            41.122284
-          ],
-          [
-            -3.585657,
-            41.122564
-          ],
-          [
-            -3.585493,
-            41.122835
-          ],
-          [
-            -3.585404,
-            41.122979
-          ],
-          [
-            -3.585359,
-            41.123054
-          ],
-          [
-            -3.585176,
-            41.123316
-          ],
-          [
-            -3.584976,
-            41.123562
-          ],
-          [
-            -3.584672,
-            41.123924
-          ],
-          [
-            -3.584332,
-            41.124314
-          ],
-          [
-            -3.584086,
-            41.124592
-          ],
-          [
-            -3.583912,
-            41.124826
-          ],
-          [
-            -3.583771,
-            41.12503
-          ],
-          [
-            -3.58366,
-            41.125231
-          ],
-          [
-            -3.583486,
-            41.125581
-          ],
-          [
-            -3.583341,
-            41.125943
-          ],
-          [
-            -3.583284,
-            41.126144
-          ],
-          [
-            -3.583241,
-            41.126317
-          ],
-          [
-            -3.583202,
-            41.126479
-          ],
-          [
-            -3.583175,
-            41.126677
-          ],
-          [
-            -3.58316,
-            41.126904
-          ],
-          [
-            -3.58315,
-            41.127085
-          ],
-          [
-            -3.583153,
-            41.127419
-          ],
-          [
-            -3.58319,
-            41.127807
-          ],
-          [
-            -3.583229,
-            41.128036
-          ],
-          [
-            -3.583329,
-            41.128398
-          ],
-          [
-            -3.583488,
-            41.128816
-          ],
-          [
-            -3.583603,
-            41.129067
-          ],
-          [
-            -3.58373,
-            41.129439
-          ],
-          [
-            -3.583786,
-            41.129632
-          ],
-          [
-            -3.583851,
-            41.12989
-          ],
-          [
-            -3.583916,
-            41.130265
-          ],
-          [
-            -3.583931,
-            41.130539
-          ],
-          [
-            -3.58392,
-            41.130882
-          ],
-          [
-            -3.583895,
-            41.131126
-          ],
-          [
-            -3.583852,
-            41.13133
-          ],
-          [
-            -3.58365,
-            41.132136
-          ],
-          [
-            -3.582695,
-            41.134897
-          ],
-          [
-            -3.582417,
-            41.135702
-          ],
-          [
-            -3.582165,
-            41.136591
-          ],
-          [
-            -3.582022,
-            41.13732
-          ],
-          [
-            -3.58198,
-            41.137569
-          ],
-          [
-            -3.58189,
-            41.138102
-          ],
-          [
-            -3.581756,
-            41.138677
-          ],
-          [
-            -3.581657,
-            41.139034
-          ],
-          [
-            -3.581427,
-            41.139691
-          ],
-          [
-            -3.581324,
-            41.139995
-          ],
-          [
-            -3.581279,
-            41.140143
-          ],
-          [
-            -3.581243,
-            41.140263
-          ],
-          [
-            -3.581142,
-            41.140668
-          ],
-          [
-            -3.581116,
-            41.140847
-          ],
-          [
-            -3.581091,
-            41.141088
-          ],
-          [
-            -3.581072,
-            41.141371
-          ],
-          [
-            -3.581073,
-            41.141711
-          ],
-          [
-            -3.581089,
-            41.141951
-          ],
-          [
-            -3.58112,
-            41.142171
-          ],
-          [
-            -3.581151,
-            41.142333
-          ],
-          [
-            -3.581209,
-            41.142587
-          ],
-          [
-            -3.581274,
-            41.142831
-          ],
-          [
-            -3.581382,
-            41.143147
-          ],
-          [
-            -3.581514,
-            41.143461
-          ],
-          [
-            -3.581777,
-            41.144017
-          ],
-          [
-            -3.582154,
-            41.144751
-          ],
-          [
-            -3.582601,
-            41.145642
-          ],
-          [
-            -3.582975,
-            41.146403
-          ],
-          [
-            -3.583081,
-            41.146669
-          ],
-          [
-            -3.583273,
-            41.147218
-          ],
-          [
-            -3.583357,
-            41.14756
-          ],
-          [
-            -3.583412,
-            41.147857
-          ],
-          [
-            -3.583462,
-            41.148306
-          ],
-          [
-            -3.583535,
-            41.148937
-          ],
-          [
-            -3.583622,
-            41.149598
-          ],
-          [
-            -3.583697,
-            41.150129
-          ],
-          [
-            -3.583772,
-            41.15046
-          ],
-          [
-            -3.583875,
-            41.150892
-          ],
-          [
-            -3.584018,
-            41.151493
-          ],
-          [
-            -3.584097,
-            41.151803
-          ],
-          [
-            -3.584206,
-            41.152253
-          ],
-          [
-            -3.584277,
-            41.15255
-          ],
-          [
-            -3.584379,
-            41.153041
-          ],
-          [
-            -3.58444,
-            41.153451
-          ],
-          [
-            -3.584483,
-            41.153762
-          ],
-          [
-            -3.584526,
-            41.154332
-          ],
-          [
-            -3.584543,
-            41.154841
-          ],
-          [
-            -3.584542,
-            41.155169
-          ],
-          [
-            -3.584536,
-            41.155429
-          ],
-          [
-            -3.584499,
-            41.15607
-          ],
-          [
-            -3.584447,
-            41.156662
-          ],
-          [
-            -3.584392,
-            41.157286
-          ],
-          [
-            -3.584344,
-            41.157703
-          ],
-          [
-            -3.584255,
-            41.158256
-          ],
-          [
-            -3.584166,
-            41.15861
-          ],
-          [
-            -3.584055,
-            41.158985
-          ],
-          [
-            -3.583946,
-            41.159294
-          ],
-          [
-            -3.583726,
-            41.159772
-          ],
-          [
-            -3.583527,
-            41.160154
-          ],
-          [
-            -3.583198,
-            41.160723
-          ],
-          [
-            -3.582964,
-            41.16113
-          ],
-          [
-            -3.582802,
-            41.161449
-          ],
-          [
-            -3.582514,
-            41.162067
-          ],
-          [
-            -3.582144,
-            41.162895
-          ],
-          [
-            -3.581828,
-            41.163625
-          ],
-          [
-            -3.581603,
-            41.164145
-          ],
-          [
-            -3.581568,
-            41.164228
-          ],
-          [
-            -3.581334,
-            41.164704
-          ],
-          [
-            -3.581179,
-            41.165002
-          ],
-          [
-            -3.581155,
-            41.165041
-          ],
-          [
-            -3.580996,
-            41.16531
-          ],
-          [
-            -3.580596,
-            41.165922
-          ],
-          [
-            -3.580339,
-            41.166345
-          ],
-          [
-            -3.580171,
-            41.166707
-          ],
-          [
-            -3.580063,
-            41.167005
-          ],
-          [
-            -3.579985,
-            41.167297
-          ],
-          [
-            -3.579902,
-            41.167726
-          ],
-          [
-            -3.579828,
-            41.168125
-          ],
-          [
-            -3.57978,
-            41.168386
-          ],
-          [
-            -3.579651,
-            41.169151
-          ],
-          [
-            -3.579529,
-            41.169896
-          ],
-          [
-            -3.579408,
-            41.17059
-          ],
-          [
-            -3.579327,
-            41.171048
-          ],
-          [
-            -3.579266,
-            41.171531
-          ],
-          [
-            -3.579248,
-            41.171973
-          ],
-          [
-            -3.579275,
-            41.172351
-          ],
-          [
-            -3.579392,
-            41.172985
-          ],
-          [
-            -3.579524,
-            41.173714
-          ],
-          [
-            -3.579648,
-            41.174372
-          ],
-          [
-            -3.579743,
-            41.174791
-          ],
-          [
-            -3.579879,
-            41.175203
-          ],
-          [
-            -3.580037,
-            41.175531
-          ],
-          [
-            -3.580169,
-            41.175765
-          ],
-          [
-            -3.580389,
-            41.176068
-          ],
-          [
-            -3.580648,
-            41.176393
-          ],
-          [
-            -3.580948,
-            41.176684
-          ],
-          [
-            -3.581519,
-            41.177209
-          ],
-          [
-            -3.581795,
-            41.177492
-          ],
-          [
-            -3.582013,
-            41.177739
-          ],
-          [
-            -3.582145,
-            41.177899
-          ],
-          [
-            -3.582299,
-            41.178132
-          ],
-          [
-            -3.582486,
-            41.178441
-          ],
-          [
-            -3.582673,
-            41.17878
-          ],
-          [
-            -3.58291,
-            41.179213
-          ],
-          [
-            -3.583302,
-            41.179929
-          ],
-          [
-            -3.58366,
-            41.180617
-          ],
-          [
-            -3.583839,
-            41.181029
-          ],
-          [
-            -3.583894,
-            41.181172
-          ],
-          [
-            -3.583999,
-            41.181456
-          ],
-          [
-            -3.584142,
-            41.181863
-          ],
-          [
-            -3.584252,
-            41.182188
-          ],
-          [
-            -3.584365,
-            41.182511
-          ],
-          [
-            -3.584464,
-            41.182808
-          ],
-          [
-            -3.584523,
-            41.182994
-          ],
-          [
-            -3.584608,
-            41.18328
-          ],
-          [
-            -3.584693,
-            41.183618
-          ],
-          [
-            -3.584728,
-            41.183786
-          ],
-          [
-            -3.584752,
-            41.183913
-          ],
-          [
-            -3.584771,
-            41.184039
-          ],
-          [
-            -3.584799,
-            41.184222
-          ],
-          [
-            -3.584813,
-            41.184343
-          ],
-          [
-            -3.584821,
-            41.18441
-          ],
-          [
-            -3.584827,
-            41.184469
-          ],
-          [
-            -3.58484,
-            41.184632
-          ],
-          [
-            -3.584849,
-            41.184797
-          ],
-          [
-            -3.584855,
-            41.184951
-          ],
-          [
-            -3.584855,
-            41.185184
-          ],
-          [
-            -3.58485,
-            41.185389
-          ],
-          [
-            -3.584842,
-            41.185529
-          ],
-          [
-            -3.584817,
-            41.185822
-          ],
-          [
-            -3.584785,
-            41.186135
-          ],
-          [
-            -3.584718,
-            41.186594
-          ],
-          [
-            -3.584633,
-            41.187192
-          ],
-          [
-            -3.584579,
-            41.187651
-          ],
-          [
-            -3.584562,
-            41.187958
-          ],
-          [
-            -3.584551,
-            41.188419
-          ],
-          [
-            -3.584564,
-            41.188718
-          ],
-          [
-            -3.584585,
-            41.188989
-          ],
-          [
-            -3.58462,
-            41.189318
-          ],
-          [
-            -3.584713,
-            41.190074
-          ],
-          [
-            -3.584736,
-            41.190375
-          ],
-          [
-            -3.584766,
-            41.190838
-          ],
-          [
-            -3.584753,
-            41.19129
-          ],
-          [
-            -3.584732,
-            41.191568
-          ],
-          [
-            -3.584686,
-            41.191971
-          ],
-          [
-            -3.584657,
-            41.192118
-          ],
-          [
-            -3.584603,
-            41.192426
-          ],
-          [
-            -3.584509,
-            41.192824
-          ],
-          [
-            -3.58439,
-            41.193177
-          ],
-          [
-            -3.584237,
-            41.193579
-          ],
-          [
-            -3.584062,
-            41.19398
-          ],
-          [
-            -3.583843,
-            41.194406
-          ],
-          [
-            -3.583605,
-            41.194818
-          ],
-          [
-            -3.583581,
-            41.194854
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:56:56<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-1<br><b>Tipo de Obstrucción:</b> Quitanieves en la via<br><b>Punto Kilométrico:</b> 83.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.583175,
-          41.126677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 19/08/2025 - 14:00:37<br><b>Dirección:</b> Decreciente<br><b>Aviso:</b> Itinerario alternativo<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-67<br><b>Punto Kilométrico:</b> 188.6 km"
       },
       "geometry": {
@@ -193948,32 +192981,6 @@
         "coordinates": [
           -5.906222,
           43.548546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:57:52<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-331<br><b>Punto Kilométrico:</b> 42.8 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.6666617,
-          37.59704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:00:33<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> Ma-19A<br><b>Punto Kilométrico:</b> 24.9 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.9002984,
-          39.48785
         ]
       }
     },
@@ -194891,71 +193898,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:10:04<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> TF-1<br><b>Punto Kilométrico:</b> 33.8 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -16.421427,
-          28.2149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:10:16<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> MA-20<br><b>Punto Kilométrico:</b> 4.1 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.46575,
-          36.67308
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:09:10<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> AC-14AL<br><b>Punto Kilométrico:</b> 2.6 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.377415,
-          43.305984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:11:01<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> TF-66<br><b>Punto Kilométrico:</b> 7.4 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -16.67995,
-          28.03527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:10:17<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-344<br><b>Punto Kilométrico:</b> 3.9 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3994575,
-          37.302048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:06:58<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-611<br><b>Punto Kilométrico:</b> 138.0 km"
       },
       "geometry": {
@@ -195034,19 +193976,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:07:25<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-432<br><b>Punto Kilométrico:</b> 101.9 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.120493,
-          38.31023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 16/07/2024 - 16:39:38<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> EX-205<br><b>Punto Kilométrico:</b> 40.2 km"
       },
       "geometry": {
@@ -195117,19 +194046,6 @@
         "coordinates": [
           -6.6851,
           40.183508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:27:47<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CT-31<br><b>Punto Kilométrico:</b> 2.3 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0271583,
-          37.645493
         ]
       }
     },
@@ -196095,1282 +195011,6 @@
         "coordinates": [
           -5.5303,
           43.448505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:01:51<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-31<br><b>Tipo de Obstrucción:</b> Niebla<br><b>Tipo de Obstrucción:</b> Niebla<br><b>Punto Kilométrico:</b> 33.0 km"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            -2.196685,
-            39.237269
-          ],
-          [
-            -2.196815,
-            39.237501
-          ],
-          [
-            -2.197748,
-            39.239288
-          ],
-          [
-            -2.198477,
-            39.240778
-          ],
-          [
-            -2.199137,
-            39.242199
-          ],
-          [
-            -2.199674,
-            39.243409
-          ],
-          [
-            -2.200104,
-            39.244421
-          ],
-          [
-            -2.200516,
-            39.24544
-          ],
-          [
-            -2.201088,
-            39.246921
-          ],
-          [
-            -2.201949,
-            39.249344
-          ],
-          [
-            -2.202032,
-            39.249723
-          ],
-          [
-            -2.202298,
-            39.250538
-          ],
-          [
-            -2.202759,
-            39.251965
-          ],
-          [
-            -2.203254,
-            39.253545
-          ],
-          [
-            -2.203821,
-            39.255671
-          ],
-          [
-            -2.204308,
-            39.257844
-          ],
-          [
-            -2.204643,
-            39.259591
-          ],
-          [
-            -2.204955,
-            39.261352
-          ],
-          [
-            -2.205219,
-            39.263208
-          ],
-          [
-            -2.205437,
-            39.265084
-          ],
-          [
-            -2.205602,
-            39.267141
-          ],
-          [
-            -2.205631,
-            39.269224
-          ],
-          [
-            -2.205583,
-            39.270844
-          ],
-          [
-            -2.205233,
-            39.275645
-          ],
-          [
-            -2.204617,
-            39.283479
-          ],
-          [
-            -2.204468,
-            39.285254
-          ],
-          [
-            -2.204306,
-            39.286523
-          ],
-          [
-            -2.204041,
-            39.288093
-          ],
-          [
-            -2.203707,
-            39.289613
-          ],
-          [
-            -2.203292,
-            39.291201
-          ],
-          [
-            -2.202838,
-            39.292709
-          ],
-          [
-            -2.20249,
-            39.293947
-          ],
-          [
-            -2.202295,
-            39.294722
-          ],
-          [
-            -2.202099,
-            39.295744
-          ],
-          [
-            -2.201872,
-            39.297144
-          ],
-          [
-            -2.201721,
-            39.298541
-          ],
-          [
-            -2.201633,
-            39.300014
-          ],
-          [
-            -2.201621,
-            39.301189
-          ],
-          [
-            -2.201652,
-            39.302319
-          ],
-          [
-            -2.201741,
-            39.303491
-          ],
-          [
-            -2.201872,
-            39.304654
-          ],
-          [
-            -2.202086,
-            39.306033
-          ],
-          [
-            -2.202279,
-            39.306959
-          ],
-          [
-            -2.20275,
-            39.308956
-          ],
-          [
-            -2.202979,
-            39.310126
-          ],
-          [
-            -2.20316,
-            39.311282
-          ],
-          [
-            -2.203335,
-            39.312539
-          ],
-          [
-            -2.203434,
-            39.313824
-          ],
-          [
-            -2.203493,
-            39.314735
-          ],
-          [
-            -2.203529,
-            39.315811
-          ],
-          [
-            -2.203525,
-            39.316524
-          ],
-          [
-            -2.203529,
-            39.316943
-          ],
-          [
-            -2.203527,
-            39.317043
-          ],
-          [
-            -2.20351,
-            39.317802
-          ],
-          [
-            -2.203481,
-            39.318277
-          ],
-          [
-            -2.203426,
-            39.319088
-          ],
-          [
-            -2.203376,
-            39.319667
-          ],
-          [
-            -2.203239,
-            39.320895
-          ],
-          [
-            -2.203067,
-            39.321998
-          ],
-          [
-            -2.20288,
-            39.323076
-          ],
-          [
-            -2.202611,
-            39.32434
-          ],
-          [
-            -2.202491,
-            39.324854
-          ],
-          [
-            -2.202188,
-            39.325936
-          ],
-          [
-            -2.201999,
-            39.32664
-          ],
-          [
-            -2.201763,
-            39.327359
-          ],
-          [
-            -2.201422,
-            39.328368
-          ],
-          [
-            -2.200916,
-            39.329901
-          ],
-          [
-            -2.200478,
-            39.331431
-          ],
-          [
-            -2.200023,
-            39.333332
-          ],
-          [
-            -2.19973,
-            39.334984
-          ],
-          [
-            -2.199441,
-            39.337403
-          ],
-          [
-            -2.199321,
-            39.339354
-          ],
-          [
-            -2.199328,
-            39.340727
-          ],
-          [
-            -2.199354,
-            39.342132
-          ],
-          [
-            -2.199446,
-            39.343414
-          ],
-          [
-            -2.199567,
-            39.344613
-          ],
-          [
-            -2.199684,
-            39.345427
-          ],
-          [
-            -2.199774,
-            39.345935
-          ],
-          [
-            -2.199828,
-            39.346242
-          ],
-          [
-            -2.20002,
-            39.346973
-          ],
-          [
-            -2.200238,
-            39.347702
-          ],
-          [
-            -2.200552,
-            39.348553
-          ],
-          [
-            -2.200916,
-            39.349396
-          ],
-          [
-            -2.201431,
-            39.350411
-          ],
-          [
-            -2.202328,
-            39.351952
-          ],
-          [
-            -2.202995,
-            39.353155
-          ],
-          [
-            -2.203354,
-            39.353906
-          ],
-          [
-            -2.203581,
-            39.354439
-          ],
-          [
-            -2.203975,
-            39.355656
-          ],
-          [
-            -2.203948,
-            39.355748
-          ],
-          [
-            -2.20398,
-            39.355989
-          ],
-          [
-            -2.204008,
-            39.356519
-          ],
-          [
-            -2.203846,
-            39.359072
-          ],
-          [
-            -2.203798,
-            39.359307
-          ],
-          [
-            -2.203832,
-            39.359458
-          ],
-          [
-            -2.203887,
-            39.359527
-          ],
-          [
-            -2.203933,
-            39.359545
-          ],
-          [
-            -2.203991,
-            39.359568
-          ],
-          [
-            -2.204149,
-            39.359484
-          ],
-          [
-            -2.204902,
-            39.359058
-          ],
-          [
-            -2.205057,
-            39.358973
-          ],
-          [
-            -2.205238,
-            39.358881
-          ],
-          [
-            -2.205221,
-            39.358749
-          ],
-          [
-            -2.205115,
-            39.358428
-          ],
-          [
-            -2.204524,
-            39.356579
-          ],
-          [
-            -2.20432,
-            39.355901
-          ],
-          [
-            -2.204259,
-            39.355706
-          ],
-          [
-            -2.204141,
-            39.355549
-          ],
-          [
-            -2.20377,
-            39.354412
-          ],
-          [
-            -2.203258,
-            39.353286
-          ],
-          [
-            -2.20249,
-            39.351902
-          ],
-          [
-            -2.201598,
-            39.350349
-          ],
-          [
-            -2.20109,
-            39.349346
-          ],
-          [
-            -2.200728,
-            39.348518
-          ],
-          [
-            -2.200423,
-            39.347663
-          ],
-          [
-            -2.200201,
-            39.346955
-          ],
-          [
-            -2.20001,
-            39.346198
-          ],
-          [
-            -2.199868,
-            39.3454
-          ],
-          [
-            -2.199747,
-            39.344596
-          ],
-          [
-            -2.199624,
-            39.343413
-          ],
-          [
-            -2.199535,
-            39.342141
-          ],
-          [
-            -2.199516,
-            39.340721
-          ],
-          [
-            -2.199525,
-            39.33935
-          ],
-          [
-            -2.199627,
-            39.337414
-          ],
-          [
-            -2.199854,
-            39.335453
-          ],
-          [
-            -2.199912,
-            39.335007
-          ],
-          [
-            -2.200208,
-            39.333345
-          ],
-          [
-            -2.200659,
-            39.331459
-          ],
-          [
-            -2.201094,
-            39.329934
-          ],
-          [
-            -2.201609,
-            39.328396
-          ],
-          [
-            -2.20208,
-            39.327017
-          ],
-          [
-            -2.202332,
-            39.326169
-          ],
-          [
-            -2.202389,
-            39.325965
-          ],
-          [
-            -2.202804,
-            39.324349
-          ],
-          [
-            -2.203069,
-            39.323094
-          ],
-          [
-            -2.20327,
-            39.32201
-          ],
-          [
-            -2.203428,
-            39.320901
-          ],
-          [
-            -2.203569,
-            39.319673
-          ],
-          [
-            -2.203614,
-            39.319104
-          ],
-          [
-            -2.203659,
-            39.318474
-          ],
-          [
-            -2.203689,
-            39.317922
-          ],
-          [
-            -2.203717,
-            39.317087
-          ],
-          [
-            -2.20372,
-            39.317044
-          ],
-          [
-            -2.203715,
-            39.315822
-          ],
-          [
-            -2.203679,
-            39.31473
-          ],
-          [
-            -2.203621,
-            39.31383
-          ],
-          [
-            -2.203508,
-            39.312537
-          ],
-          [
-            -2.203344,
-            39.311253
-          ],
-          [
-            -2.203157,
-            39.310095
-          ],
-          [
-            -2.202926,
-            39.308937
-          ],
-          [
-            -2.202442,
-            39.306916
-          ],
-          [
-            -2.202265,
-            39.305981
-          ],
-          [
-            -2.202056,
-            39.30462
-          ],
-          [
-            -2.20192,
-            39.303466
-          ],
-          [
-            -2.201834,
-            39.302322
-          ],
-          [
-            -2.2018,
-            39.301174
-          ],
-          [
-            -2.201812,
-            39.300017
-          ],
-          [
-            -2.201909,
-            39.298555
-          ],
-          [
-            -2.202056,
-            39.29716
-          ],
-          [
-            -2.202272,
-            39.295774
-          ],
-          [
-            -2.202478,
-            39.294762
-          ],
-          [
-            -2.202682,
-            39.293947
-          ],
-          [
-            -2.203007,
-            39.292738
-          ],
-          [
-            -2.203483,
-            39.291226
-          ],
-          [
-            -2.203889,
-            39.289639
-          ],
-          [
-            -2.204225,
-            39.288103
-          ],
-          [
-            -2.204491,
-            39.286538
-          ],
-          [
-            -2.204651,
-            39.28526
-          ],
-          [
-            -2.204812,
-            39.283482
-          ],
-          [
-            -2.205785,
-            39.270869
-          ],
-          [
-            -2.205842,
-            39.269213
-          ],
-          [
-            -2.205796,
-            39.267151
-          ],
-          [
-            -2.205623,
-            39.265067
-          ],
-          [
-            -2.205188,
-            39.261325
-          ],
-          [
-            -2.205022,
-            39.259563
-          ],
-          [
-            -2.204796,
-            39.257792
-          ],
-          [
-            -2.204616,
-            39.256695
-          ],
-          [
-            -2.204376,
-            39.255586
-          ],
-          [
-            -2.204056,
-            39.254264
-          ],
-          [
-            -2.203693,
-            39.252937
-          ],
-          [
-            -2.203422,
-            39.252081
-          ],
-          [
-            -2.203119,
-            39.251187
-          ],
-          [
-            -2.202779,
-            39.250303
-          ],
-          [
-            -2.202422,
-            39.24942
-          ],
-          [
-            -2.2018,
-            39.247919
-          ],
-          [
-            -2.201526,
-            39.24725
-          ],
-          [
-            -2.201382,
-            39.246987
-          ],
-          [
-            -2.200748,
-            39.245372
-          ],
-          [
-            -2.199894,
-            39.243328
-          ],
-          [
-            -2.198969,
-            39.241307
-          ],
-          [
-            -2.1988,
-            39.240955
-          ],
-          [
-            -2.19794,
-            39.239225
-          ],
-          [
-            -2.197487,
-            39.238373
-          ],
-          [
-            -2.196974,
-            39.237418
-          ],
-          [
-            -2.196155,
-            39.235966
-          ],
-          [
-            -2.195381,
-            39.234696
-          ],
-          [
-            -2.194559,
-            39.233434
-          ],
-          [
-            -2.193574,
-            39.232014
-          ],
-          [
-            -2.192548,
-            39.230642
-          ],
-          [
-            -2.191307,
-            39.229097
-          ],
-          [
-            -2.191034,
-            39.228781
-          ],
-          [
-            -2.190625,
-            39.228293
-          ],
-          [
-            -2.190422,
-            39.228038
-          ],
-          [
-            -2.190179,
-            39.227761
-          ],
-          [
-            -2.189392,
-            39.226891
-          ],
-          [
-            -2.189172,
-            39.226682
-          ],
-          [
-            -2.188484,
-            39.225953
-          ],
-          [
-            -2.187411,
-            39.224878
-          ],
-          [
-            -2.186138,
-            39.223667
-          ],
-          [
-            -2.185075,
-            39.222705
-          ],
-          [
-            -2.184242,
-            39.221984
-          ],
-          [
-            -2.183692,
-            39.221516
-          ],
-          [
-            -2.182291,
-            39.220396
-          ],
-          [
-            -2.180825,
-            39.219274
-          ],
-          [
-            -2.179326,
-            39.218199
-          ],
-          [
-            -2.177765,
-            39.217141
-          ],
-          [
-            -2.176139,
-            39.216108
-          ],
-          [
-            -2.174792,
-            39.215297
-          ],
-          [
-            -2.173904,
-            39.214795
-          ],
-          [
-            -2.173416,
-            39.214545
-          ],
-          [
-            -2.172963,
-            39.214344
-          ],
-          [
-            -2.172464,
-            39.214146
-          ],
-          [
-            -2.171671,
-            39.213908
-          ],
-          [
-            -2.171082,
-            39.213764
-          ],
-          [
-            -2.170766,
-            39.213704
-          ],
-          [
-            -2.170359,
-            39.213647
-          ],
-          [
-            -2.169754,
-            39.213583
-          ],
-          [
-            -2.168817,
-            39.213555
-          ],
-          [
-            -2.166727,
-            39.213613
-          ],
-          [
-            -2.1658,
-            39.21367
-          ],
-          [
-            -2.165161,
-            39.213742
-          ],
-          [
-            -2.164114,
-            39.213931
-          ],
-          [
-            -2.163127,
-            39.214222
-          ],
-          [
-            -2.162616,
-            39.214416
-          ],
-          [
-            -2.162143,
-            39.214615
-          ],
-          [
-            -2.160377,
-            39.215393
-          ],
-          [
-            -2.159705,
-            39.215609
-          ],
-          [
-            -2.159232,
-            39.215739
-          ],
-          [
-            -2.158733,
-            39.215846
-          ],
-          [
-            -2.158261,
-            39.215933
-          ],
-          [
-            -2.15795,
-            39.215971
-          ],
-          [
-            -2.157032,
-            39.21604
-          ],
-          [
-            -2.156186,
-            39.216058
-          ],
-          [
-            -2.155743,
-            39.216039
-          ],
-          [
-            -2.155439,
-            39.216027
-          ],
-          [
-            -2.154586,
-            39.215909
-          ],
-          [
-            -2.153947,
-            39.215791
-          ],
-          [
-            -2.153292,
-            39.215621
-          ],
-          [
-            -2.152713,
-            39.215441
-          ],
-          [
-            -2.152166,
-            39.215243
-          ],
-          [
-            -2.151871,
-            39.215111
-          ],
-          [
-            -2.151569,
-            39.214975
-          ],
-          [
-            -2.151143,
-            39.214752
-          ],
-          [
-            -2.150694,
-            39.214492
-          ],
-          [
-            -2.149971,
-            39.213996
-          ],
-          [
-            -2.14949,
-            39.213603
-          ],
-          [
-            -2.149065,
-            39.213208
-          ],
-          [
-            -2.148643,
-            39.212726
-          ],
-          [
-            -2.148449,
-            39.212476
-          ],
-          [
-            -2.148058,
-            39.21189
-          ],
-          [
-            -2.148015,
-            39.21181
-          ],
-          [
-            -2.147859,
-            39.211547
-          ],
-          [
-            -2.147657,
-            39.211119
-          ],
-          [
-            -2.147494,
-            39.21069
-          ],
-          [
-            -2.146634,
-            39.208038
-          ],
-          [
-            -2.145267,
-            39.203821
-          ],
-          [
-            -2.145083,
-            39.20325
-          ],
-          [
-            -2.144784,
-            39.202397
-          ],
-          [
-            -2.144685,
-            39.202168
-          ],
-          [
-            -2.144444,
-            39.201673
-          ],
-          [
-            -2.144289,
-            39.201413
-          ],
-          [
-            -2.144109,
-            39.201153
-          ],
-          [
-            -2.143727,
-            39.200638
-          ],
-          [
-            -2.142187,
-            39.198923
-          ],
-          [
-            -2.140119,
-            39.196665
-          ],
-          [
-            -2.139187,
-            39.195796
-          ],
-          [
-            -2.138563,
-            39.195338
-          ],
-          [
-            -2.136546,
-            39.19416
-          ],
-          [
-            -2.133536,
-            39.192425
-          ],
-          [
-            -2.120431,
-            39.18484
-          ],
-          [
-            -2.115342,
-            39.181897
-          ],
-          [
-            -2.115044,
-            39.181722
-          ],
-          [
-            -2.111352,
-            39.179584
-          ],
-          [
-            -2.10206,
-            39.174208
-          ],
-          [
-            -2.092783,
-            39.168835
-          ],
-          [
-            -2.083477,
-            39.163447
-          ],
-          [
-            -2.074198,
-            39.158083
-          ],
-          [
-            -2.066329,
-            39.153512
-          ],
-          [
-            -2.064855,
-            39.152666
-          ],
-          [
-            -2.061628,
-            39.150794
-          ],
-          [
-            -2.058292,
-            39.148862
-          ],
-          [
-            -2.056825,
-            39.148014
-          ],
-          [
-            -2.055641,
-            39.147329
-          ],
-          [
-            -2.05511,
-            39.147022
-          ],
-          [
-            -2.051771,
-            39.145076
-          ],
-          [
-            -2.049538,
-            39.14379
-          ],
-          [
-            -2.049074,
-            39.14352
-          ],
-          [
-            -2.041122,
-            39.138909
-          ],
-          [
-            -2.039141,
-            39.137763
-          ],
-          [
-            -2.036875,
-            39.136448
-          ],
-          [
-            -2.036813,
-            39.136412
-          ],
-          [
-            -2.033982,
-            39.134766
-          ],
-          [
-            -2.027819,
-            39.131194
-          ],
-          [
-            -2.023598,
-            39.128747
-          ],
-          [
-            -2.021293,
-            39.127406
-          ],
-          [
-            -2.019052,
-            39.126097
-          ],
-          [
-            -2.018377,
-            39.125716
-          ],
-          [
-            -2.01671,
-            39.124748
-          ],
-          [
-            -2.014105,
-            39.123259
-          ],
-          [
-            -2.012462,
-            39.122461
-          ],
-          [
-            -2.011326,
-            39.12196
-          ],
-          [
-            -2.008787,
-            39.12091
-          ],
-          [
-            -2.00873,
-            39.120886
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:01:51<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-31<br><b>Tipo de Obstrucción:</b> Niebla<br><b>Tipo de Obstrucción:</b> Niebla<br><b>Punto Kilométrico:</b> 33.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.201812,
-          39.300017
         ]
       }
     },
@@ -200056,19 +197696,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:38:46<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> M-40<br><b>Punto Kilométrico:</b> 12.2 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.60377,
-          40.4205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 16/12/2025 - 13:06:56<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> NA-8604<br><b>Punto Kilométrico:</b> 1.0 km"
       },
       "geometry": {
@@ -200457,45 +198084,6 @@
         "coordinates": [
           -1.9358243,
           37.616375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:39:14<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CA-142<br><b>Punto Kilométrico:</b> 1.3 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.829151,
-          43.387985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:13:40<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> DESCONOCIDA<br><b>Punto Kilométrico:</b> 10.6 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.988746,
-          37.247475
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:17:44<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> DP-0501<br><b>Punto Kilométrico:</b> 0.1 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.46481,
-          43.33522
         ]
       }
     },
@@ -202670,32 +200258,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:22:57<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CM-412<br><b>Punto Kilométrico:</b> 154.5 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.6921418,
-          38.69575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:24:16<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 797.3 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.873647,
-          37.681602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 29/12/2025 - 09:00:00<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-3<br><b>Punto Kilométrico:</b> 338.0 km"
       },
       "geometry": {
@@ -202761,19 +200323,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:25:33<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-332<br><b>Punto Kilométrico:</b> 255.1 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.3107841,
-          39.197845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 25/12/2025 - 21:00:00<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> FV-2<br><b>Punto Kilométrico:</b> 14.1 km"
       },
       "geometry": {
@@ -202781,19 +200330,6 @@
         "coordinates": [
           -13.874235,
           28.366768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:25:28<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> NV-3<br><b>Punto Kilométrico:</b> 0.3 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.71579,
-          43.540096
         ]
       }
     },
@@ -206221,19 +203757,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:48:44<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-4<br><b>Punto Kilométrico:</b> 513.9 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.7116385,
-          37.469185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 09/10/2025 - 13:15:07<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-521<br><b>Punto Kilométrico:</b> 55.0 km"
       },
       "geometry": {
@@ -206247,58 +203770,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:44:43<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> AP-2<br><b>Punto Kilométrico:</b> 26.9 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.6237483,
-          41.564346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:48:39<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CL-631<br><b>Punto Kilométrico:</b> 12.3 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.5796366,
-          42.673866
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:47:59<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> DP-9202<br><b>Punto Kilométrico:</b> 0.6 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.119455,
-          43.13117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:44:40<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-322<br><b>Punto Kilométrico:</b> 367.1 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.800005,
-          39.0973
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 23/12/2025 - 22:00:00<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> M-40<br><b>Punto Kilométrico:</b> 1.9 km"
       },
       "geometry": {
@@ -206306,19 +203777,6 @@
         "coordinates": [
           -3.6469102,
           40.496296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:43:25<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-42<br><b>Punto Kilométrico:</b> 11.2 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7312183,
-          40.321404
         ]
       }
     },
@@ -206611,19 +204069,6 @@
         "coordinates": [
           -6.153856,
           36.468741
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 01:38:00<br><b>Tipo de Obstrucción:</b> Objeto en Calzada<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-332<br><b>Punto Kilométrico:</b> 6.9 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.9056788,
-          37.611176
         ]
       }
     },
@@ -209026,19 +206471,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 04:04:45<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> M-40<br><b>Punto Kilométrico:</b> 30.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.77842,
-          40.36224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 19/08/2025 - 05:10:22<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-67<br><b>Punto Kilométrico:</b> 188.6 km"
       },
       "geometry": {
@@ -210559,32 +207991,6 @@
         "coordinates": [
           -13.514344,
           29.127375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:01:06<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> GC-381<br><b>Punto Kilométrico:</b> 4.1 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -15.50532,
-          28.058283
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:58:25<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> PA-31<br><b>Punto Kilométrico:</b> 0.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6452917,
-          42.797207
         ]
       }
     },
@@ -214190,19 +211596,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:25:44<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> M-40<br><b>Punto Kilométrico:</b> 30.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7789,
-          40.36173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 16/12/2025 - 12:41:20<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-121-A<br><b>Punto Kilométrico:</b> 26.0 km"
       },
       "geometry": {
@@ -214281,19 +211674,6 @@
         "coordinates": [
           -1.63516,
           43.017825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:19:21<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CM-4024<br><b>Punto Kilométrico:</b> 0.1 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.4301,
-          40.02278
         ]
       }
     },
@@ -215228,32 +212608,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:16:16<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> M-506<br><b>Punto Kilométrico:</b> 8.9 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.84711,
-          40.32525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:18:20<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> M-45<br><b>Punto Kilométrico:</b> 9.9 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.68305,
-          40.32805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 24/12/2025 - 08:00:00<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-42<br><b>Punto Kilométrico:</b> 44.8 km"
       },
       "geometry": {
@@ -215303,19 +212657,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:29:15<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-92<br><b>Punto Kilométrico:</b> 205.8 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0067806,
-          37.194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 27/10/2025 - 22:05:28<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-7<br><b>Punto Kilométrico:</b> 529.8 km"
       },
       "geometry": {
@@ -215350,19 +212691,6 @@
         "coordinates": [
           -0.819847,
           38.215966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:45:28<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-8<br><b>Punto Kilométrico:</b> 368.5 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.5453134,
-          43.506367
         ]
       }
     },
@@ -217083,32 +214411,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:51:45<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> CV-823<br><b>Punto Kilométrico:</b> 0.1 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.4495657,
-          38.42035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:56:56<br><b>Tipo de Obstrucción:</b> other<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-1<br><b>Punto Kilométrico:</b> 44.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.5776517,
-          40.74757
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 29/01/2025 - 12:05:04<br><b>Dirección:</b> Ambos Sentidos<br><b>Aviso:</b> Restricciones<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> SE-30<br><b>Punto Kilométrico:</b> 9.5 km"
       },
       "geometry": {
@@ -217251,19 +214553,6 @@
         "coordinates": [
           -5.990954,
           37.347161
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 28/12/2025 - 03:50:47<br><b>Tipo de Incidente:</b> Vehiculo Parado<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-3130<br><b>Punto Kilométrico:</b> 31.7 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.62843,
-          37.58503
         ]
       }
     },
