@@ -47,7 +47,8 @@ INCIDENT_TYPE_TRANSLATIONS = {
     "rain": "Lluvia",
     "MaintenanceWorks": "Trabajos de mantenimiento",
     "fog": "Niebla",
-    "strongWinds": "Fuertes vientos"
+    "strongWinds": "Fuertes vientos",
+    "spillageOnTheRoad": "Derrame en la carretera"
 }
 
 def translate_incident_type(value):
