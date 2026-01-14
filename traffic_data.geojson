@@ -86132,7 +86132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 14/01/2026 - 22:31:50<br><b>Impacto:</b> Retención<br><b>Carretera:</b> C-58<br><b>Punto Kilométrico:</b> 5.5 km"
+        "description": "<b>Fecha de Creación:</b> 14/01/2026 - 22:31:50<br><b>Carretera:</b> C-58<br><b>Punto Kilométrico:</b> 5.5 km"
       },
       "geometry": {
         "coordinates": [
@@ -86151,13 +86151,45 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 14/01/2026 - 22:31:50<br><b>Impacto:</b> Retención<br><b>Carretera:</b> C-58<br><b>Punto Kilométrico:</b> 5.5 km"
+        "description": "<b>Fecha de Creación:</b> 14/01/2026 - 22:31:50<br><b>Carretera:</b> C-58<br><b>Punto Kilométrico:</b> 5.5 km"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           2.148871,
           41.496136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 14/01/2026 - 22:38:21<br><b>Carretera:</b> C-25<br><b>Punto Kilométrico:</b> 147.3 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.942045,
+            41.807763
+          ],
+          [
+            1.942045,
+            41.807763
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 14/01/2026 - 22:38:21<br><b>Carretera:</b> C-25<br><b>Punto Kilométrico:</b> 147.3 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.942045,
+          41.807763
         ]
       }
     },
@@ -90421,6 +90453,19 @@
         "coordinates": [
           -1.9047,
           43.2874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 14/01/2026 - 22:42:16<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> AP-68<br><b>Punto Kilométrico:</b> 39.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8856,
+          42.9465
         ]
       }
     },
