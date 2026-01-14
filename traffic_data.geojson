@@ -91444,19 +91444,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 14/01/2026 - 16:35:35<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> unknown<br><b>Carretera:</b> GI-636<br><b>Punto Kilométrico:</b> 2.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.912,
-          43.3176
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 14/01/2026 - 16:37:28<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-634<br><b>Punto Kilométrico:</b> 106.0 km"
       },
       "geometry": {
@@ -91464,6 +91451,19 @@
         "coordinates": [
           -2.8892,
           43.2477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 14/01/2026 - 16:39:19<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-1<br><b>Punto Kilométrico:</b> 345.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7517,
+          42.8389
         ]
       }
     },
