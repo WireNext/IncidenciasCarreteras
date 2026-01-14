@@ -86916,38 +86916,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 14/01/2026 - 08:12:05<br><b>Carretera:</b> AP-2<br><b>Punto Kilométrico:</b> 152.5 km"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            0.742567,
-            41.514136
-          ],
-          [
-            0.742567,
-            41.514136
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 14/01/2026 - 08:12:05<br><b>Carretera:</b> AP-2<br><b>Punto Kilométrico:</b> 152.5 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.742567,
-          41.514136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 14/01/2026 - 06:00:00<br><b>Carretera:</b> B-20<br><b>Tipo de Obstrucción:</b> maintenanceWork<br><b>Punto Kilométrico:</b> 17.0 km"
       },
       "geometry": {
@@ -132702,6 +132670,38 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 14/01/2026 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> GI-3750<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 14.0 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -2.392782,
+            43.119503
+          ],
+          [
+            -2.392782,
+            43.119503
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 14/01/2026 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> GI-3750<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 14.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.392782,
+          43.119503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 15/01/2026 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> GI-2620<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 19.4 km"
       },
       "geometry": {
@@ -134392,6 +134392,38 @@
         "coordinates": [
           -2.096201,
           43.27983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> BI-2713<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 12.0 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -2.80201,
+            43.250524
+          ],
+          [
+            -2.80201,
+            43.250524
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> BI-2713<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 12.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.80201,
+          43.250524
         ]
       }
     }
