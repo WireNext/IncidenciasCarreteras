@@ -80000,6 +80000,66 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 15/01/2026 - 06:52:43<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 265.0 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.044157,
+            41.082226
+          ],
+          [
+            1.04501,
+            41.082304
+          ],
+          [
+            1.045533,
+            41.082353
+          ],
+          [
+            1.046138,
+            41.082383
+          ],
+          [
+            1.047006,
+            41.082425
+          ],
+          [
+            1.048272,
+            41.082453
+          ],
+          [
+            1.052201,
+            41.082433
+          ],
+          [
+            1.053529,
+            41.082454
+          ],
+          [
+            1.056384,
+            41.082566
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 15/01/2026 - 06:52:43<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 265.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.047006,
+          41.082425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 03/07/2025 - 11:28:26<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-15<br><b>Punto Kilométrico:</b> 148.0 km"
       },
       "geometry": {
