@@ -70100,7 +70100,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 09:15:26<br><b>Aviso:</b> Arcen cerrado<br><b>Carretera:</b> C-16<br><b>Punto Kilométrico:</b> 96.5 km"
+        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 09:57:25<br><b>Aviso:</b> Arcen cerrado<br><b>Carretera:</b> C-16<br><b>Punto Kilométrico:</b> 96.5 km"
       },
       "geometry": {
         "coordinates": [
@@ -70955,7 +70955,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 09:15:26<br><b>Aviso:</b> Arcen cerrado<br><b>Carretera:</b> C-16<br><b>Punto Kilométrico:</b> 96.5 km"
+        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 09:57:25<br><b>Aviso:</b> Arcen cerrado<br><b>Carretera:</b> C-16<br><b>Punto Kilométrico:</b> 96.5 km"
       },
       "geometry": {
         "type": "Point",
@@ -73018,6 +73018,38 @@
         "coordinates": [
           1.329644,
           41.139224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 10:03:40<br><b>Carretera:</b> B-10<br><b>Punto Kilométrico:</b> 10.5 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            2.185424,
+            41.3819
+          ],
+          [
+            2.185424,
+            41.3819
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 10:03:40<br><b>Carretera:</b> B-10<br><b>Punto Kilométrico:</b> 10.5 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.185424,
+          41.3819
         ]
       }
     },
