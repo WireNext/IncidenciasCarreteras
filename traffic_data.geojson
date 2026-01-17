@@ -74016,7 +74016,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 09:50:34<br><b>Impacto:</b> Retención<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 239.0 km"
+        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 09:50:34<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 239.0 km"
       },
       "geometry": {
         "coordinates": [
@@ -74071,7 +74071,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 09:50:34<br><b>Impacto:</b> Retención<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 239.0 km"
+        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 09:50:34<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 239.0 km"
       },
       "geometry": {
         "type": "Point",
