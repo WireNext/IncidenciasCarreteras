@@ -71964,38 +71964,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 14:25:02<br><b>Carretera:</b> C-33<br><b>Punto Kilométrico:</b> 77.5 km"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            2.182915,
-            41.460098
-          ],
-          [
-            2.182915,
-            41.460098
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 14:25:02<br><b>Carretera:</b> C-33<br><b>Punto Kilométrico:</b> 77.5 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.182915,
-          41.460098
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 03/07/2025 - 11:28:26<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-15<br><b>Punto Kilométrico:</b> 148.0 km"
       },
       "geometry": {
