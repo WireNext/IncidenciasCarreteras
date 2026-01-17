@@ -68508,7 +68508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 08:12:38<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Retención<br><b>Carretera:</b> C-147<br><b>Tipo de Obstrucción:</b> Nieve en la via<br><b>Tipo de Obstrucción:</b> Nieve en la via<br><b>Punto Kilométrico:</b> 135.0 km"
+        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 08:12:38<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Retención<br><b>Carretera:</b> C-147<br><b>Tipo de Obstrucción:</b> Nieve en la via<br><b>Tipo de Obstrucción:</b> Nieve en la via<br><b>Punto Kilométrico:</b> 135.1 km"
       },
       "geometry": {
         "coordinates": [
@@ -69441,8 +69441,120 @@
             42.697058
           ],
           [
-            1.097626,
-            42.697276
+            1.09763,
+            42.697301
+          ],
+          [
+            1.09764,
+            42.697463
+          ],
+          [
+            1.097641,
+            42.697587
+          ],
+          [
+            1.097617,
+            42.697716
+          ],
+          [
+            1.097604,
+            42.697781
+          ],
+          [
+            1.09757,
+            42.697973
+          ],
+          [
+            1.097533,
+            42.698035
+          ],
+          [
+            1.097482,
+            42.698117
+          ],
+          [
+            1.097443,
+            42.698215
+          ],
+          [
+            1.097413,
+            42.698303
+          ],
+          [
+            1.097413,
+            42.698369
+          ],
+          [
+            1.097409,
+            42.698423
+          ],
+          [
+            1.097432,
+            42.698497
+          ],
+          [
+            1.097497,
+            42.698616
+          ],
+          [
+            1.097752,
+            42.69895
+          ],
+          [
+            1.097824,
+            42.699067
+          ],
+          [
+            1.097951,
+            42.699254
+          ],
+          [
+            1.098007,
+            42.69933
+          ],
+          [
+            1.098177,
+            42.699533
+          ],
+          [
+            1.098483,
+            42.699836
+          ],
+          [
+            1.098604,
+            42.699943
+          ],
+          [
+            1.098704,
+            42.700024
+          ],
+          [
+            1.098762,
+            42.700065
+          ],
+          [
+            1.09883,
+            42.700114
+          ],
+          [
+            1.099047,
+            42.700344
+          ],
+          [
+            1.099433,
+            42.700525
+          ],
+          [
+            1.099613,
+            42.700691
+          ],
+          [
+            1.099773,
+            42.700873
+          ],
+          [
+            1.099773,
+            42.700873
           ]
         ],
         "type": "LineString"
@@ -69451,13 +69563,13 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 08:12:38<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Retención<br><b>Carretera:</b> C-147<br><b>Tipo de Obstrucción:</b> Nieve en la via<br><b>Tipo de Obstrucción:</b> Nieve en la via<br><b>Punto Kilométrico:</b> 135.0 km"
+        "description": "<b>Fecha de Creación:</b> 17/01/2026 - 08:12:38<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Retención<br><b>Carretera:</b> C-147<br><b>Tipo de Obstrucción:</b> Nieve en la via<br><b>Tipo de Obstrucción:</b> Nieve en la via<br><b>Punto Kilométrico:</b> 135.1 km"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.090517,
-          42.688238
+          1.09232,
+          42.688811
         ]
       }
     },
