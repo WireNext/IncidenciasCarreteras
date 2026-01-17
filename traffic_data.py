@@ -8,7 +8,7 @@ import time
 REGIONS = {
     "Cataluña": "http://infocar.dgt.es/datex2/sct/SituationPublication/all/content.xml",
     "País Vasco": "http://infocar.dgt.es/datex2/dt-gv/SituationPublication/all/content.xml",
-    "Resto España": "http://infocar.dgt.es/datex2/dgt/SituationPublication/all/content.xml"
+    "Resto España": "https://nap.dgt.es/datex2/v3/dgt/SituationPublication/datex2_v36.xml"
 }
 
 # Definir el espacio de nombres para el XML
