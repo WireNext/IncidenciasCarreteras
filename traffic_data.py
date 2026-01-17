@@ -11,7 +11,7 @@ REGIONS = {
     "Resto España": "https://nap.dgt.es/datex2/v3/dgt/SituationPublication/datex2_v36.xml"
 }
 
-# Definir el espacio de nombres para el XML
+# Definir el espacio de nombres para el XMLS
 NS = {
     '_0': 'http://datex2.eu/schema/1_0/1_0',
     'xsi': 'http://www.w3.org/2001/XMLSchema-instance'
