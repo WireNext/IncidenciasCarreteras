@@ -58224,38 +58224,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 11:13:51<br><b>Carretera:</b> C-17<br><b>Punto Kilométrico:</b> 40.0 km"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            2.252045,
-            41.7635
-          ],
-          [
-            2.252045,
-            41.7635
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 11:13:51<br><b>Carretera:</b> C-17<br><b>Punto Kilométrico:</b> 40.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.252045,
-          41.7635
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 18/01/2026 - 11:25:28<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 6.0 km"
       },
       "geometry": {
