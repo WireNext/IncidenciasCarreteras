@@ -67868,7 +67868,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:30:27<br><b>Impacto:</b> Retención<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 117.0 km"
+        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:30:27<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 117.0 km"
       },
       "geometry": {
         "coordinates": [
@@ -67915,7 +67915,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:30:27<br><b>Impacto:</b> Retención<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 117.0 km"
+        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:30:27<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 117.0 km"
       },
       "geometry": {
         "type": "Point",
@@ -67928,7 +67928,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:43:49<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 125.5 km"
+        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:43:49<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 125.5 km"
       },
       "geometry": {
         "coordinates": [
@@ -67997,8 +67997,80 @@
             41.610107
           ],
           [
-            2.347458,
-            41.611726
+            2.34751,
+            41.611794
+          ],
+          [
+            2.347957,
+            41.612387
+          ],
+          [
+            2.348117,
+            41.612614
+          ],
+          [
+            2.348469,
+            41.613076
+          ],
+          [
+            2.348849,
+            41.613539
+          ],
+          [
+            2.34908,
+            41.613801
+          ],
+          [
+            2.34926,
+            41.614007
+          ],
+          [
+            2.349385,
+            41.614148
+          ],
+          [
+            2.349817,
+            41.61459
+          ],
+          [
+            2.350086,
+            41.614845
+          ],
+          [
+            2.350217,
+            41.614962
+          ],
+          [
+            2.350874,
+            41.615501
+          ],
+          [
+            2.351462,
+            41.615964
+          ],
+          [
+            2.352099,
+            41.616411
+          ],
+          [
+            2.35226,
+            41.61652
+          ],
+          [
+            2.35293,
+            41.616936
+          ],
+          [
+            2.353791,
+            41.617412
+          ],
+          [
+            2.354462,
+            41.617752
+          ],
+          [
+            2.35544,
+            41.618257
           ]
         ],
         "type": "LineString"
@@ -68007,13 +68079,13 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:43:49<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 125.5 km"
+        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:43:49<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 125.5 km"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.342835,
-          41.606637
+          2.347957,
+          41.612387
         ]
       }
     },
