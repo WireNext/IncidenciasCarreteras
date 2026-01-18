@@ -67868,6 +67868,66 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:30:27<br><b>Impacto:</b> Retención<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 117.0 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            2.427227,
+            41.647613
+          ],
+          [
+            2.427265,
+            41.64762
+          ],
+          [
+            2.427819,
+            41.647726
+          ],
+          [
+            2.428714,
+            41.647885
+          ],
+          [
+            2.429033,
+            41.647941
+          ],
+          [
+            2.432313,
+            41.648432
+          ],
+          [
+            2.435298,
+            41.648975
+          ],
+          [
+            2.437308,
+            41.649509
+          ],
+          [
+            2.438753,
+            41.649938
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:30:27<br><b>Impacto:</b> Retención<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 117.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.429033,
+          41.647941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 03/07/2025 - 11:28:26<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-15<br><b>Punto Kilométrico:</b> 148.0 km"
       },
       "geometry": {
