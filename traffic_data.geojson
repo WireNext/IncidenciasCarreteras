@@ -74702,6 +74702,38 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 19/01/2026 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> N-634<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 72.2 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -2.544569,
+            43.177985
+          ],
+          [
+            -2.544569,
+            43.177985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 19/01/2026 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> N-634<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 72.2 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.544569,
+          43.177985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 16/01/2026 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> GI-3740<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 0.0 km"
       },
       "geometry": {
@@ -82984,38 +83016,6 @@
         "coordinates": [
           -1.996002,
           43.146518
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 19/01/2026 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> N-634<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 72.2 km"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            -2.544569,
-            43.177985
-          ],
-          [
-            -2.544569,
-            43.177985
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 19/01/2026 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> N-634<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 72.2 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.544569,
-          43.177985
         ]
       }
     },
