@@ -67928,6 +67928,98 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:43:49<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 125.5 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            2.340194,
+            41.604659
+          ],
+          [
+            2.340202,
+            41.604664
+          ],
+          [
+            2.340812,
+            41.605076
+          ],
+          [
+            2.341241,
+            41.605389
+          ],
+          [
+            2.34132,
+            41.605447
+          ],
+          [
+            2.341617,
+            41.605664
+          ],
+          [
+            2.342013,
+            41.605967
+          ],
+          [
+            2.342387,
+            41.606275
+          ],
+          [
+            2.342835,
+            41.606637
+          ],
+          [
+            2.343431,
+            41.607169
+          ],
+          [
+            2.344215,
+            41.607895
+          ],
+          [
+            2.34467,
+            41.60835
+          ],
+          [
+            2.345392,
+            41.609159
+          ],
+          [
+            2.345703,
+            41.609518
+          ],
+          [
+            2.345932,
+            41.609783
+          ],
+          [
+            2.3462,
+            41.610107
+          ],
+          [
+            2.347458,
+            41.611726
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:43:49<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 125.5 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.342835,
+          41.606637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 03/07/2025 - 11:28:26<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-15<br><b>Punto Kilométrico:</b> 148.0 km"
       },
       "geometry": {
