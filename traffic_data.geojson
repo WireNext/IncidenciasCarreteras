@@ -60788,38 +60788,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:02:20<br><b>Dirección:</b> Ambos Sentidos<br><b>Carretera:</b> C-243a<br><b>Punto Kilométrico:</b> 4.4 km"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            1.755939,
-            41.401086
-          ],
-          [
-            1.755939,
-            41.401086
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:02:20<br><b>Dirección:</b> Ambos Sentidos<br><b>Carretera:</b> C-243a<br><b>Punto Kilométrico:</b> 4.4 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.755939,
-          41.401086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 18/01/2026 - 10:30:27<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 117.0 km"
       },
       "geometry": {
