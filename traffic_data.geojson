@@ -105200,6 +105200,38 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 19/01/2026 - 22:24:58<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 170.0 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.925856,
+            41.471121
+          ],
+          [
+            1.925856,
+            41.471121
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 19/01/2026 - 22:24:58<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 170.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.925856,
+          41.471121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 03/07/2025 - 11:28:26<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-15<br><b>Punto Kilométrico:</b> 148.0 km"
       },
       "geometry": {
