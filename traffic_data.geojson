@@ -127050,7 +127050,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 19/01/2026 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> GI-3310<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 5.8 km"
+        "description": "<b>Fecha de Creación:</b> 20/01/2026 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> GI-3310<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 5.8 km"
       },
       "geometry": {
         "coordinates": [
@@ -127069,45 +127069,13 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 19/01/2026 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> GI-3310<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 5.8 km"
+        "description": "<b>Fecha de Creación:</b> 20/01/2026 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> GI-3310<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 5.8 km"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -2.570223,
           42.981695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 19/01/2026 - 00:00:00<br><b>Dirección:</b> Ambos Sentidos<br><b>Carretera:</b> GI-3292<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 0.1 km"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            -2.371924,
-            43.269698
-          ],
-          [
-            -2.371924,
-            43.269698
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 19/01/2026 - 00:00:00<br><b>Dirección:</b> Ambos Sentidos<br><b>Carretera:</b> GI-3292<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 0.1 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.371924,
-          43.269698
         ]
       }
     },
@@ -128800,6 +128768,38 @@
         "coordinates": [
           -2.118265,
           43.276774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 00:00:00<br><b>Dirección:</b> Ambos Sentidos<br><b>Carretera:</b> GI-3292<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 0.1 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -2.371924,
+            43.269698
+          ],
+          [
+            -2.371924,
+            43.269698
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 00:00:00<br><b>Dirección:</b> Ambos Sentidos<br><b>Carretera:</b> GI-3292<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 0.1 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.371924,
+          43.269698
         ]
       }
     },
