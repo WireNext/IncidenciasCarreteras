@@ -103628,13 +103628,105 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 19/01/2026 - 22:52:43<br><b>Dirección:</b> Ambos Sentidos<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> C-252<br><b>Punto Kilométrico:</b> 45.0 km"
+        "description": "<b>Fecha de Creación:</b> 19/01/2026 - 22:52:43<br><b>Dirección:</b> Ambos Sentidos<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> C-252<br><b>Punto Kilométrico:</b> 42.7 km"
       },
       "geometry": {
         "coordinates": [
           [
-            3.002242,
-            42.299203
+            2.986426,
+            42.287063
+          ],
+          [
+            2.986889,
+            42.287376
+          ],
+          [
+            2.987107,
+            42.287507
+          ],
+          [
+            2.988335,
+            42.288156
+          ],
+          [
+            2.988795,
+            42.288401
+          ],
+          [
+            2.98983,
+            42.289106
+          ],
+          [
+            2.989907,
+            42.289163
+          ],
+          [
+            2.990711,
+            42.289758
+          ],
+          [
+            2.992133,
+            42.290602
+          ],
+          [
+            2.993634,
+            42.291284
+          ],
+          [
+            2.994246,
+            42.29177
+          ],
+          [
+            2.994771,
+            42.29227
+          ],
+          [
+            2.995446,
+            42.292924
+          ],
+          [
+            2.995786,
+            42.293251
+          ],
+          [
+            2.997032,
+            42.294404
+          ],
+          [
+            2.998414,
+            42.295679
+          ],
+          [
+            2.999313,
+            42.296518
+          ],
+          [
+            3.000561,
+            42.29763
+          ],
+          [
+            3.000806,
+            42.297857
+          ],
+          [
+            3.000977,
+            42.298061
+          ],
+          [
+            3.001039,
+            42.298163
+          ],
+          [
+            3.001153,
+            42.298316
+          ],
+          [
+            3.001336,
+            42.298475
+          ],
+          [
+            3.001779,
+            42.298855
           ],
           [
             3.002271,
@@ -103767,13 +103859,13 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 19/01/2026 - 22:52:43<br><b>Dirección:</b> Ambos Sentidos<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> C-252<br><b>Punto Kilométrico:</b> 45.0 km"
+        "description": "<b>Fecha de Creación:</b> 19/01/2026 - 22:52:43<br><b>Dirección:</b> Ambos Sentidos<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> C-252<br><b>Punto Kilométrico:</b> 42.7 km"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.007804,
-          42.305511
+          3.003552,
+          42.300818
         ]
       }
     },
