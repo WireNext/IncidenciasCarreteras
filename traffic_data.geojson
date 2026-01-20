@@ -99080,38 +99080,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 20/01/2026 - 19:44:23<br><b>Carretera:</b> C-37<br><b>Punto Kilométrico:</b> 70.0 km"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            1.647874,
-            41.61418
-          ],
-          [
-            1.647874,
-            41.61418
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 20/01/2026 - 19:44:23<br><b>Carretera:</b> C-37<br><b>Punto Kilométrico:</b> 70.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.647874,
-          41.61418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 20/01/2026 - 19:53:28<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Retención<br><b>Carretera:</b> C-670<br><b>Punto Kilométrico:</b> 1.0 km"
       },
       "geometry": {
