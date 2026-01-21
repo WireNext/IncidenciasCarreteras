@@ -88244,7 +88244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 21/01/2026 - 10:50:49<br><b>Impacto:</b> Retención<br><b>Carretera:</b> A-2<br><b>Punto Kilométrico:</b> 609.5 km"
+        "description": "<b>Fecha de Creación:</b> 21/01/2026 - 10:50:49<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> A-2<br><b>Punto Kilométrico:</b> 609.5 km"
       },
       "geometry": {
         "coordinates": [
@@ -89243,7 +89243,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 21/01/2026 - 10:50:49<br><b>Impacto:</b> Retención<br><b>Carretera:</b> A-2<br><b>Punto Kilométrico:</b> 609.5 km"
+        "description": "<b>Fecha de Creación:</b> 21/01/2026 - 10:50:49<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> A-2<br><b>Punto Kilométrico:</b> 609.5 km"
       },
       "geometry": {
         "type": "Point",
