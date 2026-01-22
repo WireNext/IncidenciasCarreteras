@@ -90009,6 +90009,32 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 22/01/2026 - 05:45:24<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-15<br><b>Punto Kilométrico:</b> 164.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9904,
+          43.2507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 22/01/2026 - 05:53:06<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-1<br><b>Punto Kilométrico:</b> 343.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7656,
+          42.8257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 07/11/2024 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> GI-631<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 22.9 km"
       },
       "geometry": {
