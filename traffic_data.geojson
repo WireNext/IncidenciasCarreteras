@@ -78699,19 +78699,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 21:57:29<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> N-1<br><b>Punto Kilométrico:</b> 438.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0667,
-          43.1566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 23/01/2026 - 22:46:40<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-1<br><b>Punto Kilométrico:</b> 335.0 km"
       },
       "geometry": {
@@ -78719,19 +78706,6 @@
         "coordinates": [
           -2.8264,
           42.7754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 22:50:14<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-10<br><b>Punto Kilométrico:</b> 120.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.9679,
-          43.2721
         ]
       }
     },
@@ -78751,7 +78725,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 23:03:16<br><b>Dirección:</b> unknown<br><b>Aviso:</b> Restricciones<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-2128<br><b>Tipo de Obstrucción:</b> Uso obligatorio de cadenas<br><b>Punto Kilométrico:</b> 33.5 km"
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 23:20:22<br><b>Dirección:</b> unknown<br><b>Aviso:</b> Restricciones<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-2128<br><b>Tipo de Obstrucción:</b> Uso obligatorio de cadenas<br><b>Punto Kilométrico:</b> 33.5 km"
       },
       "geometry": {
         "type": "Point",
@@ -78764,7 +78738,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 23:03:16<br><b>Dirección:</b> unknown<br><b>Aviso:</b> Restricciones<br><b>Impacto:</b> Retención<br><b>Carretera:</b> A-3102<br><b>Punto Kilométrico:</b> 9.2 km"
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 23:20:22<br><b>Dirección:</b> unknown<br><b>Aviso:</b> Restricciones<br><b>Impacto:</b> Retención<br><b>Carretera:</b> A-3102<br><b>Punto Kilométrico:</b> 9.2 km"
       },
       "geometry": {
         "type": "Point",
