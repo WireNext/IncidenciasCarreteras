@@ -106926,7 +106926,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 13:22:56<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> GI-3710<br><b>Punto Kilométrico:</b> 2.0 km"
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 13:22:56<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> GI-3710<br><b>Punto Kilométrico:</b> 2.0 km"
       },
       "geometry": {
         "type": "Point",
@@ -106991,19 +106991,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 14:17:26<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-1<br><b>Punto Kilométrico:</b> 341.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7873,
-          42.8155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 23/01/2026 - 14:17:53<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-8<br><b>Punto Kilométrico:</b> 124.0 km"
       },
       "geometry": {
@@ -107011,6 +106998,19 @@
         "coordinates": [
           -3.005,
           43.2886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 14:55:26<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> GI-636<br><b>Punto Kilométrico:</b> 2.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.912,
+          43.3176
         ]
       }
     },
