@@ -103166,19 +103166,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 08:13:37<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> GI-40<br><b>Punto Kilométrico:</b> 2.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9597,
-          43.3006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 23/01/2026 - 08:31:29<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> AP-68<br><b>Punto Kilométrico:</b> 9.0 km"
       },
       "geometry": {
