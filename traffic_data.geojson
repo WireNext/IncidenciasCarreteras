@@ -97456,19 +97456,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 15/01/2026 - 09:25:10<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> AP-8<br><b>Punto Kilométrico:</b> 105.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.8155,
-          43.2319
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 21/01/2026 - 20:53:27<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-4703<br><b>Punto Kilométrico:</b> 10.0 km"
       },
       "geometry": {
@@ -98030,19 +98017,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 22/01/2026 - 22:39:27<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> AP-8<br><b>Punto Kilométrico:</b> 23.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9935,
-          43.2779
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 22/01/2026 - 22:50:09<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-636<br><b>Punto Kilométrico:</b> 6.0 km"
       },
       "geometry": {
@@ -98050,19 +98024,6 @@
         "coordinates": [
           -2.9693,
           43.2577
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 22/01/2026 - 22:57:47<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> AP-1<br><b>Punto Kilométrico:</b> 139.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4256,
-          43.1406
         ]
       }
     },
@@ -98082,26 +98043,137 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 00:34:53<br><b>Tipo de Obstrucción:</b> incident<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-634<br><b>Punto Kilométrico:</b> 64.0 km"
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 03:14:15<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-634<br><b>Punto Kilométrico:</b> 94.0 km"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.4675,
-          43.1898
+          -2.7599,
+          43.2298
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 01:16:08<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-1<br><b>Punto Kilométrico:</b> 346.0 km"
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 03:42:48<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-8<br><b>Punto Kilométrico:</b> 113.0 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -2.907998,
+            43.23354
+          ],
+          [
+            -2.907921,
+            43.233538
+          ],
+          [
+            -2.90718,
+            43.233514
+          ],
+          [
+            -2.907009,
+            43.233506
+          ],
+          [
+            -2.900998,
+            43.232847
+          ],
+          [
+            -2.899361,
+            43.232628
+          ],
+          [
+            -2.89805,
+            43.23244
+          ],
+          [
+            -2.890993,
+            43.231467
+          ],
+          [
+            -2.890838,
+            43.231447
+          ],
+          [
+            -2.890352,
+            43.231387
+          ],
+          [
+            -2.890123,
+            43.231358
+          ],
+          [
+            -2.889577,
+            43.23129
+          ],
+          [
+            -2.889195,
+            43.231236
+          ],
+          [
+            -2.888921,
+            43.231201
+          ],
+          [
+            -2.888366,
+            43.231137
+          ],
+          [
+            -2.887335,
+            43.231041
+          ],
+          [
+            -2.886811,
+            43.231005
+          ],
+          [
+            -2.886383,
+            43.230979
+          ],
+          [
+            -2.885675,
+            43.230946
+          ],
+          [
+            -2.885556,
+            43.230942
+          ],
+          [
+            -2.885253,
+            43.230931
+          ],
+          [
+            -2.884866,
+            43.230906
+          ],
+          [
+            -2.884319,
+            43.230876
+          ],
+          [
+            -2.883713,
+            43.230865
+          ],
+          [
+            -2.883401,
+            43.230862
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 03:42:48<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Decreciente<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-8<br><b>Punto Kilométrico:</b> 113.0 km"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.7489,
-          42.8481
+          -2.889195,
+          43.231236
         ]
       }
     },
