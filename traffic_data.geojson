@@ -64056,38 +64056,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 18:58:23<br><b>Impacto:</b> Retención<br><b>Carretera:</b> A-2<br><b>Punto Kilométrico:</b> 550.0 km"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            1.579574,
-            41.594215
-          ],
-          [
-            1.579574,
-            41.594215
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 18:58:23<br><b>Impacto:</b> Retención<br><b>Carretera:</b> A-2<br><b>Punto Kilométrico:</b> 550.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.579574,
-          41.594215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 03/07/2025 - 11:28:26<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-15<br><b>Punto Kilométrico:</b> 148.0 km"
       },
       "geometry": {
