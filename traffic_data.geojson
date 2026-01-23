@@ -87952,19 +87952,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 10:26:09<br><b>Tipo de Obstrucción:</b> Objeto en Calzada<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> AP-8<br><b>Punto Kilométrico:</b> 52.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.3051,
-          43.2698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 23/01/2026 - 10:39:40<br><b>Tipo de Obstrucción:</b> incident<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> GI-636<br><b>Punto Kilométrico:</b> 13.0 km"
       },
       "geometry": {
@@ -88453,6 +88440,19 @@
         "coordinates": [
           -2.826389,
           42.762434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 10:54:00<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-8<br><b>Punto Kilométrico:</b> 136.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1164,
+          43.3395
         ]
       }
     },
