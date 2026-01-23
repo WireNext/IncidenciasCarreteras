@@ -94216,13 +94216,37 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 15:38:26<br><b>Impacto:</b> Retención<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 43.0 km"
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 15:38:26<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 41.5 km"
       },
       "geometry": {
         "coordinates": [
           [
-            1.946909,
-            41.266036
+            1.935175,
+            41.264558
+          ],
+          [
+            1.936032,
+            41.264757
+          ],
+          [
+            1.937478,
+            41.265001
+          ],
+          [
+            1.938859,
+            41.265178
+          ],
+          [
+            1.94143,
+            41.265469
+          ],
+          [
+            1.943278,
+            41.265656
+          ],
+          [
+            1.944167,
+            41.265749
           ],
           [
             1.946949,
@@ -94291,13 +94315,13 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 15:38:26<br><b>Impacto:</b> Retención<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 43.0 km"
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 15:38:26<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 41.5 km"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.96299,
-          41.268
+          1.9601,
+          41.267542
         ]
       }
     },
@@ -94330,6 +94354,246 @@
         "coordinates": [
           1.850252,
           41.245377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 15:58:50<br><b>Impacto:</b> Retención<br><b>Carretera:</b> C-31<br><b>Punto Kilométrico:</b> 180.0 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.96864,
+            41.268372
+          ],
+          [
+            1.968751,
+            41.26838
+          ],
+          [
+            1.968969,
+            41.268391
+          ],
+          [
+            1.969038,
+            41.268388
+          ],
+          [
+            1.969102,
+            41.268372
+          ],
+          [
+            1.969157,
+            41.268348
+          ],
+          [
+            1.969213,
+            41.268304
+          ],
+          [
+            1.96924,
+            41.268266
+          ],
+          [
+            1.969258,
+            41.268212
+          ],
+          [
+            1.969278,
+            41.268179
+          ],
+          [
+            1.969302,
+            41.268162
+          ],
+          [
+            1.969373,
+            41.268135
+          ],
+          [
+            1.969411,
+            41.268129
+          ],
+          [
+            1.969397,
+            41.268325
+          ],
+          [
+            1.969482,
+            41.268358
+          ],
+          [
+            1.969697,
+            41.26839
+          ],
+          [
+            1.970468,
+            41.268459
+          ],
+          [
+            1.970497,
+            41.268459
+          ],
+          [
+            1.970554,
+            41.268479
+          ],
+          [
+            1.971291,
+            41.268561
+          ],
+          [
+            1.971716,
+            41.268637
+          ],
+          [
+            1.972158,
+            41.268708
+          ],
+          [
+            1.972747,
+            41.26879
+          ],
+          [
+            1.972897,
+            41.268805
+          ],
+          [
+            1.973854,
+            41.268904
+          ],
+          [
+            1.974218,
+            41.268939
+          ],
+          [
+            1.97484,
+            41.269002
+          ],
+          [
+            1.976369,
+            41.26916
+          ],
+          [
+            1.97678,
+            41.269203
+          ],
+          [
+            1.977447,
+            41.269272
+          ],
+          [
+            1.977757,
+            41.269302
+          ],
+          [
+            1.978136,
+            41.269338
+          ],
+          [
+            1.978789,
+            41.269405
+          ],
+          [
+            1.97976,
+            41.269504
+          ],
+          [
+            1.980537,
+            41.269578
+          ],
+          [
+            1.980695,
+            41.269591
+          ],
+          [
+            1.981195,
+            41.269628
+          ],
+          [
+            1.981742,
+            41.269661
+          ],
+          [
+            1.981973,
+            41.269674
+          ],
+          [
+            1.982274,
+            41.269689
+          ],
+          [
+            1.982588,
+            41.269698
+          ],
+          [
+            1.982994,
+            41.269702
+          ],
+          [
+            1.983411,
+            41.269701
+          ],
+          [
+            1.983631,
+            41.269699
+          ],
+          [
+            1.984204,
+            41.269689
+          ],
+          [
+            1.98464,
+            41.269679
+          ],
+          [
+            1.985093,
+            41.26967
+          ],
+          [
+            1.986938,
+            41.269632
+          ],
+          [
+            1.987231,
+            41.269628
+          ],
+          [
+            1.988852,
+            41.269595
+          ],
+          [
+            1.989817,
+            41.269577
+          ],
+          [
+            1.99013,
+            41.269568
+          ],
+          [
+            1.990656,
+            41.269559
+          ],
+          [
+            1.992453,
+            41.269524
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 15:58:50<br><b>Impacto:</b> Retención<br><b>Carretera:</b> C-31<br><b>Punto Kilométrico:</b> 180.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.976369,
+          41.26916
         ]
       }
     },
@@ -101710,6 +101974,45 @@
         "coordinates": [
           -1.898,
           43.3162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 15:52:06<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-637<br><b>Punto Kilométrico:</b> 16.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9989,
+          43.353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 15:53:25<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> N-1<br><b>Punto Kilométrico:</b> 433.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.09,
+          43.1199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 16:06:17<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> A-4113<br><b>Punto Kilométrico:</b> 28.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3607,
+          42.8492
         ]
       }
     },
