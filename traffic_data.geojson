@@ -64284,38 +64284,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 15:38:26<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 41.5 km"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            1.935175,
-            41.264558
-          ],
-          [
-            1.935175,
-            41.264558
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 15:38:26<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 41.5 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.935175,
-          41.264558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 23/01/2026 - 16:17:18<br><b>Aviso:</b> Arcen cerrado<br><b>Carretera:</b> C-15<br><b>Punto Kilométrico:</b> 44.0 km"
       },
       "geometry": {
@@ -84613,6 +84581,174 @@
         "coordinates": [
           -2.4347,
           43.1913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 20:40:06<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> N-1<br><b>Punto Kilométrico:</b> 434.0 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -2.083886,
+            43.127632
+          ],
+          [
+            -2.083799,
+            43.127662
+          ],
+          [
+            -2.083483,
+            43.127752
+          ],
+          [
+            -2.083203,
+            43.127826
+          ],
+          [
+            -2.082875,
+            43.12789
+          ],
+          [
+            -2.082522,
+            43.127934
+          ],
+          [
+            -2.082018,
+            43.127981
+          ],
+          [
+            -2.081512,
+            43.128015
+          ],
+          [
+            -2.08113,
+            43.12804
+          ],
+          [
+            -2.080952,
+            43.128055
+          ],
+          [
+            -2.080518,
+            43.128114
+          ],
+          [
+            -2.080354,
+            43.128142
+          ],
+          [
+            -2.079973,
+            43.128224
+          ],
+          [
+            -2.079595,
+            43.128343
+          ],
+          [
+            -2.079472,
+            43.128393
+          ],
+          [
+            -2.079106,
+            43.128527
+          ],
+          [
+            -2.078494,
+            43.128773
+          ],
+          [
+            -2.078169,
+            43.128898
+          ],
+          [
+            -2.077865,
+            43.129007
+          ],
+          [
+            -2.077531,
+            43.1291
+          ],
+          [
+            -2.077292,
+            43.12915
+          ],
+          [
+            -2.077004,
+            43.1292
+          ],
+          [
+            -2.076706,
+            43.129241
+          ],
+          [
+            -2.076261,
+            43.129279
+          ],
+          [
+            -2.075821,
+            43.129306
+          ],
+          [
+            -2.07536,
+            43.129333
+          ],
+          [
+            -2.074961,
+            43.129355
+          ],
+          [
+            -2.074587,
+            43.129403
+          ],
+          [
+            -2.074219,
+            43.129488
+          ],
+          [
+            -2.073874,
+            43.129604
+          ],
+          [
+            -2.073646,
+            43.129696
+          ],
+          [
+            -2.073399,
+            43.12981
+          ],
+          [
+            -2.073061,
+            43.130027
+          ],
+          [
+            -2.072884,
+            43.130175
+          ],
+          [
+            -2.072774,
+            43.130276
+          ],
+          [
+            -2.072647,
+            43.130422
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 23/01/2026 - 20:40:06<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> Creciente<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> N-1<br><b>Punto Kilométrico:</b> 434.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.077865,
+          43.129007
         ]
       }
     },
