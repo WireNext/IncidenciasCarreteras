@@ -71915,6 +71915,19 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 06:41:48<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> GI-636<br><b>Punto Kilométrico:</b> 2.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9098,
+          43.3181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 24/01/2026 - 05:45:48<br><b>Dirección:</b> unknown<br><b>Aviso:</b> Restricciones<br><b>Impacto:</b> Retención<br><b>Carretera:</b> A-3102<br><b>Punto Kilométrico:</b> 9.2 km"
       },
       "geometry": {
