@@ -86136,7 +86136,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 14:24:50<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> GIV-5201<br><b>Tipo de Obstrucción:</b> Nieve en la via<br><b>Tipo de Obstrucción:</b> Nieve en la via<br><b>Punto Kilométrico:</b> 0.5 km"
+        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 14:24:50<br><b>Dirección:</b> Ambos Sentidos<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> GIV-5201<br><b>Punto Kilométrico:</b> 0.5 km"
       },
       "geometry": {
         "coordinates": [
@@ -87411,7 +87411,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 14:24:50<br><b>Dirección:</b> Ambos Sentidos<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> GIV-5201<br><b>Tipo de Obstrucción:</b> Nieve en la via<br><b>Tipo de Obstrucción:</b> Nieve en la via<br><b>Punto Kilométrico:</b> 0.5 km"
+        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 14:24:50<br><b>Dirección:</b> Ambos Sentidos<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> GIV-5201<br><b>Punto Kilométrico:</b> 0.5 km"
       },
       "geometry": {
         "type": "Point",
@@ -96073,8 +96073,272 @@
             42.240054
           ],
           [
-            2.936093,
-            42.239709
+            2.936156,
+            42.239494
+          ],
+          [
+            2.93631,
+            42.238983
+          ],
+          [
+            2.936319,
+            42.238873
+          ],
+          [
+            2.936265,
+            42.238789
+          ],
+          [
+            2.93616,
+            42.23869
+          ],
+          [
+            2.936078,
+            42.238618
+          ],
+          [
+            2.936014,
+            42.238524
+          ],
+          [
+            2.935891,
+            42.238178
+          ],
+          [
+            2.935736,
+            42.237623
+          ],
+          [
+            2.935667,
+            42.23726
+          ],
+          [
+            2.935605,
+            42.236984
+          ],
+          [
+            2.935535,
+            42.236644
+          ],
+          [
+            2.935511,
+            42.236362
+          ],
+          [
+            2.935517,
+            42.236063
+          ],
+          [
+            2.935544,
+            42.235779
+          ],
+          [
+            2.935601,
+            42.235499
+          ],
+          [
+            2.935734,
+            42.235073
+          ],
+          [
+            2.935768,
+            42.234878
+          ],
+          [
+            2.935783,
+            42.234662
+          ],
+          [
+            2.935756,
+            42.234424
+          ],
+          [
+            2.935673,
+            42.234187
+          ],
+          [
+            2.935564,
+            42.233985
+          ],
+          [
+            2.935398,
+            42.233758
+          ],
+          [
+            2.935203,
+            42.23358
+          ],
+          [
+            2.934865,
+            42.233326
+          ],
+          [
+            2.934532,
+            42.233103
+          ],
+          [
+            2.934308,
+            42.232955
+          ],
+          [
+            2.934077,
+            42.23277
+          ],
+          [
+            2.933942,
+            42.232647
+          ],
+          [
+            2.933765,
+            42.232477
+          ],
+          [
+            2.933546,
+            42.232229
+          ],
+          [
+            2.93338,
+            42.232001
+          ],
+          [
+            2.93324,
+            42.231769
+          ],
+          [
+            2.933142,
+            42.231577
+          ],
+          [
+            2.933059,
+            42.231389
+          ],
+          [
+            2.932986,
+            42.231153
+          ],
+          [
+            2.932916,
+            42.23088
+          ],
+          [
+            2.932787,
+            42.230232
+          ],
+          [
+            2.932594,
+            42.229411
+          ],
+          [
+            2.932458,
+            42.228913
+          ],
+          [
+            2.932307,
+            42.228418
+          ],
+          [
+            2.932107,
+            42.227812
+          ],
+          [
+            2.93187,
+            42.227184
+          ],
+          [
+            2.931699,
+            42.226742
+          ],
+          [
+            2.931631,
+            42.226566
+          ],
+          [
+            2.931547,
+            42.226404
+          ],
+          [
+            2.93144,
+            42.226264
+          ],
+          [
+            2.931309,
+            42.226136
+          ],
+          [
+            2.931207,
+            42.226056
+          ],
+          [
+            2.931073,
+            42.225973
+          ],
+          [
+            2.930842,
+            42.225862
+          ],
+          [
+            2.930602,
+            42.225751
+          ],
+          [
+            2.930436,
+            42.225646
+          ],
+          [
+            2.930264,
+            42.225509
+          ],
+          [
+            2.929824,
+            42.225121
+          ],
+          [
+            2.929615,
+            42.224912
+          ],
+          [
+            2.929506,
+            42.224798
+          ],
+          [
+            2.92947,
+            42.224808
+          ],
+          [
+            2.929432,
+            42.224808
+          ],
+          [
+            2.929396,
+            42.2248
+          ],
+          [
+            2.929365,
+            42.224783
+          ],
+          [
+            2.929341,
+            42.224758
+          ],
+          [
+            2.92933,
+            42.224729
+          ],
+          [
+            2.929333,
+            42.224699
+          ],
+          [
+            2.929349,
+            42.224671
+          ],
+          [
+            2.929377,
+            42.224649
+          ],
+          [
+            2.929333,
+            42.224594
           ]
         ],
         "type": "LineString"
@@ -96088,8 +96352,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.936692,
-          42.243265
+          2.935511,
+          42.236362
         ]
       }
     },
@@ -99266,6 +99530,38 @@
         "coordinates": [
           2.302185,
           41.489973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 22:26:18<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 60.0 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            2.088746,
+            41.357237
+          ],
+          [
+            2.088746,
+            41.357237
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 22:26:18<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 60.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.088746,
+          41.357237
         ]
       }
     },
@@ -111004,6 +111300,32 @@
         "coordinates": [
           -2.113,
           43.0958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 22:18:46<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> GI-2131<br><b>Punto Kilométrico:</b> 9.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1085,
+          43.0996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 22:25:46<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-10<br><b>Punto Kilométrico:</b> 122.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9858,
+          43.2817
         ]
       }
     },
