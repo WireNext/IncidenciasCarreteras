@@ -97844,7 +97844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 22:17:18<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 88.0 km"
+        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 22:17:18<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 88.0 km"
       },
       "geometry": {
         "coordinates": [
@@ -99523,7 +99523,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 22:17:18<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 88.0 km"
+        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 22:17:18<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 88.0 km"
       },
       "geometry": {
         "type": "Point",
