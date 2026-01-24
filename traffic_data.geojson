@@ -107749,45 +107749,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 19:08:54<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-8<br><b>Punto Kilométrico:</b> 128.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.0374,
-          43.3124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 19:09:45<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-636<br><b>Punto Kilométrico:</b> 11.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.0103,
-          43.2329
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 20:23:20<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-1<br><b>Punto Kilométrico:</b> 343.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.766,
-          42.8253
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 24/01/2026 - 20:26:59<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> GI-20<br><b>Punto Kilométrico:</b> 5.0 km"
       },
       "geometry": {
@@ -107795,19 +107756,6 @@
         "coordinates": [
           -1.9397,
           43.3111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 20:31:18<br><b>Dirección:</b> unknown<br><b>Aviso:</b> Restricciones<br><b>Impacto:</b> Retención<br><b>Carretera:</b> N-240<br><b>Punto Kilométrico:</b> 38.3 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.71158,
-          43.0657
         ]
       }
     },
