@@ -111293,19 +111293,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 21:47:12<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> N-1<br><b>Punto Kilométrico:</b> 429.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.113,
-          43.0958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 24/01/2026 - 22:18:46<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> GI-2131<br><b>Punto Kilométrico:</b> 9.0 km"
       },
       "geometry": {
