@@ -109582,19 +109582,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 22:25:46<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-10<br><b>Punto Kilométrico:</b> 122.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.9858,
-          43.2817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 24/01/2026 - 23:31:59<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> N-634<br><b>Punto Kilométrico:</b> 65.0 km"
       },
       "geometry": {
@@ -109602,6 +109589,19 @@
         "coordinates": [
           -2.4773,
           43.187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 23:38:52<br><b>Tipo de Obstrucción:</b> Objeto en Calzada<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> BI-633<br><b>Punto Kilométrico:</b> 50.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4959,
+          43.282
         ]
       }
     },
