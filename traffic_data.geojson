@@ -109608,6 +109608,32 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<b>Fecha de Creación:</b> 24/01/2026 - 23:55:48<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-3795<br><b>Punto Kilométrico:</b> 27.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.146,
+          43.3453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 00:08:18<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> N-240<br><b>Punto Kilométrico:</b> 12.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6394,
+          42.9433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<b>Fecha de Creación:</b> 07/11/2024 - 00:00:00<br><b>Dirección:</b> Creciente<br><b>Carretera:</b> GI-631<br><b>Tipo de Obstrucción:</b> roadworks<br><b>Punto Kilométrico:</b> 22.9 km"
       },
       "geometry": {
