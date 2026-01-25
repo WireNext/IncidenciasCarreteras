@@ -82334,19 +82334,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 14:58:23<br><b>Tipo de Obstrucción:</b> Caida de piedras<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-631<br><b>Punto Kilométrico:</b> 15.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.8696,
-          43.3317
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 25/01/2026 - 15:17:50<br><b>Tipo de Obstrucción:</b> Caida de piedras<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> BI-3101<br><b>Punto Kilométrico:</b> 34.0 km"
       },
       "geometry": {
@@ -82354,19 +82341,6 @@
         "coordinates": [
           -2.7551,
           43.444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 15:35:46<br><b>Tipo de Obstrucción:</b> Inundación<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-20<br><b>Punto Kilométrico:</b> 1.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.9228,
-          43.2477
         ]
       }
     },
@@ -82419,6 +82393,32 @@
         "coordinates": [
           -3.1138,
           43.3311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 16:09:02<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-30<br><b>Punto Kilométrico:</b> 27.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8033,
+          43.2475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 16:10:57<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> BI-2121<br><b>Punto Kilométrico:</b> 23.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7778,
+          43.3256
         ]
       }
     },
