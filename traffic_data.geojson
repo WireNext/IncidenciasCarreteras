@@ -72911,13 +72911,13 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 23:14:49<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-623<br><b>Punto Kilométrico:</b> 43.0 km"
+        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 23:37:05<br><b>Tipo de Incidente:</b> Obras<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-30<br><b>Punto Kilométrico:</b> 18.0 km"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.6626,
-          43.0753
+          -2.8925,
+          43.2865
         ]
       }
     },
