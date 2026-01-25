@@ -83182,19 +83182,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 19:50:37<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-124<br><b>Punto Kilométrico:</b> 66.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.5682,
-          42.5462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 25/01/2026 - 20:03:50<br><b>Tipo de Obstrucción:</b> Inundación<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-625<br><b>Punto Kilométrico:</b> 386.0 km"
       },
       "geometry": {
