@@ -72200,38 +72200,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 05:56:28<br><b>Dirección:</b> Ambos Sentidos<br><b>Aviso:</b> Arcen cerrado<br><b>Carretera:</b> C-25<br><b>Punto Kilométrico:</b> 194.0 km"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            2.357676,
-            41.891364
-          ],
-          [
-            2.357676,
-            41.891364
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 05:56:28<br><b>Dirección:</b> Ambos Sentidos<br><b>Aviso:</b> Arcen cerrado<br><b>Carretera:</b> C-25<br><b>Punto Kilométrico:</b> 194.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.357676,
-          41.891364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 25/01/2026 - 08:39:28<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 178.5 km"
       },
       "geometry": {
@@ -77620,7 +77588,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 14:57:08<br><b>Aviso:</b> Itinerario alternativo<br><b>Carretera:</b> C-17<br><b>Punto Kilométrico:</b> 92.0 km"
+        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 15:23:13<br><b>Aviso:</b> Itinerario alternativo<br><b>Carretera:</b> C-17<br><b>Punto Kilométrico:</b> 92.0 km"
       },
       "geometry": {
         "coordinates": [
@@ -78043,7 +78011,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 14:57:08<br><b>Aviso:</b> Itinerario alternativo<br><b>Carretera:</b> C-17<br><b>Punto Kilométrico:</b> 92.0 km"
+        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 15:23:13<br><b>Aviso:</b> Itinerario alternativo<br><b>Carretera:</b> C-17<br><b>Punto Kilométrico:</b> 92.0 km"
       },
       "geometry": {
         "type": "Point",
@@ -78082,6 +78050,206 @@
         "coordinates": [
           2.215481,
           41.426337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 15:17:26<br><b>Aviso:</b> Arcen cerrado<br><b>Carretera:</b> C-16<br><b>Punto Kilométrico:</b> 116.0 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.875833,
+            42.237106
+          ],
+          [
+            1.875854,
+            42.237091
+          ],
+          [
+            1.875992,
+            42.236996
+          ],
+          [
+            1.876127,
+            42.23691
+          ],
+          [
+            1.876302,
+            42.236819
+          ],
+          [
+            1.876622,
+            42.236677
+          ],
+          [
+            1.877015,
+            42.236518
+          ],
+          [
+            1.877293,
+            42.236399
+          ],
+          [
+            1.877502,
+            42.236304
+          ],
+          [
+            1.877782,
+            42.236153
+          ],
+          [
+            1.878053,
+            42.235996
+          ],
+          [
+            1.878385,
+            42.235788
+          ],
+          [
+            1.878729,
+            42.235562
+          ],
+          [
+            1.879078,
+            42.235359
+          ],
+          [
+            1.879402,
+            42.235149
+          ],
+          [
+            1.879925,
+            42.234849
+          ],
+          [
+            1.880384,
+            42.234657
+          ],
+          [
+            1.880898,
+            42.234484
+          ],
+          [
+            1.881326,
+            42.234354
+          ],
+          [
+            1.881886,
+            42.234197
+          ],
+          [
+            1.882353,
+            42.234031
+          ],
+          [
+            1.882753,
+            42.233862
+          ],
+          [
+            1.883023,
+            42.233707
+          ],
+          [
+            1.883222,
+            42.233562
+          ],
+          [
+            1.883479,
+            42.233355
+          ],
+          [
+            1.883652,
+            42.233151
+          ],
+          [
+            1.8837,
+            42.233091
+          ],
+          [
+            1.88377,
+            42.232989
+          ],
+          [
+            1.883799,
+            42.232948
+          ],
+          [
+            1.883819,
+            42.23291
+          ],
+          [
+            1.883872,
+            42.232801
+          ],
+          [
+            1.883908,
+            42.232711
+          ],
+          [
+            1.883934,
+            42.232624
+          ],
+          [
+            1.883958,
+            42.2325
+          ],
+          [
+            1.883984,
+            42.232301
+          ],
+          [
+            1.883981,
+            42.232295
+          ],
+          [
+            1.883984,
+            42.232177
+          ],
+          [
+            1.883973,
+            42.232078
+          ],
+          [
+            1.88386,
+            42.231708
+          ],
+          [
+            1.88378,
+            42.231654
+          ],
+          [
+            1.883719,
+            42.231564
+          ],
+          [
+            1.883669,
+            42.231502
+          ],
+          [
+            1.88361,
+            42.231444
+          ],
+          [
+            1.883593,
+            42.231431
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 15:17:26<br><b>Aviso:</b> Arcen cerrado<br><b>Carretera:</b> C-16<br><b>Punto Kilométrico:</b> 116.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.883023,
+          42.233707
         ]
       }
     },
@@ -82495,13 +82663,13 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 15:08:00<br><b>Tipo de Obstrucción:</b> Objeto en Calzada<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> A-8<br><b>Punto Kilométrico:</b> 131.0 km"
+        "description": "<b>Fecha de Creación:</b> 25/01/2026 - 15:17:50<br><b>Tipo de Obstrucción:</b> Caida de piedras<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> BI-3101<br><b>Punto Kilométrico:</b> 34.0 km"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.0671,
-          43.3271
+          -2.7551,
+          43.444
         ]
       }
     },
