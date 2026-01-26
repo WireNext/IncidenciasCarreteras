@@ -68732,7 +68732,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 05:01:15<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 213.5 km"
+        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 05:01:15<br><b>Dirección:</b> Ambos Sentidos<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 213.5 km"
       },
       "geometry": {
         "coordinates": [
@@ -68751,7 +68751,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 05:01:15<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 213.5 km"
+        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 05:01:15<br><b>Dirección:</b> Ambos Sentidos<br><b>Carretera:</b> AP-7<br><b>Punto Kilométrico:</b> 213.5 km"
       },
       "geometry": {
         "type": "Point",
@@ -89296,19 +89296,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 04:35:45<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> BI-636<br><b>Punto Kilométrico:</b> 34.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.2201,
-          43.1752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha de Creación:</b> 26/01/2026 - 05:13:56<br><b>Tipo de Obstrucción:</b> Caida de piedras<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> BI-2101<br><b>Punto Kilométrico:</b> 22.0 km"
       },
       "geometry": {
@@ -89322,7 +89309,33 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 02:05:18<br><b>Dirección:</b> unknown<br><b>Aviso:</b> Restricciones<br><b>Impacto:</b> Retención<br><b>Carretera:</b> N-240<br><b>Punto Kilométrico:</b> 38.3 km"
+        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 05:41:34<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> BI-738<br><b>Punto Kilométrico:</b> 10.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9688,
+          43.3163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 05:52:22<br><b>Tipo de Obstrucción:</b> Caida de piedras<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Congestionada<br><b>Carretera:</b> A-2620<br><b>Punto Kilométrico:</b> 17.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6414,
+          42.988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 05:52:43<br><b>Dirección:</b> unknown<br><b>Aviso:</b> Restricciones<br><b>Impacto:</b> Retención<br><b>Carretera:</b> N-240<br><b>Punto Kilométrico:</b> 38.3 km"
       },
       "geometry": {
         "type": "Point",
