@@ -79772,7 +79772,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 20:40:22<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 109.0 km"
+        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 20:40:22<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 109.0 km"
       },
       "geometry": {
         "coordinates": [
@@ -80525,76 +80525,8 @@
             41.55879
           ],
           [
-            2.483215,
-            41.558827
-          ],
-          [
-            2.48363,
-            41.558962
-          ],
-          [
-            2.484007,
-            41.559089
-          ],
-          [
-            2.484178,
-            41.559151
-          ],
-          [
-            2.484909,
-            41.559431
-          ],
-          [
-            2.485266,
-            41.559587
-          ],
-          [
-            2.485988,
-            41.559932
-          ],
-          [
-            2.486688,
-            41.560292
-          ],
-          [
-            2.48783,
-            41.560953
-          ],
-          [
-            2.488476,
-            41.561335
-          ],
-          [
-            2.488998,
-            41.561629
-          ],
-          [
-            2.489341,
-            41.561819
-          ],
-          [
-            2.48966,
-            41.561996
-          ],
-          [
-            2.489923,
-            41.562131
-          ],
-          [
-            2.49055,
-            41.56243
-          ],
-          [
-            2.49194,
-            41.563067
-          ],
-          [
-            2.492752,
-            41.563444
-          ],
-          [
-            2.493182,
-            41.563672
+            2.483169,
+            41.558812
           ]
         ],
         "type": "LineString"
@@ -80603,13 +80535,117 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 20:40:22<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 109.0 km"
+        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 20:40:22<br><b>Carretera:</b> C-32<br><b>Punto Kilométrico:</b> 109.0 km"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.45855,
-          41.557623
+          2.463371,
+          41.558668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 21:09:07<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> C-15<br><b>Punto Kilométrico:</b> 39.0 km"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.690842,
+            41.537204
+          ],
+          [
+            1.69085,
+            41.537256
+          ],
+          [
+            1.690957,
+            41.537985
+          ],
+          [
+            1.691047,
+            41.538663
+          ],
+          [
+            1.691087,
+            41.538937
+          ],
+          [
+            1.691099,
+            41.539018
+          ],
+          [
+            1.69113,
+            41.539227
+          ],
+          [
+            1.69116,
+            41.539478
+          ],
+          [
+            1.691183,
+            41.539645
+          ],
+          [
+            1.691207,
+            41.539799
+          ],
+          [
+            1.691248,
+            41.540067
+          ],
+          [
+            1.691283,
+            41.54033
+          ],
+          [
+            1.691353,
+            41.540853
+          ],
+          [
+            1.691506,
+            41.54192
+          ],
+          [
+            1.691526,
+            41.542071
+          ],
+          [
+            1.691798,
+            41.543989
+          ],
+          [
+            1.691891,
+            41.544294
+          ],
+          [
+            1.691987,
+            41.544897
+          ],
+          [
+            1.692099,
+            41.54593
+          ],
+          [
+            1.692116,
+            41.546079
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 21:09:07<br><b>Aviso:</b> Corte Total<br><b>Impacto:</b> Carretera Cortada<br><b>Carretera:</b> C-15<br><b>Punto Kilométrico:</b> 39.0 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.691248,
+          41.540067
         ]
       }
     },
@@ -86076,19 +86112,6 @@
         "coordinates": [
           -2.170965,
           43.061184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha de Creación:</b> 26/01/2026 - 20:43:55<br><b>Tipo de Incidente:</b> brokenDownVehicle<br><b>Dirección:</b> unknown<br><b>Impacto:</b> Sin retención<br><b>Carretera:</b> AP-68<br><b>Punto Kilométrico:</b> 68.0 km"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.9048,
-          42.7133
         ]
       }
     },
