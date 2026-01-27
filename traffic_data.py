@@ -70,78 +70,93 @@ def process_xml_from_url(url, region_name, all_incidents):
         response.raise_for_status()
         root = ET.fromstring(response.content)
 
-        # Detectar si es el formato nuevo v3 (DGT) o el viejo v2 (Resto)
         is_v3 = 'http://datex2.eu/schema/3' in root.tag
-        ns = NS_V3 if is_v3 else NS_V2
         
-        # Ruta para encontrar los registros de incidentes
+        # Namespaces exactos del fragmento que has enviado
+        NS_V3 = {
+            'sit': 'http://levelC/schema/3/situation',
+            'com': 'http://levelC/schema/3/common',
+            'loc': 'http://levelC/schema/3/locationReferencing',
+            'lse': 'http://levelC/schema/3/locationReferencingSpanishExtension',
+            'xsi': 'http://www.w3.org/2001/XMLSchema-instance'
+        }
+        NS_V2 = {'_0': 'http://datex2.eu/schema/1_0/1_0'}
+        
+        ns = NS_V3 if is_v3 else NS_V2
         record_path = ".//sit:situationRecord" if is_v3 else ".//_0:situationRecord"
         records = root.findall(record_path, ns)
 
         for record in records:
             description_lines = []
+            lat, lon = None, None
             
-            # --- DEFINICIÓN DE CAMPOS SEGÚN LA VERSIÓN ---
             if is_v3:
-                fields = [
-                    ("sit:situationRecordCreationTime", "Fecha de Creación", format_datetime),
-                    (".//sit:obstructionType", "Tipo de Obstrucción", translate_incident_type),
-                    (".//sit:environmentalObstructionType", "Tipo de Obstrucción", translate_incident_type),
-                    (".//sit:vehicleObstructionType", "Tipo de Incidente", translate_incident_type),
-                    (".//sit:constructionWorkType", "Tipo de Incidente", translate_incident_type),
-                    (".//sit:complianceOption", "Aviso", translate_incident_type),
-                    (".//sit:impactOnTraffic", "Impacto", translate_incident_type),
-                    (".//loc:roadName", "Carretera", None),
-                    (".//loc:mileage", "Punto Kilométrico", lambda x: f"{x} km"),
-                ]
+                # 1. Extraer Datos de Texto
+                # Fecha
+                crea_time = record.find("sit:situationRecordCreationTime", ns)
+                if crea_time is not None:
+                    description_lines.append(f"<b>Fecha:</b> {format_datetime(crea_time.text)}")
+                
+                # Tipo de Incidente (puede estar en varios sitios)
+                for tag in ["sit:roadOrCarriagewayOrLaneManagementType", "sit:obstructionType", "sit:constructionWorkType"]:
+                    type_elem = record.find(f".//{tag}", ns)
+                    if type_elem is not None:
+                        description_lines.append(f"<b>Tipo:</b> {translate_incident_type(type_elem.text)}")
+                        break
+                
+                # Carretera
+                road = record.find(".//loc:roadName", ns)
+                if road is not None:
+                    description_lines.append(f"<b>Carretera:</b> {road.text}")
+
+                # Kilómetro (está en lse:kilometerPoint dentro de loc:from o loc:point)
+                km = record.find(".//lse:kilometerPoint", ns)
+                if km is not None:
+                    description_lines.append(f"<b>KM:</b> {km.text}")
+
+                # 2. Extraer Coordenadas (Priorizamos 'from' en lineales o 'point' en fijos)
+                # Buscamos primero en un punto simple, si no en el inicio de un tramo
+                point_coord = record.find(".//loc:from//loc:pointCoordinates", ns) or \
+                              record.find(".//loc:point//loc:pointCoordinates", ns)
+                
+                if point_coord is not None:
+                    lat_elem = point_coord.find("loc:latitude", ns)
+                    lon_elem = point_coord.find("loc:longitude", ns)
+                    if lat_elem is not None and lon_elem is not None:
+                        lat, lon = float(lat_elem.text), float(lon_elem.text)
+
             else:
+                # --- Lógica antigua para Cataluña / País Vasco ---
                 fields = [
-                    ("_0:situationRecordCreationTime", "Fecha de Creación", format_datetime),
-                    (".//_0:obstructionType", "Tipo de Obstrucción", translate_incident_type),
-                    (".//_0:environmentalObstructionType", "Tipo de Obstrucción", translate_incident_type),
-                    (".//_0:vehicleObstructionType", "Tipo de Incidente", translate_incident_type),
-                    (".//_0:constructionWorkType", "Tipo de Incidente", translate_incident_type),
-                    (".//_0:directionRelative", "Dirección", translate_incident_type),
-                    (".//_0:networkManagementType", "Aviso", translate_incident_type),
-                    (".//_0:impactOnTraffic", "Impacto", translate_incident_type),
+                    ("_0:situationRecordCreationTime", "Fecha", format_datetime),
                     (".//_0:roadNumber", "Carretera", None),
-                    (".//_0:referencePointDistance", "Punto Kilométrico", lambda x: f"{float(x)/1000:.1f} km"),
+                    (".//_0:referencePointDistance", "KM", lambda x: f"{float(x)/1000:.1f}")
                 ]
+                for path, label, func in fields:
+                    elem = record.find(path, ns)
+                    if elem is not None:
+                        val = func(elem.text) if func else elem.text
+                        description_lines.append(f"<b>{label}:</b> {val}")
+                
+                lat_elem = record.find(".//_0:latitude", ns)
+                lon_elem = record.find(".//_0:longitude", ns)
+                if lat_elem is not None and lon_elem is not None:
+                    lat, lon = float(lat_elem.text), float(lon_elem.text)
 
-            # Extraer los datos para la descripción HTML
-            for path, label, func in fields:
-                elem = record.find(path, ns)
-                if elem is not None and elem.text:
-                    val = func(elem.text) if func else elem.text
-                    description_lines.append(f"<b>{label}:</b> {val}")
-
-            final_description = "<br>".join(description_lines)
-
-            # --- EXTRACCIÓN DE COORDENADAS ---
-            # En v3 están en loc:latitude, en v2 en _0:latitude
-            lat_path = ".//loc:latitude" if is_v3 else ".//_0:latitude"
-            lon_path = ".//loc:longitude" if is_v3 else ".//_0:longitude"
-            
-            lat_elem = record.find(lat_path, ns)
-            lon_elem = record.find(lon_path, ns)
-
-            if lat_elem is not None and lon_elem is not None:
+            # Guardar si tenemos coordenadas
+            if lat and lon:
                 all_incidents.append({
                     "type": "Feature",
                     "properties": {
-                        "description": final_description,
+                        "description": "<br>".join(description_lines),
                         "region": region_name
                     },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [float(lon_elem.text), float(lat_elem.text)]
-                    }
+                    "geometry": {"type": "Point", "coordinates": [lon, lat]}
                 })
 
-        print(f"OK: {len(records)} incidentes procesados.")
-
+        print(f"OK: {len(records)} procesados en {region_name}.")
     except Exception as e:
-        print(f"Error procesando {region_name}: {e}")
+        print(f"Error en {region_name}: {e}")
 
 # --- INICIO DEL PROGRAMA ---
 if __name__ == "__main__":
