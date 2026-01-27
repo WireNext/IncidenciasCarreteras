@@ -3483,8 +3483,8 @@
             42.65098
           ],
           [
-            1.0401958,
-            42.639694
+            1.0513874,
+            42.63923
           ]
         ]
       }
@@ -3517,8 +3517,8 @@
             42.65098
           ],
           [
-            1.0401958,
-            42.639694
+            1.0513874,
+            42.63923
           ]
         ]
       }
@@ -4486,6 +4486,142 @@
         "coordinates": [
           3.1142104,
           41.983444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:30:56<br><b>Carretera:</b> C-31<br><b>KM:</b> 211.5",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.234146,
+            41.44628
+          ],
+          [
+            2.234146,
+            41.44628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:30:56<br><b>Carretera:</b> C-31<br><b>KM:</b> 211.5",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.234146,
+          41.44628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:30:56<br><b>Carretera:</b> C-31<br><b>KM:</b> 211.5",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.234146,
+            41.44628
+          ],
+          [
+            2.234146,
+            41.44628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:30:56<br><b>Carretera:</b> C-31<br><b>KM:</b> 211.5",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.234146,
+          41.44628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:35:46<br><b>Carretera:</b> C-28<br><b>KM:</b> 23.5",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.79818106,
+            42.70032
+          ],
+          [
+            0.93022925,
+            42.699787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:35:46<br><b>Carretera:</b> C-28<br><b>KM:</b> 23.5",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.79818106,
+          42.70032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:35:46<br><b>Carretera:</b> C-28<br><b>KM:</b> 23.5",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.79818106,
+            42.70032
+          ],
+          [
+            0.93022925,
+            42.699787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:35:46<br><b>Carretera:</b> C-28<br><b>KM:</b> 23.5",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.79818106,
+          42.70032
         ]
       }
     },
@@ -6516,20 +6652,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 04/11/2024 - 09:25:18<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> CM-2122<br><b>KM:</b> 14.39",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.699333,
-          40.971268
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 04/11/2024 - 09:25:18<br><b>Tipo:</b> Corte Total<br><b>Carretera:</b> CM-2122<br><b>KM:</b> 14.39",
         "region": "Resto España"
       },
@@ -6538,6 +6660,20 @@
         "coordinates": [
           -1.6992873,
           40.97127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 04/11/2024 - 09:25:18<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> CM-2122<br><b>KM:</b> 14.39",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.699333,
+          40.971268
         ]
       }
     },
@@ -6600,7 +6736,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 23/12/2024 - 11:09:11<br><b>Tipo:</b> weightRestrictionInOperation<br><b>Carretera:</b> LZ-10<br><b>KM:</b> 21.37",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 23/12/2024 - 11:09:11<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> LZ-10<br><b>KM:</b> 21.37",
         "region": "Resto España"
       },
       "geometry": {
@@ -6614,7 +6750,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 23/12/2024 - 11:09:11<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> LZ-10<br><b>KM:</b> 21.37",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 23/12/2024 - 11:09:11<br><b>Tipo:</b> weightRestrictionInOperation<br><b>Carretera:</b> LZ-10<br><b>KM:</b> 21.37",
         "region": "Resto España"
       },
       "geometry": {
@@ -6726,20 +6862,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 28/08/2025 - 10:26:04<br><b>Tipo:</b> Obras<br><b>Carretera:</b> A-127<br><b>KM:</b> 13.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1527387,
-          42.10527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 14/04/2025 - 11:00:20<br><b>Tipo:</b> Obras<br><b>Carretera:</b> A-127<br><b>KM:</b> 37.0",
         "region": "Resto España"
       },
@@ -6748,6 +6870,20 @@
         "coordinates": [
           -1.269508,
           41.914543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 28/08/2025 - 10:26:04<br><b>Tipo:</b> Obras<br><b>Carretera:</b> A-127<br><b>KM:</b> 13.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1527387,
+          42.10527
         ]
       }
     },
@@ -6908,20 +7044,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 08/07/2025 - 16:30:29<br><b>Tipo:</b> Obras<br><b>Carretera:</b> TF-5<br><b>KM:</b> 62.1",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -16.760796,
-          28.3587
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 08/07/2025 - 16:31:39<br><b>Tipo:</b> Obras<br><b>Carretera:</b> TF-5<br><b>KM:</b> 61.0",
         "region": "Resto España"
       },
@@ -6930,6 +7052,20 @@
         "coordinates": [
           -16.773008,
           28.357725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 08/07/2025 - 16:30:29<br><b>Tipo:</b> Obras<br><b>Carretera:</b> TF-5<br><b>KM:</b> 62.1",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.760796,
+          28.3587
         ]
       }
     },
@@ -6978,20 +7114,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 03/12/2025 - 10:25:12<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> N-232<br><b>KM:</b> 251.5",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.9942245,
-          41.69855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 03/12/2025 - 10:25:12<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> N-232<br><b>KM:</b> 250.1",
         "region": "Resto España"
       },
@@ -7000,6 +7122,20 @@
         "coordinates": [
           -0.99296355,
           41.697758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 03/12/2025 - 10:25:12<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> N-232<br><b>KM:</b> 251.5",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9942245,
+          41.69855
         ]
       }
     },
@@ -7048,7 +7184,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 19/08/2025 - 14:00:37<br><b>Tipo:</b> Obras<br><b>Carretera:</b> A-67<br><b>KM:</b> 187.9",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 19/08/2025 - 14:00:35<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-67<br><b>KM:</b> 187.9",
         "region": "Resto España"
       },
       "geometry": {
@@ -7062,7 +7198,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 19/08/2025 - 14:00:35<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-67<br><b>KM:</b> 187.9",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 19/08/2025 - 14:00:37<br><b>Tipo:</b> Obras<br><b>Carretera:</b> A-67<br><b>KM:</b> 187.9",
         "region": "Resto España"
       },
       "geometry": {
@@ -7118,20 +7254,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/08/2025 - 12:03:20<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> LP-120<br><b>KM:</b> 1.75",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -17.933962,
-          28.66223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/08/2025 - 12:03:20<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> LP-2<br><b>KM:</b> 55.43",
         "region": "Resto España"
       },
@@ -7140,6 +7262,20 @@
         "coordinates": [
           -17.926504,
           28.656277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/08/2025 - 12:03:20<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> LP-120<br><b>KM:</b> 1.75",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.933962,
+          28.66223
         ]
       }
     },
@@ -7188,14 +7324,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 16/09/2025 - 08:44:43<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> N-340a<br><b>KM:</b> 1048.7",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 16/09/2025 - 08:44:33<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> N-340a<br><b>KM:</b> 1050.5",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.46173874,
-          40.460403
+          0.44829085,
+          40.446762
         ]
       }
     },
@@ -7230,21 +7366,21 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 16/09/2025 - 08:44:33<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> N-340a<br><b>KM:</b> 1050.5",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 16/09/2025 - 08:44:43<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> N-340a<br><b>KM:</b> 1048.7",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.44829085,
-          40.446762
+          0.46173874,
+          40.460403
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/09/2025 - 18:01:50<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-67<br><b>KM:</b> 191.1",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/09/2025 - 18:02:04<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-67<br><b>KM:</b> 191.1",
         "region": "Resto España"
       },
       "geometry": {
@@ -7258,7 +7394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/09/2025 - 18:02:04<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-67<br><b>KM:</b> 191.1",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/09/2025 - 18:01:50<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-67<br><b>KM:</b> 191.1",
         "region": "Resto España"
       },
       "geometry": {
@@ -7370,6 +7506,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 25/09/2025 - 16:44:12<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> AP-7<br><b>KM:</b> 697.2",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6172577,
+          38.38883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 25/09/2025 - 16:45:01<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> AP-7<br><b>KM:</b> 697.3",
         "region": "Resto España"
       },
@@ -7378,20 +7528,6 @@
         "coordinates": [
           -0.61147356,
           38.395157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 25/09/2025 - 18:01:22<br><b>Tipo:</b> useOfSpecifiedLanesOrCarriagewaysAllowed<br><b>Carretera:</b> AP-7<br><b>KM:</b> 697.9",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.60801864,
-          38.399883
         ]
       }
     },
@@ -7412,14 +7548,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 25/09/2025 - 16:44:12<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> AP-7<br><b>KM:</b> 697.2",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 25/09/2025 - 18:01:22<br><b>Tipo:</b> useOfSpecifiedLanesOrCarriagewaysAllowed<br><b>Carretera:</b> AP-7<br><b>KM:</b> 697.9",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.6172577,
-          38.38883
+          -0.60801864,
+          38.399883
         ]
       }
     },
@@ -7706,14 +7842,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 17/10/2025 - 13:38:12<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> N-260a<br><b>KM:</b> 517.48",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 17/10/2025 - 13:38:12<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> N-330<br><b>KM:</b> 630.5",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.36052966,
-          42.536896
+          -0.3969102,
+          42.540215
         ]
       }
     },
@@ -7734,28 +7870,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 17/10/2025 - 13:38:12<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> N-330<br><b>KM:</b> 630.5",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 17/10/2025 - 13:38:12<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> N-260a<br><b>KM:</b> 517.48",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3969102,
-          42.540215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 20/10/2025 - 07:39:30<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> CV-500<br><b>KM:</b> 1.2",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.34079924,
-          39.415516
+          -0.36052966,
+          42.536896
         ]
       }
     },
@@ -7776,14 +7898,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 07/11/2025 - 10:44:06<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> EX-108<br><b>KM:</b> 105.3",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 20/10/2025 - 07:39:30<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> CV-500<br><b>KM:</b> 1.2",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.87934,
-          39.98846
+          -0.34079924,
+          39.415516
         ]
       }
     },
@@ -7798,6 +7920,20 @@
         "coordinates": [
           -6.675639,
           40.04549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 07/11/2025 - 10:44:06<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> EX-108<br><b>KM:</b> 105.3",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.87934,
+          39.98846
         ]
       }
     },
@@ -7846,20 +7982,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 03/11/2025 - 16:45:58<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> RM-15<br><b>KM:</b> 0.18",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2478231,
-          37.98094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 04/11/2025 - 16:29:17<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> A-7<br><b>KM:</b> 578.0",
         "region": "Resto España"
       },
@@ -7868,62 +7990,6 @@
         "coordinates": [
           -1.2310028,
           37.999287
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 04/11/2025 - 16:29:17<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> A-7<br><b>KM:</b> 581.2",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2465178,
-          37.978405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 04/11/2025 - 16:29:17<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> A-7<br><b>KM:</b> 578.61",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2560424,
-          37.953274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 03/11/2025 - 09:09:38<br><b>Tipo:</b> Corte Total<br><b>Carretera:</b> RM-15<br><b>KM:</b> 0.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.24606,
-          37.98053
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 04/11/2025 - 16:29:17<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> A-7<br><b>KM:</b> 575.84",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2438567,
-          37.983425
         ]
       }
     },
@@ -7944,6 +8010,76 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 03/11/2025 - 16:45:58<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> RM-15<br><b>KM:</b> 0.18",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2478231,
+          37.98094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 03/11/2025 - 09:09:38<br><b>Tipo:</b> Corte Total<br><b>Carretera:</b> RM-15<br><b>KM:</b> 0.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.24606,
+          37.98053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 04/11/2025 - 16:29:17<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> A-7<br><b>KM:</b> 578.61",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2560424,
+          37.953274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 04/11/2025 - 16:29:17<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> A-7<br><b>KM:</b> 581.2",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2465178,
+          37.978405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 04/11/2025 - 16:29:17<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> A-7<br><b>KM:</b> 575.84",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2438567,
+          37.983425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 07/11/2025 - 13:33:19<br><b>Tipo:</b> intermittentShortTermClosures<br><b>Carretera:</b> SA-104<br><b>KM:</b> 1.58",
         "region": "Resto España"
       },
@@ -7958,7 +8094,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/11/2025 - 10:56:48<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-67<br><b>KM:</b> 191.1",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/11/2025 - 10:56:42<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-67<br><b>KM:</b> 191.1",
         "region": "Resto España"
       },
       "geometry": {
@@ -7972,7 +8108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/11/2025 - 10:56:42<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-67<br><b>KM:</b> 191.1",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/11/2025 - 10:56:48<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-67<br><b>KM:</b> 191.1",
         "region": "Resto España"
       },
       "geometry": {
@@ -8014,20 +8150,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/11/2025 - 07:33:24<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> N-220<br><b>KM:</b> 1.95",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.45961,
-          39.50726
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/11/2025 - 07:33:14<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> CV-365<br><b>KM:</b> 3.4",
         "region": "Resto España"
       },
@@ -8036,20 +8158,6 @@
         "coordinates": [
           -0.45679694,
           39.50926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/11/2025 - 07:33:18<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> CV-365<br><b>KM:</b> 3.15",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.45723152,
-          39.50894
         ]
       }
     },
@@ -8070,6 +8178,34 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/11/2025 - 07:33:24<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> N-220<br><b>KM:</b> 1.95",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.45961,
+          39.50726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/11/2025 - 07:33:18<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> CV-365<br><b>KM:</b> 3.15",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.45723152,
+          39.50894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 07/11/2025 - 14:24:38<br><b>Tipo:</b> Obras<br><b>Carretera:</b> A-7<br><b>KM:</b> 338.0",
         "region": "Resto España"
       },
@@ -8078,6 +8214,20 @@
         "coordinates": [
           -0.5498931,
           39.46892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 12/11/2025 - 20:11:18<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> A-7176<br><b>KM:</b> 4.2",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.946878,
+          36.510815
         ]
       }
     },
@@ -8112,20 +8262,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 12/11/2025 - 20:11:18<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> A-7176<br><b>KM:</b> 4.2",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.946878,
-          36.510815
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Highest<br><b>Fecha:</b> 12/11/2025 - 20:58:28<br><b>Tipo:</b> Corte Total<br><b>Carretera:</b> CV-395<br><b>KM:</b> 27.0",
         "region": "Resto España"
       },
@@ -8134,20 +8270,6 @@
         "coordinates": [
           -0.97385997,
           39.59205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 20/11/2025 - 11:55:32<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> A-476<br><b>KM:</b> 26.4",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.53879,
-          37.687008
         ]
       }
     },
@@ -8168,14 +8290,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 08/01/2026 - 08:46:52<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-67<br><b>KM:</b> 79.8",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 20/11/2025 - 11:55:32<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> A-476<br><b>KM:</b> 26.4",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.3453646,
-          42.57474
+          -6.53879,
+          37.687008
         ]
       }
     },
@@ -8190,6 +8312,20 @@
         "coordinates": [
           -4.349007,
           42.608284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 08/01/2026 - 08:46:52<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-67<br><b>KM:</b> 79.8",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3453646,
+          42.57474
         ]
       }
     },
@@ -8392,20 +8528,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/11/2025 - 06:03:03<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> M-607<br><b>KM:</b> 27.8",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7358758,
-          40.649975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/11/2025 - 06:03:10<br><b>Tipo:</b> Obras<br><b>Carretera:</b> M-607<br><b>KM:</b> 27.8",
         "region": "Resto España"
       },
@@ -8420,14 +8542,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 28/11/2025 - 12:19:35<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> N-521<br><b>KM:</b> 54.5",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/11/2025 - 06:03:03<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> M-607<br><b>KM:</b> 27.8",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.4304085,
-          39.460907
+          -3.7358758,
+          40.649975
         ]
       }
     },
@@ -8442,6 +8564,20 @@
         "coordinates": [
           -6.4532886,
           39.45591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 28/11/2025 - 12:19:35<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> N-521<br><b>KM:</b> 54.5",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4304085,
+          39.460907
         ]
       }
     },
@@ -8490,20 +8626,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 26/01/2026 - 08:18:04<br><b>Tipo:</b> Obras<br><b>Carretera:</b> FV-1<br><b>KM:</b> 18.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -13.87329,
-          28.72257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 26/01/2026 - 08:17:45<br><b>Tipo:</b> Obras<br><b>Carretera:</b> FV-1<br><b>KM:</b> 27.8",
         "region": "Resto España"
       },
@@ -8512,6 +8634,20 @@
         "coordinates": [
           -13.859693,
           28.647913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 26/01/2026 - 08:18:04<br><b>Tipo:</b> Obras<br><b>Carretera:</b> FV-1<br><b>KM:</b> 18.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.87329,
+          28.72257
         ]
       }
     },
@@ -8560,20 +8696,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 03/12/2025 - 06:07:47<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> V-30<br><b>KM:</b> 14.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.45544493,
-          39.501186
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 03/12/2025 - 06:07:51<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> V-30<br><b>KM:</b> 15.0",
         "region": "Resto España"
       },
@@ -8596,6 +8718,20 @@
         "coordinates": [
           -0.460699,
           39.506493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 03/12/2025 - 06:07:47<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> V-30<br><b>KM:</b> 14.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.45544493,
+          39.501186
         ]
       }
     },
@@ -8658,20 +8794,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/12/2025 - 09:10:14<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> M-607<br><b>KM:</b> 26.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7128406,
-          40.593597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/12/2025 - 09:10:22<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> M-607<br><b>KM:</b> 23.0",
         "region": "Resto España"
       },
@@ -8686,14 +8808,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 09/12/2025 - 12:27:21<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> RM-605<br><b>KM:</b> 8.0",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 10/12/2025 - 09:10:14<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> M-607<br><b>KM:</b> 26.0",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.08037,
-          37.70366
+          -3.7128406,
+          40.593597
         ]
       }
     },
@@ -8708,6 +8830,20 @@
         "coordinates": [
           -1.075631,
           37.696045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 09/12/2025 - 12:27:21<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> RM-605<br><b>KM:</b> 8.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.08037,
+          37.70366
         ]
       }
     },
@@ -9050,7 +9186,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 26/01/2026 - 15:38:26<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> SA-203<br><b>KM:</b> 12.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 26/01/2026 - 15:38:26<br><b>Carretera:</b> SA-203<br><b>KM:</b> 12.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -9064,7 +9200,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 26/01/2026 - 15:38:26<br><b>Carretera:</b> SA-203<br><b>KM:</b> 12.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 26/01/2026 - 15:38:26<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> SA-203<br><b>KM:</b> 12.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -9162,20 +9298,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 13/01/2026 - 08:34:36<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> A-1512<br><b>KM:</b> 61.5",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5962036,
-          40.45658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 13/01/2026 - 08:34:42<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> A-1512<br><b>KM:</b> 50.0",
         "region": "Resto España"
       },
@@ -9190,14 +9312,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 07/01/2026 - 08:16:57<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> PO-308<br><b>KM:</b> 18.6",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 13/01/2026 - 08:34:36<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> A-1512<br><b>KM:</b> 61.5",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.825218,
-          42.398247
+          -1.5962036,
+          40.45658
         ]
       }
     },
@@ -9218,14 +9340,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 31/12/2025 - 13:03:06<br><b>Tipo:</b> Obras<br><b>Carretera:</b> GR-3211<br><b>KM:</b> 1.5",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 07/01/2026 - 08:16:57<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> PO-308<br><b>KM:</b> 18.6",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.586358,
-          37.130173
+          -8.825218,
+          42.398247
         ]
       }
     },
@@ -9240,6 +9362,20 @@
         "coordinates": [
           -3.5876002,
           37.136494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 31/12/2025 - 13:03:06<br><b>Tipo:</b> Obras<br><b>Carretera:</b> GR-3211<br><b>KM:</b> 1.5",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.586358,
+          37.130173
         ]
       }
     },
@@ -9274,20 +9410,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 31/12/2025 - 23:48:45<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-52<br><b>KM:</b> 115.1",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.029995,
-          42.0383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 31/12/2025 - 23:48:36<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> A-52<br><b>KM:</b> 117.2",
         "region": "Resto España"
       },
@@ -9296,6 +9418,20 @@
         "coordinates": [
           -7.007954,
           42.041718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 31/12/2025 - 23:48:45<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-52<br><b>KM:</b> 115.1",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.029995,
+          42.0383
         ]
       }
     },
@@ -9344,20 +9480,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 22/01/2026 - 18:34:49<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-7<br><b>KM:</b> 638.4",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7395989,
-          37.640636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 07/01/2026 - 10:45:56<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-7<br><b>KM:</b> 638.4",
         "region": "Resto España"
       },
@@ -9372,14 +9494,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 15/01/2026 - 09:32:02<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> N-4<br><b>KM:</b> 569.4",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 22/01/2026 - 18:34:49<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-7<br><b>KM:</b> 638.4",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.9268312,
-          37.15109
+          -1.7395989,
+          37.640636
         ]
       }
     },
@@ -9394,6 +9516,20 @@
         "coordinates": [
           -5.9408646,
           37.156994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 15/01/2026 - 09:32:02<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> N-4<br><b>KM:</b> 569.4",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9268312,
+          37.15109
         ]
       }
     },
@@ -9428,20 +9564,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 07/01/2026 - 07:36:29<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> A-121<br><b>KM:</b> 37.5",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3917861,
-          41.545574
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 07/01/2026 - 07:36:32<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> A-121<br><b>KM:</b> 34.0",
         "region": "Resto España"
       },
@@ -9456,21 +9578,21 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 12/01/2026 - 18:55:27<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> A-7<br><b>KM:</b> 943.7",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 07/01/2026 - 07:36:29<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> A-121<br><b>KM:</b> 37.5",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0120616,
-          36.75203
+          -1.3917861,
+          41.545574
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 12/01/2026 - 18:55:40<br><b>Tipo:</b> useOfSpecifiedLanesOrCarriagewaysAllowed<br><b>Carretera:</b> A-7<br><b>KM:</b> 943.7",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 12/01/2026 - 18:55:27<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> A-7<br><b>KM:</b> 943.7",
         "region": "Resto España"
       },
       "geometry": {
@@ -9498,14 +9620,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 08/01/2026 - 09:37:13<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> CL-631<br><b>KM:</b> 35.3",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 12/01/2026 - 18:55:40<br><b>Tipo:</b> useOfSpecifiedLanesOrCarriagewaysAllowed<br><b>Carretera:</b> A-7<br><b>KM:</b> 943.7",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.515311,
-          42.69679
+          -4.0120616,
+          36.75203
         ]
       }
     },
@@ -9526,14 +9648,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 26/01/2026 - 10:05:35<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-8<br><b>KM:</b> 374.2",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 08/01/2026 - 09:37:13<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> CL-631<br><b>KM:</b> 35.3",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.620724,
-          43.5142
+          -6.515311,
+          42.69679
         ]
       }
     },
@@ -9548,6 +9670,20 @@
         "coordinates": [
           -5.6045246,
           43.51096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 26/01/2026 - 10:05:35<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-8<br><b>KM:</b> 374.2",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.620724,
+          43.5142
         ]
       }
     },
@@ -9596,7 +9732,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 06/01/2026 - 03:08:02<br><b>Carretera:</b> BU-571<br><b>KM:</b> 5.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 06/01/2026 - 03:08:02<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> BU-571<br><b>KM:</b> 5.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -9638,7 +9774,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 06/01/2026 - 03:08:02<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> BU-571<br><b>KM:</b> 5.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 06/01/2026 - 03:08:02<br><b>Carretera:</b> BU-571<br><b>KM:</b> 5.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -9646,20 +9782,6 @@
         "coordinates": [
           -3.573232,
           43.152508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 13:48:12<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-6<br><b>KM:</b> 116.8",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.6408443,
-          40.982933
         ]
       }
     },
@@ -9674,6 +9796,20 @@
         "coordinates": [
           -4.654946,
           40.99734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 13:48:12<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-6<br><b>KM:</b> 116.8",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6408443,
+          40.982933
         ]
       }
     },
@@ -9764,14 +9900,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 09/01/2026 - 12:20:52<br><b>Tipo:</b> useOfSpecifiedLanesOrCarriagewaysAllowed<br><b>Carretera:</b> A-7<br><b>KM:</b> 872.5",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 09/01/2026 - 12:20:54<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-7<br><b>KM:</b> 866.3",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.284297,
-          36.75121
+          -3.3499181,
+          36.74393
         ]
       }
     },
@@ -9792,14 +9928,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 09/01/2026 - 12:20:54<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-7<br><b>KM:</b> 866.3",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 09/01/2026 - 12:20:52<br><b>Tipo:</b> useOfSpecifiedLanesOrCarriagewaysAllowed<br><b>Carretera:</b> A-7<br><b>KM:</b> 872.5",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.3499181,
-          36.74393
+          -3.284297,
+          36.75121
         ]
       }
     },
@@ -10002,20 +10138,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 16/01/2026 - 13:01:15<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-2<br><b>KM:</b> 59.75",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.1263058,
-          40.6513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 16/01/2026 - 13:01:19<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-2<br><b>KM:</b> 59.65",
         "region": "Resto España"
       },
@@ -10030,14 +10152,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 16/01/2026 - 08:10:03<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> A-4<br><b>KM:</b> 534.0",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 16/01/2026 - 13:01:15<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-2<br><b>KM:</b> 59.75",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.89699,
-          37.42815
+          -3.1263058,
+          40.6513
         ]
       }
     },
@@ -10072,6 +10194,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 16/01/2026 - 08:10:03<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> A-4<br><b>KM:</b> 534.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.89699,
+          37.42815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 12/01/2026 - 15:06:37<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-67<br><b>KM:</b> 166.7",
         "region": "Resto España"
       },
@@ -10080,20 +10216,6 @@
         "coordinates": [
           -4.0799413,
           43.22701
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 13/01/2026 - 07:45:37<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> RM-702<br><b>KM:</b> 3.5",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.992489,
-          38.05952
         ]
       }
     },
@@ -10114,14 +10236,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 12/01/2026 - 14:45:01<br><b>Tipo:</b> other<br><b>Carretera:</b> AC-15<br><b>KM:</b> 1.69",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 13/01/2026 - 07:45:37<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> RM-702<br><b>KM:</b> 3.5",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.47894,
-          43.34762
+          -1.992489,
+          38.05952
         ]
       }
     },
@@ -10142,14 +10264,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 13/01/2026 - 11:07:58<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> N-340a<br><b>KM:</b> 392.6",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 12/01/2026 - 14:45:01<br><b>Tipo:</b> other<br><b>Carretera:</b> AC-15<br><b>KM:</b> 1.69",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.9694917,
-          36.759842
+          -8.47894,
+          43.34762
         ]
       }
     },
@@ -10170,6 +10292,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 13/01/2026 - 11:07:58<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> N-340a<br><b>KM:</b> 392.6",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9694917,
+          36.759842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 15/01/2026 - 12:51:54<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> A-1303<br><b>KM:</b> 2.2",
         "region": "Resto España"
       },
@@ -10178,20 +10314,6 @@
         "coordinates": [
           -1.5164824,
           41.818153
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 19/01/2026 - 08:03:09<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> N-234<br><b>KM:</b> 413.2",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.1521733,
-          41.847805
         ]
       }
     },
@@ -10212,6 +10334,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 19/01/2026 - 08:03:09<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> N-234<br><b>KM:</b> 413.2",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1521733,
+          41.847805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 23/01/2026 - 11:35:24<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> AG-53<br><b>KM:</b> 87.2",
         "region": "Resto España"
       },
@@ -10220,20 +10356,6 @@
         "coordinates": [
           -7.9988966,
           42.354084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 22/01/2026 - 12:34:54<br><b>Tipo:</b> useOfSpecifiedLanesOrCarriagewaysAllowed<br><b>Carretera:</b> A-7<br><b>KM:</b> 943.7",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0120616,
-          36.75203
         ]
       }
     },
@@ -10268,6 +10390,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 22/01/2026 - 12:34:54<br><b>Tipo:</b> useOfSpecifiedLanesOrCarriagewaysAllowed<br><b>Carretera:</b> A-7<br><b>KM:</b> 943.7",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0120616,
+          36.75203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 21/01/2026 - 09:00:23<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> N-340a<br><b>KM:</b> 399.8",
         "region": "Resto España"
       },
@@ -10276,20 +10412,6 @@
         "coordinates": [
           -2.9147167,
           36.75358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 16/01/2026 - 12:47:56<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> N-432<br><b>KM:</b> 1.6",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.9491196,
-          38.861927
         ]
       }
     },
@@ -10324,6 +10446,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 16/01/2026 - 12:47:56<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> N-432<br><b>KM:</b> 1.6",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9491196,
+          38.861927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 16/01/2026 - 12:47:46<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> N-432<br><b>KM:</b> 1.69",
         "region": "Resto España"
       },
@@ -10338,20 +10474,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Highest<br><b>Fecha:</b> 19/01/2026 - 08:28:19<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> GR-8101<br><b>KM:</b> 12.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7807,
-          37.26277
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Highest<br><b>Fecha:</b> 19/01/2026 - 08:28:28<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> GR-8101<br><b>KM:</b> 0.0",
         "region": "Resto España"
       },
@@ -10360,6 +10482,20 @@
         "coordinates": [
           -2.763773,
           37.328163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Highest<br><b>Fecha:</b> 19/01/2026 - 08:28:19<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> GR-8101<br><b>KM:</b> 12.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7807,
+          37.26277
         ]
       }
     },
@@ -10576,7 +10712,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 20/01/2026 - 16:29:49<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 534.2",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 20/01/2026 - 16:30:04<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 534.2",
         "region": "Resto España"
       },
       "geometry": {
@@ -10590,7 +10726,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 20/01/2026 - 16:30:04<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 534.2",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 20/01/2026 - 16:29:49<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 534.2",
         "region": "Resto España"
       },
       "geometry": {
@@ -10674,20 +10810,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:26:50<br><b>Tipo:</b> narrowLanes<br><b>Carretera:</b> A-7<br><b>KM:</b> 336.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.549113,
-          39.473366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:07:09<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-7<br><b>KM:</b> 336.0",
         "region": "Resto España"
       },
@@ -10696,6 +10818,34 @@
         "coordinates": [
           -0.42894074,
           39.341446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:36:04<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-7<br><b>KM:</b> 346.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.50050896,
+          39.4113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:24:32<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-7<br><b>KM:</b> 307.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.30549857,
+          39.632545
         ]
       }
     },
@@ -10730,14 +10880,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:24:32<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-7<br><b>KM:</b> 307.0",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:26:50<br><b>Tipo:</b> narrowLanes<br><b>Carretera:</b> A-7<br><b>KM:</b> 336.0",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.30549857,
-          39.632545
+          -0.549113,
+          39.473366
         ]
       }
     },
@@ -10772,14 +10922,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 12:00:19<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-6<br><b>KM:</b> 372.0",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 14:43:38<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-6<br><b>KM:</b> 339.0",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.4752812,
-          42.610794
+          -6.130934,
+          42.526318
         ]
       }
     },
@@ -10800,14 +10950,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 14:43:38<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-6<br><b>KM:</b> 339.0",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 12:00:19<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-6<br><b>KM:</b> 372.0",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.130934,
-          42.526318
+          -6.4752812,
+          42.610794
         ]
       }
     },
@@ -10842,20 +10992,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 22/01/2026 - 07:47:33<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> N-632<br><b>KM:</b> 96.63",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.907351,
-          43.548023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 22/01/2026 - 07:47:29<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> N-632<br><b>KM:</b> 96.787",
         "region": "Resto España"
       },
@@ -10864,6 +11000,20 @@
         "coordinates": [
           -5.905898,
           43.54873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 22/01/2026 - 07:47:33<br><b>Tipo:</b> newRoadworksLayout<br><b>Carretera:</b> N-632<br><b>KM:</b> 96.63",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.907351,
+          43.548023
         ]
       }
     },
@@ -10926,34 +11076,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 22/01/2026 - 11:09:25<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> LE-233<br><b>KM:</b> 8.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.88783,
-          42.8971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 22/01/2026 - 11:09:25<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> LE-233<br><b>KM:</b> 8.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.88783,
-          42.8971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 22/01/2026 - 11:09:25<br><b>Carretera:</b> LE-233<br><b>KM:</b> 8.0",
         "region": "Resto España"
       },
@@ -10968,7 +11090,35 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Medium<br><b>Fecha:</b> 27/01/2026 - 15:57:24<br><b>Carretera:</b> LE-333<br><b>KM:</b> 13.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 22/01/2026 - 11:09:25<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> LE-233<br><b>KM:</b> 8.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.88783,
+          42.8971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 22/01/2026 - 11:09:25<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> LE-233<br><b>KM:</b> 8.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.88783,
+          42.8971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Medium<br><b>Fecha:</b> 27/01/2026 - 15:57:24<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> LE-333<br><b>KM:</b> 13.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -10982,7 +11132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Medium<br><b>Fecha:</b> 27/01/2026 - 15:57:24<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> LE-333<br><b>KM:</b> 13.0",
+        "description": "<br><b>Severidad:</b> Medium<br><b>Fecha:</b> 27/01/2026 - 15:57:24<br><b>Carretera:</b> LE-333<br><b>KM:</b> 13.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -11024,6 +11174,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:03:23<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-7<br><b>KM:</b> 798.2",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.545771,
+          36.820507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:03:28<br><b>Tipo:</b> useOfSpecifiedLanesOrCarriagewaysAllowed<br><b>Carretera:</b> A-7<br><b>KM:</b> 794.5",
         "region": "Resto España"
       },
@@ -11046,20 +11210,6 @@
         "coordinates": [
           -2.5847561,
           36.827244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:03:23<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-7<br><b>KM:</b> 798.2",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.545771,
-          36.820507
         ]
       }
     },
@@ -11122,7 +11272,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 10:09:48<br><b>Carretera:</b> AL-3102<br><b>KM:</b> 41.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 10:09:48<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> AL-3102<br><b>KM:</b> 41.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -11136,7 +11286,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 10:09:48<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> AL-3102<br><b>KM:</b> 41.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 10:09:48<br><b>Carretera:</b> AL-3102<br><b>KM:</b> 41.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -11192,35 +11342,35 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 10:10:20<br><b>Carretera:</b> AL-4404<br><b>KM:</b> 28.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.5960271,
-          37.211212
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 10:10:20<br><b>Carretera:</b> AL-4404<br><b>KM:</b> 28.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.5960271,
-          37.211212
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 10:10:20<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> AL-4404<br><b>KM:</b> 28.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5960271,
+          37.211212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 10:10:20<br><b>Carretera:</b> AL-4404<br><b>KM:</b> 28.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5960271,
+          37.211212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 10:10:20<br><b>Carretera:</b> AL-4404<br><b>KM:</b> 28.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -11248,20 +11398,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 10:11:23<br><b>Carretera:</b> AL-5407<br><b>KM:</b> 4.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4568295,
-          37.2643
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 10:11:23<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> AL-5407<br><b>KM:</b> 4.0",
         "region": "Resto España"
       },
@@ -11298,6 +11434,48 @@
         "coordinates": [
           -2.4568295,
           37.2643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 10:11:23<br><b>Carretera:</b> AL-5407<br><b>KM:</b> 4.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4568295,
+          37.2643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:31:54<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> BU-30R<br><b>KM:</b> 10.3",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7918403,
+          42.34508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:31:40<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> BU-30<br><b>KM:</b> 1.4",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69815,
+          42.31645
         ]
       }
     },
@@ -11332,20 +11510,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:31:59<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> BU-30<br><b>KM:</b> 5.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7764595,
-          42.33072
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:31:30<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> BU-30<br><b>KM:</b> 1.9",
         "region": "Resto España"
       },
@@ -11360,6 +11524,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:31:59<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> BU-30<br><b>KM:</b> 5.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7764595,
+          42.33072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:31:27<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> BU-30<br><b>KM:</b> 8.5",
         "region": "Resto España"
       },
@@ -11368,34 +11546,6 @@
         "coordinates": [
           -3.7530973,
           42.306095
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:31:54<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> BU-30R<br><b>KM:</b> 10.3",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7918403,
-          42.34508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:31:40<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> BU-30<br><b>KM:</b> 1.4",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.69815,
-          42.31645
         ]
       }
     },
@@ -11486,76 +11636,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:19:04<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 525.6",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.6535735,
-          37.48345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:18:59<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 436.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.653483,
-          37.483345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:19:19<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 436.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.830115,
-          37.431793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:18:45<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 525.6",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.956109,
-          37.647797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:18:25<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 508.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.956109,
-          37.647797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:19:25<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 436.0",
         "region": "Resto España"
       },
@@ -11584,21 +11664,35 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:18:51<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 525.6",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:19:04<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 525.6",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.956109,
-          37.647797
+          -5.6535735,
+          37.48345
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:18:31<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 525.6",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:19:19<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 436.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.830115,
+          37.431793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:18:51<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 525.6",
         "region": "Resto España"
       },
       "geometry": {
@@ -11620,6 +11714,62 @@
         "coordinates": [
           -5.830115,
           37.431793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:18:25<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 508.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.956109,
+          37.647797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:18:59<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 436.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.653483,
+          37.483345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:18:31<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 525.6",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.956109,
+          37.647797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 07:18:45<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 525.6",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.956109,
+          37.647797
         ]
       }
     },
@@ -11836,7 +11986,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 19:50:46<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> BU-820<br><b>KM:</b> 51.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 19:50:46<br><b>Carretera:</b> BU-820<br><b>KM:</b> 51.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -11850,7 +12000,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 19:50:46<br><b>Carretera:</b> BU-820<br><b>KM:</b> 51.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 23/01/2026 - 19:50:46<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> BU-820<br><b>KM:</b> 51.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -12004,20 +12154,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:00:05<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> AP-7<br><b>KM:</b> 788.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.84103304,
-          37.783226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Highest<br><b>Fecha:</b> 24/01/2026 - 12:30:43<br><b>Tipo:</b> Corte Total<br><b>Carretera:</b> N-330a<br><b>KM:</b> 675.0",
         "region": "Resto España"
       },
@@ -12026,6 +12162,48 @@
         "coordinates": [
           -0.5214793,
           42.78184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:31:14<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-7<br><b>KM:</b> 529.2",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.81543374,
+          38.218674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:37:01<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-70<br><b>KM:</b> 26.4",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.56534475,
+          38.31372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 15:11:09<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-79<br><b>KM:</b> 1.6",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.53788126,
+          38.324997
         ]
       }
     },
@@ -12270,20 +12448,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 12:38:28<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> CV-70<br><b>KM:</b> 9.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.36847752,
-          38.69487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 12:38:24<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> CV-70<br><b>KM:</b> 10.0",
         "region": "Resto España"
       },
@@ -12292,6 +12456,20 @@
         "coordinates": [
           -0.3789541,
           38.699833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 12:38:28<br><b>Tipo:</b> singleAlternateLineTraffic<br><b>Carretera:</b> CV-70<br><b>KM:</b> 9.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36847752,
+          38.69487
         ]
       }
     },
@@ -12326,7 +12504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 08:01:05<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> GR-5104<br><b>KM:</b> 6.7",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 08:01:02<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> GR-5104<br><b>KM:</b> 6.7",
         "region": "Resto España"
       },
       "geometry": {
@@ -12340,7 +12518,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 08:01:02<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> GR-5104<br><b>KM:</b> 6.7",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 08:01:05<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> GR-5104<br><b>KM:</b> 6.7",
         "region": "Resto España"
       },
       "geometry": {
@@ -12362,20 +12540,6 @@
         "coordinates": [
           -0.57315606,
           39.473576
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:54:59<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> MU-33<br><b>KM:</b> 5.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1374222,
-          37.9727
         ]
       }
     },
@@ -12592,20 +12756,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 14:21:46<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-6<br><b>KM:</b> 547.2",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.045807,
-          43.211197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 19:53:11<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-6<br><b>KM:</b> 547.6",
         "region": "Resto España"
       },
@@ -12620,6 +12770,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 14:21:46<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-6<br><b>KM:</b> 547.2",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.045807,
+          43.211197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 26/01/2026 - 20:02:22<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> EX-A1<br><b>KM:</b> 38.0",
         "region": "Resto España"
       },
@@ -12628,6 +12792,20 @@
         "coordinates": [
           -5.83884,
           39.91998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 19:03:22<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 337.2",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.184434,
+          38.010197
         ]
       }
     },
@@ -12662,28 +12840,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 19:03:22<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-4<br><b>KM:</b> 337.2",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 10:11:53<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-1<br><b>KM:</b> 65.0",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.184434,
-          38.010197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 26/01/2026 - 22:35:19<br><b>Carretera:</b> CV-310<br><b>KM:</b> 31.616",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.38274658,
-          39.74258
+          -3.6278257,
+          40.937027
         ]
       }
     },
@@ -12698,20 +12862,6 @@
         "coordinates": [
           -3.61135,
           40.91918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 10:11:53<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-1<br><b>KM:</b> 65.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.6278257,
-          40.937027
         ]
       }
     },
@@ -12900,6 +13050,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Low<br><b>Fecha:</b> 27/01/2026 - 10:18:23<br><b>Carretera:</b> A-52<br><b>KM:</b> 112.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.723584,
+          42.03828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 10:37:44<br><b>Carretera:</b> AP-7<br><b>KM:</b> 660.021",
         "region": "Resto España"
       },
@@ -12922,6 +13086,62 @@
         "coordinates": [
           -0.17422496,
           38.5405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 14:14:41<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-136<br><b>KM:</b> 26.96",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.31726167,
+          42.739326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 14:14:41<br><b>Carretera:</b> A-136<br><b>KM:</b> 26.96",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.31726167,
+          42.739326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 14:14:41<br><b>Carretera:</b> A-136<br><b>KM:</b> 26.96",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.31726167,
+          42.739326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 14:14:41<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-136<br><b>KM:</b> 26.96",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.31726167,
+          42.739326
         ]
       }
     },
@@ -13054,20 +13274,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 12:58:02<br><b>Tipo:</b> Corte Total<br><b>Carretera:</b> HU-9115<br><b>KM:</b> 6.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.323759,
-          37.796543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 15:19:22<br><b>Tipo:</b> lanesDeviated<br><b>Carretera:</b> A-461<br><b>KM:</b> 15.39",
         "region": "Resto España"
       },
@@ -13076,6 +13282,20 @@
         "coordinates": [
           -6.4311104,
           37.81335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 12:58:02<br><b>Tipo:</b> Corte Total<br><b>Carretera:</b> HU-9115<br><b>KM:</b> 6.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.323759,
+          37.796543
         ]
       }
     },
@@ -13194,6 +13414,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 13:39:38<br><b>Tipo:</b> other<br><b>Carretera:</b> A-6 BUS-VAO<br><b>KM:</b> 19.25",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71989,
+          40.43552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 13:39:38<br><b>Tipo:</b> other<br><b>Carretera:</b> A-6 BUS-VAO<br><b>KM:</b> 7.0",
         "region": "Resto España"
       },
@@ -13209,20 +13443,6 @@
       "type": "Feature",
       "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 13:39:38<br><b>Tipo:</b> other<br><b>Carretera:</b> A-6 BUS-VAO<br><b>KM:</b> 3.57",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.71989,
-          40.43552
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 13:39:38<br><b>Tipo:</b> other<br><b>Carretera:</b> A-6 BUS-VAO<br><b>KM:</b> 19.25",
         "region": "Resto España"
       },
       "geometry": {
@@ -13432,20 +13652,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:14:19<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> AP-9<br><b>KM:</b> 155.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.682372,
-          42.243893
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:46:57<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> AP-9<br><b>KM:</b> 154.0",
         "region": "Resto España"
       },
@@ -13454,6 +13660,20 @@
         "coordinates": [
           -8.656604,
           42.238644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:14:19<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> AP-9<br><b>KM:</b> 155.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.682372,
+          42.243893
         ]
       }
     },
@@ -13516,20 +13736,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 19:15:58<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> HU-9115<br><b>KM:</b> 5.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.322036,
-          37.79028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 19:15:54<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> HU-9115<br><b>KM:</b> 6.0",
         "region": "Resto España"
       },
@@ -13538,6 +13744,20 @@
         "coordinates": [
           -6.323759,
           37.796543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 19:15:58<br><b>Tipo:</b> carriagewayClosures<br><b>Carretera:</b> HU-9115<br><b>KM:</b> 5.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.322036,
+          37.79028
         ]
       }
     },
@@ -13558,28 +13778,28 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 16:05:43<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> LE-460<br><b>KM:</b> 38.0",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:30:09<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-3<br><b>KM:</b> 349.7",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.207099,
-          42.725613
+          -0.41774,
+          39.46933
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 16:05:43<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> LE-460<br><b>KM:</b> 38.0",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:30:07<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-3<br><b>KM:</b> 350.7",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.207099,
-          42.725613
+          -0.46057957,
+          39.4812
         ]
       }
     },
@@ -13587,6 +13807,34 @@
       "type": "Feature",
       "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 16:05:43<br><b>Carretera:</b> LE-460<br><b>KM:</b> 38.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.207099,
+          42.725613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 16:05:43<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> LE-460<br><b>KM:</b> 38.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.207099,
+          42.725613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 16:05:43<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> LE-460<br><b>KM:</b> 38.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -13622,20 +13870,6 @@
         "coordinates": [
           -3.2794774,
           40.540607
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Low<br><b>Fecha:</b> 27/01/2026 - 21:31:36<br><b>Carretera:</b> N-502<br><b>KM:</b> 46.84",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.908921,
-          40.553116
         ]
       }
     },
@@ -13726,6 +13960,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:05:01<br><b>Tipo:</b> snowploughsInUse<br><b>Carretera:</b> VA-30<br><b>KM:</b> 21.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.67845,
+          41.72807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:05:01<br><b>Tipo:</b> snowploughsInUse<br><b>Carretera:</b> VA-20<br><b>KM:</b> 10.0",
         "region": "Resto España"
       },
@@ -13748,20 +13996,6 @@
         "coordinates": [
           -4.5743995,
           41.827065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:05:01<br><b>Tipo:</b> snowploughsInUse<br><b>Carretera:</b> VA-30<br><b>KM:</b> 21.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.67845,
-          41.72807
         ]
       }
     },
@@ -14160,7 +14394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:07:25<br><b>Carretera:</b> A-2611<br><b>KM:</b> 13.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:07:25<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-2611<br><b>KM:</b> 13.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -14174,7 +14408,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:07:25<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-2611<br><b>KM:</b> 13.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:07:25<br><b>Carretera:</b> A-2611<br><b>KM:</b> 13.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -14272,7 +14506,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:22:33<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> AS-265<br><b>KM:</b> 21.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:22:33<br><b>Carretera:</b> AS-265<br><b>KM:</b> 21.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -14314,7 +14548,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:22:33<br><b>Carretera:</b> AS-265<br><b>KM:</b> 21.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:22:33<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> AS-265<br><b>KM:</b> 21.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -14322,6 +14556,20 @@
         "coordinates": [
           -6.09688,
           43.16186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:23:09<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> AS-14<br><b>KM:</b> 39.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7270308,
+          43.254417
         ]
       }
     },
@@ -14370,14 +14618,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:23:09<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> AS-14<br><b>KM:</b> 39.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:23:44<br><b>Carretera:</b> AS-213<br><b>KM:</b> 34.55",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.7270308,
-          43.254417
+          -6.459578,
+          43.034004
         ]
       }
     },
@@ -14412,7 +14660,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:23:44<br><b>Carretera:</b> AS-213<br><b>KM:</b> 34.55",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:23:44<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> AS-213<br><b>KM:</b> 34.55",
         "region": "Resto España"
       },
       "geometry": {
@@ -14426,14 +14674,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:23:44<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> AS-213<br><b>KM:</b> 34.55",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:24:15<br><b>Carretera:</b> AS-227<br><b>KM:</b> 51.24",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.459578,
-          43.034004
+          -6.2581835,
+          43.09326
         ]
       }
     },
@@ -14482,34 +14730,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:24:15<br><b>Carretera:</b> AS-227<br><b>KM:</b> 51.24",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.2581835,
-          43.09326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:24:51<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> AS-117<br><b>KM:</b> 65.21",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.2490544,
-          43.116497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:24:51<br><b>Carretera:</b> AS-117<br><b>KM:</b> 65.21",
         "region": "Resto España"
       },
@@ -14552,7 +14772,21 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:25:18<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> AS-228<br><b>KM:</b> 48.74",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:24:51<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> AS-117<br><b>KM:</b> 65.21",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2490544,
+          43.116497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:25:18<br><b>Carretera:</b> AS-228<br><b>KM:</b> 48.74",
         "region": "Resto España"
       },
       "geometry": {
@@ -14594,7 +14828,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:25:18<br><b>Carretera:</b> AS-228<br><b>KM:</b> 48.74",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 18:25:18<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> AS-228<br><b>KM:</b> 48.74",
         "region": "Resto España"
       },
       "geometry": {
@@ -14860,7 +15094,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 19:00:56<br><b>Carretera:</b> A-4030<br><b>KM:</b> 4.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 19:00:56<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-4030<br><b>KM:</b> 4.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -14874,7 +15108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 19:00:56<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-4030<br><b>KM:</b> 4.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 19:00:56<br><b>Carretera:</b> A-4030<br><b>KM:</b> 4.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -15028,20 +15262,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 19:39:26<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-1<br><b>KM:</b> 44.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.5678077,
-          40.74091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Low<br><b>Fecha:</b> 27/01/2026 - 20:36:53<br><b>Carretera:</b> A-1<br><b>KM:</b> 99.0",
         "region": "Resto España"
       },
@@ -15050,6 +15270,20 @@
         "coordinates": [
           -3.577652,
           40.74757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 19:39:26<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-1<br><b>KM:</b> 44.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5678077,
+          40.74091
         ]
       }
     },
@@ -15140,20 +15374,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:44:00<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> AP-7<br><b>KM:</b> 364.998",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.3705527,
-          40.40372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:24:40<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> AP-7<br><b>KM:</b> 364.998",
         "region": "Resto España"
       },
@@ -15168,6 +15388,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:44:00<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> AP-7<br><b>KM:</b> 364.998",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3705527,
+          40.40372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:22:15<br><b>Carretera:</b> A-2609<br><b>KM:</b> 12.0",
         "region": "Resto España"
       },
@@ -15196,7 +15430,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:22:15<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-2609<br><b>KM:</b> 12.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:22:15<br><b>Carretera:</b> A-2609<br><b>KM:</b> 12.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -15210,7 +15444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:22:15<br><b>Carretera:</b> A-2609<br><b>KM:</b> 12.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:22:15<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-2609<br><b>KM:</b> 12.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -15350,7 +15584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:36:38<br><b>Carretera:</b> A-33<br><b>KM:</b> 78.08",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:36:38<br><b>Carretera:</b> A-33<br><b>KM:</b> 78.11",
         "region": "Resto España"
       },
       "geometry": {
@@ -15364,7 +15598,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:36:38<br><b>Carretera:</b> A-33<br><b>KM:</b> 78.11",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 20:36:38<br><b>Carretera:</b> A-33<br><b>KM:</b> 78.08",
         "region": "Resto España"
       },
       "geometry": {
@@ -15448,34 +15682,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:52:38<br><b>Carretera:</b> A-337<br><b>KM:</b> 25.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.0171454,
-          37.05213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:52:38<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-337<br><b>KM:</b> 25.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.0171454,
-          37.05213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:52:38<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-337<br><b>KM:</b> 25.0",
         "region": "Resto España"
       },
@@ -15504,28 +15710,28 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:54:48<br><b>Carretera:</b> A-337<br><b>KM:</b> 38.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:52:38<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-337<br><b>KM:</b> 25.0",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.0297313,
-          37.113155
+          -3.0171454,
+          37.05213
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:54:48<br><b>Carretera:</b> A-337<br><b>KM:</b> 38.0",
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:52:38<br><b>Carretera:</b> A-337<br><b>KM:</b> 25.0",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.0297313,
-          37.113155
+          -3.0171454,
+          37.05213
         ]
       }
     },
@@ -15533,6 +15739,34 @@
       "type": "Feature",
       "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:54:48<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-337<br><b>KM:</b> 38.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0297313,
+          37.113155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:54:48<br><b>Carretera:</b> A-337<br><b>KM:</b> 38.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0297313,
+          37.113155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 20:54:48<br><b>Carretera:</b> A-337<br><b>KM:</b> 38.0",
         "region": "Resto España"
       },
       "geometry": {
@@ -15672,6 +15906,34 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 21:15:21<br><b>Carretera:</b> N-330a<br><b>KM:</b> 675.1",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.51708835,
+          42.744953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 21:15:21<br><b>Carretera:</b> N-330a<br><b>KM:</b> 675.1",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.51708835,
+          42.744953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 21:15:21<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> N-330a<br><b>KM:</b> 675.1",
         "region": "Resto España"
       },
@@ -15686,34 +15948,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 21:15:21<br><b>Carretera:</b> N-330a<br><b>KM:</b> 675.1",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.51708835,
-          42.744953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 21:15:21<br><b>Carretera:</b> N-330a<br><b>KM:</b> 675.1",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.51708835,
-          42.744953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 21:15:39<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> N-330b<br><b>KM:</b> 675.1",
         "region": "Resto España"
       },
@@ -15764,6 +15998,20 @@
         "coordinates": [
           -0.5227762,
           42.784813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:17:49<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> CV-43<br><b>KM:</b> 0.84",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.44591552,
+          39.163197
         ]
       }
     },
@@ -15798,20 +16046,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:17:49<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> CV-43<br><b>KM:</b> 0.84",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.44591552,
-          39.163197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:19:39<br><b>Tipo:</b> objectOnTheRoad<br><b>Carretera:</b> N-340<br><b>KM:</b> 932.912",
         "region": "Resto España"
       },
@@ -15840,34 +16074,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:25:37<br><b>Carretera:</b> A-460<br><b>KM:</b> 5.543",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.0533533,
-          37.54887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:26:31<br><b>Carretera:</b> A-6<br><b>KM:</b> 451.715",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.143737,
-          42.861767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:40:35<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> CM-4106<br><b>KM:</b> 92.0",
         "region": "Resto España"
       },
@@ -15876,62 +16082,6 @@
         "coordinates": [
           -4.2477126,
           39.193428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:27:22<br><b>Carretera:</b> A-45<br><b>KM:</b> 51.026",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.5540504,
-          37.442215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:27:24<br><b>Carretera:</b> TO-2515<br><b>KM:</b> 12.32",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.969323,
-          40.079975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:29:12<br><b>Carretera:</b> EX-203<br><b>KM:</b> 48.99",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.6570883,
-          40.126316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:29:29<br><b>Carretera:</b> CV-300<br><b>KM:</b> 1.985",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.330635,
-          39.598637
         ]
       }
     },
@@ -15952,70 +16102,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:32:16<br><b>Carretera:</b> N-634<br><b>KM:</b> 657.38",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:36:20<br><b>Tipo:</b> other<br><b>Carretera:</b> CA-33<br><b>KM:</b> 0.8",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.952442,
-          43.194622
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:32:43<br><b>Carretera:</b> A-404<br><b>KM:</b> 25.227",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.52886,
-          36.67764
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:33:04<br><b>Carretera:</b> Ma-5011<br><b>KM:</b> 0.739",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6856,
-          39.56727
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:34:31<br><b>Carretera:</b> OU-1102<br><b>KM:</b> 0.587",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7199144,
-          42.066204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:35:10<br><b>Carretera:</b> TF-28<br><b>KM:</b> 18.69",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -16.380041,
-          28.349827
+          -6.268294,
+          36.49122
         ]
       }
     },
@@ -16036,48 +16130,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:36:20<br><b>Tipo:</b> other<br><b>Carretera:</b> CA-33<br><b>KM:</b> 0.8",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.268294,
-          36.49122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:36:12<br><b>Carretera:</b> TF-655<br><b>KM:</b> 9.592",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -16.701345,
-          28.05892
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:36:17<br><b>Carretera:</b> CL-622<br><b>KM:</b> 0.416",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.58493,
-          42.55312
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:36:27<br><b>Tipo:</b> objectOnTheRoad<br><b>Carretera:</b> CV-861<br><b>KM:</b> 1.002",
         "region": "Resto España"
       },
@@ -16086,48 +16138,6 @@
         "coordinates": [
           -0.7698775,
           38.148434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:36:36<br><b>Carretera:</b> A-4<br><b>KM:</b> 91.773",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.4981098,
-          39.703354
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:37:13<br><b>Carretera:</b> CV-137<br><b>KM:</b> 2.401",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.350426,
-          40.48453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:37:23<br><b>Carretera:</b> A-396<br><b>KM:</b> 29.435",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.9643116,
-          36.268555
         ]
       }
     },
@@ -16148,98 +16158,28 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:37:53<br><b>Carretera:</b> CV-365<br><b>KM:</b> 0.761",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.43184167,
-          39.508793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:38:00<br><b>Carretera:</b> OU-536<br><b>KM:</b> 48.256",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.413257,
-          42.373688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:38:47<br><b>Carretera:</b> N-547<br><b>KM:</b> 32.523",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.8615994,
-          42.875942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:39:47<br><b>Carretera:</b> GC-110<br><b>KM:</b> 3.456",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -15.44429,
-          28.0766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:41:28<br><b>Carretera:</b> A-45<br><b>KM:</b> 12.597",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.743463,
-          37.7189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:41:44<br><b>Carretera:</b> N-525<br><b>KM:</b> 84.629",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.6410975,
-          42.06064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:42:22<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> V-31<br><b>KM:</b> 6.0",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.4193178,
-          39.374367
+          -0.37033948,
+          39.431435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Medium<br><b>Fecha:</b> 27/01/2026 - 22:36:35<br><b>Tipo:</b> Obras<br><b>Carretera:</b> V-31<br><b>KM:</b> 8.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4261962,
+          39.3686
         ]
       }
     },
@@ -16280,8 +16220,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.37033948,
-          39.431435
+          -0.4193178,
+          39.374367
         ]
       }
     },
@@ -16296,62 +16236,6 @@
         "coordinates": [
           -5.3779726,
           36.777542
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:43:45<br><b>Carretera:</b> A-3<br><b>KM:</b> 70.24",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.0928783,
-          40.073185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:43:51<br><b>Carretera:</b> V-30<br><b>KM:</b> 7.205",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.4101848,
-          39.45017
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:44:03<br><b>Carretera:</b> LR-280<br><b>KM:</b> 2.114",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0639849,
-          42.331738
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:44:23<br><b>Carretera:</b> T-610<br><b>KM:</b> 0.666",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.21799,
-          37.966976
         ]
       }
     },
@@ -16484,20 +16368,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:48:04<br><b>Carretera:</b> M-421<br><b>KM:</b> 0.095",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.75467,
-          40.3586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:48:14<br><b>Carretera:</b> A-357<br><b>KM:</b> 35.205",
         "region": "Resto España"
       },
@@ -16568,20 +16438,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:51:03<br><b>Carretera:</b> N-332<br><b>KM:</b> 59.253",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.680922,
-          37.998695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:57:25<br><b>Tipo:</b> narrowLanes<br><b>Carretera:</b> A-2<br><b>KM:</b> 255.39",
         "region": "Resto España"
       },
@@ -16632,34 +16488,6 @@
         "coordinates": [
           -2.734937,
           40.914776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:55:50<br><b>Carretera:</b> A-4<br><b>KM:</b> 36.56",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.64512,
-          40.10435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:56:12<br><b>Carretera:</b> A-7<br><b>KM:</b> 970.245",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.27666,
-          36.724934
         ]
       }
     },
@@ -16764,48 +16592,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:59:35<br><b>Carretera:</b> M-501a<br><b>KM:</b> 2.342",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.848713,
-          40.35697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:01:27<br><b>Carretera:</b> A-4<br><b>KM:</b> 657.888",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.168221,
-          36.545486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:01:47<br><b>Carretera:</b> M-45<br><b>KM:</b> 6.151",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7253132,
-          40.331
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:02:11<br><b>Carretera:</b> A-476<br><b>KM:</b> 29.36",
         "region": "Resto España"
       },
@@ -16834,20 +16620,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:04:29<br><b>Carretera:</b> CV-870<br><b>KM:</b> 0.246",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.9520981,
-          38.133236
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:04:55<br><b>Carretera:</b> N-1<br><b>KM:</b> 261.75",
         "region": "Resto España"
       },
@@ -16870,20 +16642,6 @@
         "coordinates": [
           -6.641723,
           42.65308
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:05:21<br><b>Carretera:</b> CU-V-9144<br><b>KM:</b> 0.963",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1297371,
-          40.07853
         ]
       }
     },
@@ -16926,20 +16684,6 @@
         "coordinates": [
           -1.422391,
           42.96748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:08:19<br><b>Carretera:</b> LP-3322<br><b>KM:</b> 10.211",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.902928,
-          41.717506
         ]
       }
     },
@@ -17044,48 +16788,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:13:30<br><b>Carretera:</b> H-31<br><b>KM:</b> 83.712",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.91673,
-          37.28086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:13:54<br><b>Carretera:</b> N-634<br><b>KM:</b> 218.578",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.933765,
-          43.3131
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:14:35<br><b>Carretera:</b> CHE-0101<br><b>KM:</b> 46.975",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.31746,
-          41.86854
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:15:22<br><b>Carretera:</b> A-366<br><b>KM:</b> 35.343",
         "region": "Resto España"
       },
@@ -17128,34 +16830,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:15:54<br><b>Carretera:</b> TF-5<br><b>KM:</b> 5.742",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -16.29557,
-          28.458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:16:14<br><b>Carretera:</b> A-3<br><b>KM:</b> 9.051",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.605747,
-          40.385864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:16:22<br><b>Carretera:</b> N-323<br><b>KM:</b> 11.007",
         "region": "Resto España"
       },
@@ -17164,34 +16838,6 @@
         "coordinates": [
           -3.795307,
           37.999332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:16:30<br><b>Carretera:</b> A-1<br><b>KM:</b> 38.112",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.58773,
-          40.6974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:16:38<br><b>Carretera:</b> M-21<br><b>KM:</b> 6.994",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.52078,
-          40.44685
         ]
       }
     },
@@ -17408,20 +17054,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Medium<br><b>Fecha:</b> 27/01/2026 - 22:21:54<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> N-110<br><b>KM:</b> 352.04",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.5308566,
-          40.3583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Medium<br><b>Fecha:</b> 27/01/2026 - 22:21:54<br><b>Carretera:</b> N-110<br><b>KM:</b> 352.04",
         "region": "Resto España"
       },
@@ -17436,14 +17068,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:21:56<br><b>Carretera:</b> SE-3304<br><b>KM:</b> 2.104",
+        "description": "<br><b>Severidad:</b> Medium<br><b>Fecha:</b> 27/01/2026 - 22:21:54<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> N-110<br><b>KM:</b> 352.04",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.043929,
-          37.342323
+          -5.5308566,
+          40.3583
         ]
       }
     },
@@ -17472,20 +17104,6 @@
         "coordinates": [
           -5.444979,
           36.18039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:22:29<br><b>Carretera:</b> A-2<br><b>KM:</b> 24.432",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.42991,
-          40.46979
         ]
       }
     },
@@ -17576,62 +17194,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:24:16<br><b>Carretera:</b> A-3<br><b>KM:</b> 291.847",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.061674,
-          39.48394
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:24:40<br><b>Carretera:</b> CV-300<br><b>KM:</b> 0.724",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.34075,
-          39.60634
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:24:53<br><b>Carretera:</b> CM-5102<br><b>KM:</b> 26.141",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.186062,
-          39.92667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:25:04<br><b>Carretera:</b> CV-30<br><b>KM:</b> 2.475",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.41603,
-          39.49612
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:25:25<br><b>Carretera:</b> AC-861<br><b>KM:</b> 37.806",
         "region": "Resto España"
       },
@@ -17654,34 +17216,6 @@
         "coordinates": [
           -0.3702,
           42.51814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:25:59<br><b>Carretera:</b> RM-531<br><b>KM:</b> 5.168",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3493139,
-          38.042477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:26:21<br><b>Carretera:</b> A-2<br><b>KM:</b> 507.749",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.140913,
-          41.66165
         ]
       }
     },
@@ -17730,56 +17264,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:27:39<br><b>Carretera:</b> CA-901<br><b>KM:</b> 1.6",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:27:59<br><b>Carretera:</b> M-413<br><b>KM:</b> 0.543",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.805782,
-          43.46154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:27:58<br><b>Carretera:</b> A-42<br><b>KM:</b> 50.757",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.93809,
-          40.02202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:28:39<br><b>Carretera:</b> N-331<br><b>KM:</b> 32.233",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.7276015,
-          37.66694
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Low<br><b>Fecha:</b> 27/01/2026 - 10:18:23<br><b>Carretera:</b> A-52<br><b>KM:</b> 112.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.6136527,
-          42.059013
+          -3.8138,
+          40.27432
         ]
       }
     },
@@ -17828,140 +17320,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:29:45<br><b>Carretera:</b> AL-3109<br><b>KM:</b> 0.394",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:30:54<br><b>Tipo:</b> objectOnTheRoad<br><b>Carretera:</b> A-7<br><b>KM:</b> 336.04",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.4080718,
-          36.857487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:29:55<br><b>Carretera:</b> A-5<br><b>KM:</b> 6.935",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.77119,
-          40.39428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:30:06<br><b>Carretera:</b> A-14<br><b>KM:</b> 9.122",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.560843,
-          41.736458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:30:07<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-3<br><b>KM:</b> 350.7",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.46057957,
-          39.4812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:30:09<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-3<br><b>KM:</b> 349.7",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.41774,
-          39.46933
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 15:11:09<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-79<br><b>KM:</b> 1.6",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.53788126,
-          38.324997
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:31:14<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-7<br><b>KM:</b> 529.2",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.81543374,
-          38.218674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:37:01<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> A-70<br><b>KM:</b> 26.4",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.56534475,
-          38.31372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:31:19<br><b>Carretera:</b> CM-5004<br><b>KM:</b> 13.764",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.23604,
-          40.12476
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:31:35<br><b>Carretera:</b> A-73<br><b>KM:</b> 9.786",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.687604,
-          42.463337
+          -0.549168,
+          39.473003
         ]
       }
     },
@@ -17982,20 +17348,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:31:56<br><b>Carretera:</b> CV-560<br><b>KM:</b> 2.207",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.509,
-          39.07176
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:32:19<br><b>Carretera:</b> A-3<br><b>KM:</b> 76.962",
         "region": "Resto España"
       },
@@ -18004,90 +17356,6 @@
         "coordinates": [
           -3.0424042,
           40.032322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 14:14:41<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-136<br><b>KM:</b> 26.96",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.36697164,
-          42.773792
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 14:14:41<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> A-136<br><b>KM:</b> 26.96",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.36697164,
-          42.773792
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 14:14:41<br><b>Carretera:</b> A-136<br><b>KM:</b> 26.96",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.36697164,
-          42.773792
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> High<br><b>Fecha:</b> 27/01/2026 - 14:14:41<br><b>Carretera:</b> A-136<br><b>KM:</b> 26.96",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.36697164,
-          42.773792
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:32:31<br><b>Carretera:</b> N-340<br><b>KM:</b> 649.459",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2289937,
-          37.96007
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:32:58<br><b>Carretera:</b> A-42<br><b>KM:</b> 10.963",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7301717,
-          40.323208
         ]
       }
     },
@@ -18108,28 +17376,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:33:15<br><b>Carretera:</b> TF-13<br><b>KM:</b> 0.923",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:33:35<br><b>Carretera:</b> OU-540<br><b>KM:</b> 24.646",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -16.307205,
-          28.48002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:33:38<br><b>Carretera:</b> V-31<br><b>KM:</b> 0.419",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.4288,
-          39.34587
+          -7.955095,
+          42.1525
         ]
       }
     },
@@ -18164,28 +17418,644 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:33:48<br><b>Carretera:</b> TF-5<br><b>KM:</b> 32.261",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:33:46<br><b>Carretera:</b> V-30<br><b>KM:</b> 15.797",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -16.511192,
-          28.406609
+          -0.47284,
+          39.51047
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:34:00<br><b>Carretera:</b> N-550<br><b>KM:</b> 8.569",
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:34:09<br><b>Carretera:</b> CV-157<br><b>KM:</b> 4.482",
         "region": "Resto España"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.37185,
-          43.301
+          -0.0068212636,
+          40.171448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:34:16<br><b>Carretera:</b> A-323<br><b>KM:</b> 0.322",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.400538,
+          37.55469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:35:18<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> N-110<br><b>KM:</b> 352.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.702214,
+          40.24827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:35:22<br><b>Carretera:</b> DP-7103<br><b>KM:</b> 6.363",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.058354,
+          42.593826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:35:27<br><b>Carretera:</b> S-20<br><b>KM:</b> 0.548",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.842316,
+          43.46469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:35:44<br><b>Carretera:</b> NA-8505<br><b>KM:</b> 0.805",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1717017,
+          42.897373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:36:29<br><b>Carretera:</b> M-406<br><b>KM:</b> 17.196",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.690629,
+          40.303688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:36:29<br><b>Carretera:</b> A-404<br><b>KM:</b> 25.227",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.52886,
+          36.67764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:37:07<br><b>Carretera:</b> LE-711<br><b>KM:</b> 22.854",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.652034,
+          42.72789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:37:56<br><b>Carretera:</b> M-11<br><b>KM:</b> 8.962",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.58125,
+          40.46704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:38:01<br><b>Carretera:</b> Ma-15<br><b>KM:</b> 77.635",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4479983,
+          39.704376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:38:01<br><b>Carretera:</b> CA-131<br><b>KM:</b> 5.194",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0968623,
+          43.385784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:38:16<br><b>Carretera:</b> TF-1<br><b>KM:</b> 5.578",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.303425,
+          28.426802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:38:24<br><b>Carretera:</b> LE-6607<br><b>KM:</b> 8.145",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.426446,
+          42.375767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:38:59<br><b>Carretera:</b> VA-30<br><b>KM:</b> 17.795",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7512474,
+          41.607487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:39:11<br><b>Carretera:</b> OU-536<br><b>KM:</b> 39.742",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.487846,
+          42.33526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:39:12<br><b>Carretera:</b> A-474<br><b>KM:</b> 18.616",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.20298,
+          37.31076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:39:35<br><b>Carretera:</b> A-2<br><b>KM:</b> 596.81",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.993966,
+          41.434364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:40:15<br><b>Carretera:</b> PO-331<br><b>KM:</b> 11.434",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.713066,
+          42.15797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:40:21<br><b>Carretera:</b> M-23<br><b>KM:</b> 1.402",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64256,
+          40.41442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Medium<br><b>Fecha:</b> 27/01/2026 - 22:40:34<br><b>Carretera:</b> N-502<br><b>KM:</b> 46.84",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.908921,
+          40.553116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Medium<br><b>Fecha:</b> 27/01/2026 - 22:40:34<br><b>Tipo:</b> doNotUseSpecifiedLanesOrCarriageways<br><b>Carretera:</b> N-502<br><b>KM:</b> 46.84",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.908921,
+          40.553116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:40:40<br><b>Carretera:</b> TF-1<br><b>KM:</b> 68.551",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.675198,
+          28.052435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:41:07<br><b>Carretera:</b> HU-4105<br><b>KM:</b> 2.31",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.620151,
+          37.326332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:41:16<br><b>Carretera:</b> A-4<br><b>KM:</b> 13.282",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.691673,
+          40.308784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:41:30<br><b>Carretera:</b> LE-30<br><b>KM:</b> 9.658",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.65126,
+          42.5693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:41:53<br><b>Carretera:</b> M-404<br><b>KM:</b> 37.265",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66106,
+          40.16425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:42:34<br><b>Carretera:</b> M-603<br><b>KM:</b> 3.153",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65614,
+          40.52474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:42:39<br><b>Carretera:</b> EP-2001<br><b>KM:</b> 6.352",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.695435,
+          42.195404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:42:43<br><b>Carretera:</b> A-68<br><b>KM:</b> 280.214",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.29036,
+          41.82639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:43:56<br><b>Carretera:</b> CM-2011<br><b>KM:</b> 4.491",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.980581,
+          40.759197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:44:39<br><b>Carretera:</b> TF-1<br><b>KM:</b> 85.501",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.770971,
+          28.158283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:44:40<br><b>Carretera:</b> AP-9<br><b>KM:</b> 37.802",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.338678,
+          43.11051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:44:53<br><b>Carretera:</b> PO-306<br><b>KM:</b> 0.804",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.828976,
+          42.55631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:45:29<br><b>Carretera:</b> TF-1<br><b>KM:</b> 61.052",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.60067,
+          28.05247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:45:40<br><b>Carretera:</b> A-4<br><b>KM:</b> 380.649",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.576578,
+          37.9349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:45:43<br><b>Carretera:</b> N-332<br><b>KM:</b> 51.427",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.720541,
+          37.937286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:45:47<br><b>Carretera:</b> N-6<br><b>KM:</b> 544.805",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.941528,
+          43.186565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:45:48<br><b>Carretera:</b> P-981<br><b>KM:</b> 1.043",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5873423,
+          42.25183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:46:01<br><b>Carretera:</b> CV-945<br><b>KM:</b> 1.654",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7339792,
+          38.029457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:46:24<br><b>Carretera:</b> A-42<br><b>KM:</b> 75.733",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9814262,
+          39.842155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:46:25<br><b>Carretera:</b> H-31<br><b>KM:</b> 83.701",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9166417,
+          37.280933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:46:25<br><b>Carretera:</b> TF-5<br><b>KM:</b> 14.191",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.366255,
+          28.491385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 22:46:29<br><b>Carretera:</b> A-42<br><b>KM:</b> 52.626",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.95613,
+          40.01288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Severidad:</b> Unknown<br><b>Fecha:</b> 27/01/2026 - 21:54:59<br><b>Tipo:</b> Cierre de carril<br><b>Carretera:</b> MU-33<br><b>KM:</b> 5.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1374222,
+          37.9727
         ]
       }
     }
