@@ -2258,20 +2258,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 15:43:49<br><b>Carretera:</b> GI-2634",
-        "region": "País Vasco"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1983,
-          43.1711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 16:19:18<br><b>Carretera:</b> BI-30",
         "region": "País Vasco"
       },
@@ -2300,20 +2286,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 16:32:07<br><b>Carretera:</b> BI-3108",
-        "region": "País Vasco"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.8234,
-          43.3664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 16:51:56<br><b>Carretera:</b> BI-2522",
         "region": "País Vasco"
       },
@@ -2334,7 +2306,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.905,
+          -2.9048,
           42.7133
         ]
       }
@@ -2868,20 +2840,6 @@
         "coordinates": [
           -2.3719,
           43.2697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 00:00:00<br><b>Carretera:</b> N-634",
-        "region": "País Vasco"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1129,
-          43.2769
         ]
       }
     },
@@ -12142,20 +12100,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 16:22:19<br><b>Tipo:</b> objectOnTheRoad<br><b>Carretera:</b> AP-7<br><b>KM:</b> 815.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0322143,
-          37.640957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 16:22:43<br><b>Carretera:</b> AP-9<br><b>KM:</b> 112.998",
         "region": "Resto España"
       },
@@ -12478,20 +12422,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 16:39:24<br><b>Carretera:</b> M-40<br><b>KM:</b> 31.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7677808,
-          40.359524
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 16:41:14<br><b>Carretera:</b> LR-436<br><b>KM:</b> 1.2",
         "region": "Resto España"
       },
@@ -12800,20 +12730,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:05:45<br><b>Carretera:</b> N-2<br><b>KM:</b> 330.496",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.798858,
-          41.655075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 17:06:07<br><b>Carretera:</b> A-23<br><b>KM:</b> 194.9",
         "region": "Resto España"
       },
@@ -12822,34 +12738,6 @@
         "coordinates": [
           -1.2660226,
           41.002872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:06:43<br><b>Carretera:</b> R-5<br><b>KM:</b> 10.694",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.829614,
-          40.309555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:58:50<br><b>Carretera:</b> A-7<br><b>KM:</b> 337.442",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.5527141,
-          39.460735
         ]
       }
     },
@@ -12870,34 +12758,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:08:43<br><b>Carretera:</b> N-420<br><b>KM:</b> 612.022",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0124019,
-          40.580074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:08:56<br><b>Carretera:</b> N-332<br><b>KM:</b> 162.842",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.013599,
-          38.632484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 17:09:13<br><b>Tipo:</b> objectOnTheRoad<br><b>Carretera:</b> LU-P-4205<br><b>KM:</b> 1.293",
         "region": "Resto España"
       },
@@ -12906,34 +12766,6 @@
         "coordinates": [
           -7.6217275,
           42.729565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:09:39<br><b>Carretera:</b> A-6<br><b>KM:</b> 10.562",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.788452,
-          40.464336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:09:42<br><b>Carretera:</b> A-43<br><b>KM:</b> 3.627",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.875823,
-          38.98415
         ]
       }
     },
@@ -12968,34 +12800,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:09:54<br><b>Carretera:</b> N-344<br><b>KM:</b> 65.431",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.281959,
-          38.45283
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:10:53<br><b>Carretera:</b> AS-356<br><b>KM:</b> 0.851",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.634746,
-          43.542233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 17:11:05<br><b>Carretera:</b> M-40<br><b>KM:</b> 21.0",
         "region": "Resto España"
       },
@@ -13004,20 +12808,6 @@
         "coordinates": [
           -3.673304,
           40.361183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:11:26<br><b>Carretera:</b> N-120a<br><b>KM:</b> 44.959",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.9553204,
-          42.439686
         ]
       }
     },
@@ -13052,20 +12842,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:12:30<br><b>Carretera:</b> Ma-19<br><b>KM:</b> 7.35",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.711919,
-          39.54277
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 17:12:45<br><b>Tipo:</b> objectOnTheRoad<br><b>Carretera:</b> LU-651<br><b>KM:</b> 3.706",
         "region": "Resto España"
       },
@@ -13074,34 +12850,6 @@
         "coordinates": [
           -7.246916,
           42.495667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:13:01<br><b>Carretera:</b> N-320<br><b>KM:</b> 291.905",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.222254,
-          40.61942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:13:28<br><b>Carretera:</b> A-49<br><b>KM:</b> 13.203",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.1646633,
-          37.357864
         ]
       }
     },
@@ -13494,20 +13242,6 @@
         "coordinates": [
           0.07114036,
           42.442005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:24:13<br><b>Carretera:</b> V-31<br><b>KM:</b> 13.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.37396187,
-          39.422604
         ]
       }
     },
@@ -14144,20 +13878,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:35:43<br><b>Carretera:</b> A-8<br><b>KM:</b> 389.971",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.76879,
-          43.5023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 17:35:51<br><b>Carretera:</b> A-2202<br><b>KM:</b> 8.6",
         "region": "Resto España"
       },
@@ -14236,20 +13956,6 @@
         "coordinates": [
           -3.8334901,
           40.39702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:36:46<br><b>Carretera:</b> LZ-2<br><b>KM:</b> 12.125",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -13.685978,
-          28.948278
         ]
       }
     },
@@ -14914,20 +14620,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:48:14<br><b>Carretera:</b> SG-232<br><b>KM:</b> 10.0",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7309358,
-          41.303123
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 17:48:27<br><b>Carretera:</b> TF-1<br><b>KM:</b> 73.221",
         "region": "Resto España"
       },
@@ -15272,20 +14964,6 @@
         "coordinates": [
           -1.6362213,
           37.391953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 17:54:44<br><b>Carretera:</b> SG-332<br><b>KM:</b> 0.127",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.260502,
-          41.21129
         ]
       }
     },
@@ -16384,20 +16062,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:06:45<br><b>Carretera:</b> CM-401<br><b>KM:</b> 12.742",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1342134,
-          39.803154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 18:06:48<br><b>Carretera:</b> M-407<br><b>KM:</b> 8.48",
         "region": "Resto España"
       },
@@ -16580,20 +16244,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:07:57<br><b>Carretera:</b> GC-100<br><b>KM:</b> 27.716",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -15.425655,
-          27.876497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 18:08:10<br><b>Carretera:</b> A-6<br><b>KM:</b> 432.0",
         "region": "Resto España"
       },
@@ -16644,20 +16294,6 @@
         "coordinates": [
           -0.5755034,
           39.47382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:08:30<br><b>Carretera:</b> SA-214<br><b>KM:</b> 2.232",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.6944685,
-          40.541077
         ]
       }
     },
@@ -16832,20 +16468,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:10:29<br><b>Carretera:</b> RM-B3<br><b>KM:</b> 4.471",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1608217,
-          38.00728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 18:10:35<br><b>Carretera:</b> FV-2<br><b>KM:</b> 59.27",
         "region": "Resto España"
       },
@@ -16854,20 +16476,6 @@
         "coordinates": [
           -14.17061,
           28.182081
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:10:39<br><b>Carretera:</b> M-40<br><b>KM:</b> 17.954",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.647109,
-          40.378212
         ]
       }
     },
@@ -16972,20 +16580,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:11:03<br><b>Carretera:</b> A-4<br><b>KM:</b> 242.861",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.4999504,
-          38.42158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 18:11:06<br><b>Carretera:</b> M-40<br><b>KM:</b> 30.716",
         "region": "Resto España"
       },
@@ -17064,34 +16658,6 @@
         "coordinates": [
           -3.5969715,
           40.42996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:11:45<br><b>Carretera:</b> N-634<br><b>KM:</b> 232.061",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.065117,
-          43.354496
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:11:52<br><b>Carretera:</b> N-120<br><b>KM:</b> 651.999",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.589967,
-          42.168697
         ]
       }
     },
@@ -17210,20 +16776,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:12:05<br><b>Carretera:</b> A-8<br><b>KM:</b> 472.48",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.640901,
-          43.53814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 18:12:14<br><b>Carretera:</b> OU-904<br><b>KM:</b> 3.259",
         "region": "Resto España"
       },
@@ -17246,90 +16798,6 @@
         "coordinates": [
           -8.586399,
           42.619648
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:12:22<br><b>Carretera:</b> AS-374<br><b>KM:</b> 1.123",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.833694,
-          43.438896
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:12:26<br><b>Carretera:</b> A-4<br><b>KM:</b> 352.062",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.316603,
-          37.989853
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:12:31<br><b>Carretera:</b> N-634<br><b>KM:</b> 548.543",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.985027,
-          43.542103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:12:35<br><b>Carretera:</b> AC-527<br><b>KM:</b> 1.739",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.323586,
-          43.331715
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:12:36<br><b>Carretera:</b> A-347a<br><b>KM:</b> 0.445",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.9831016,
-          36.764065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:12:36<br><b>Carretera:</b> AC-12<br><b>KM:</b> 4.265",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.387863,
-          43.333183
         ]
       }
     },
@@ -17392,48 +16860,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:13:01<br><b>Carretera:</b> N-330<br><b>KM:</b> 622.326",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.37474558,
-          42.482826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:13:02<br><b>Carretera:</b> A-4<br><b>KM:</b> 417.192",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.8226914,
-          37.764187
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:13:04<br><b>Carretera:</b> OU-0514<br><b>KM:</b> 1.108",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.82581,
-          42.28827
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<b>Fecha:</b> 27/01/2026 - 18:13:05<br><b>Carretera:</b> DP-1702<br><b>KM:</b> 0.654",
         "region": "Resto España"
       },
@@ -17442,20 +16868,6 @@
         "coordinates": [
           -8.34933,
           43.29016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<b>Fecha:</b> 27/01/2026 - 18:13:08<br><b>Carretera:</b> A-66<br><b>KM:</b> 328.876",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.6827283,
-          41.061787
         ]
       }
     },
@@ -17540,6 +16952,384 @@
         "coordinates": [
           -13.636333,
           29.054289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:13:39<br><b>Carretera:</b> M-40<br><b>KM:</b> 24.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7445858,
+          40.361897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:13:45<br><b>Carretera:</b> N-550<br><b>KM:</b> 125.342",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.639796,
+          42.408287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:10:39<br><b>Carretera:</b> M-40<br><b>KM:</b> 17.954",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.647109,
+          40.378212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:13:50<br><b>Carretera:</b> A-54<br><b>KM:</b> 46.702",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.992541,
+          42.881325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:13:52<br><b>Carretera:</b> A-33<br><b>KM:</b> 12.061",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.319225,
+          38.283955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:13:57<br><b>Carretera:</b> A-7<br><b>KM:</b> 1066.703",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1169434,
+          36.433178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:14:03<br><b>Carretera:</b> A-7<br><b>KM:</b> 326.009",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46687996,
+          39.527176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 16:39:24<br><b>Carretera:</b> M-40<br><b>KM:</b> 31.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7677808,
+          40.359524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:14:17<br><b>Carretera:</b> TV-2127<br><b>KM:</b> 0.746",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.534411,
+          41.207203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:14:27<br><b>Carretera:</b> N-541<br><b>KM:</b> 27.637",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.086382,
+          42.432438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 17:58:50<br><b>Carretera:</b> A-7<br><b>KM:</b> 337.442",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5527141,
+          39.460735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 17:24:13<br><b>Carretera:</b> V-31<br><b>KM:</b> 13.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37396187,
+          39.422604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:14:40<br><b>Carretera:</b> N-122<br><b>KM:</b> 314.639",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1980033,
+          41.616608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:14:44<br><b>Carretera:</b> CM-3227<br><b>KM:</b> 10.136",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.428955,
+          39.17584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:14:46<br><b>Carretera:</b> SA-102<br><b>KM:</b> 0.0",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.689234,
+          40.44038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:14:47<br><b>Carretera:</b> CV-7461<br><b>KM:</b> 0.761",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.04256667,
+          38.646065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:14:53<br><b>Carretera:</b> LP-1<br><b>KM:</b> 1.474",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.760445,
+          28.690895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:14:54<br><b>Carretera:</b> CV-2093<br><b>KM:</b> 5.531",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.653049,
+          39.98375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:14:54<br><b>Carretera:</b> A-348<br><b>KM:</b> 125.593",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5317984,
+          36.95528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:14:55<br><b>Carretera:</b> PO-205<br><b>KM:</b> 5.118",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.231802,
+          42.735252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:14:59<br><b>Carretera:</b> GC-3<br><b>KM:</b> 6.78",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.443821,
+          28.081165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:15:02<br><b>Carretera:</b> AC-415<br><b>KM:</b> 4.865",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.467007,
+          43.332954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:15:13<br><b>Carretera:</b> A-4<br><b>KM:</b> 14.609",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6919916,
+          40.29701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:15:20<br><b>Carretera:</b> CV-912<br><b>KM:</b> 8.669",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.78263,
+          38.12313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:15:21<br><b>Carretera:</b> M-203<br><b>KM:</b> 14.441",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4603,
+          40.42233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:15:27<br><b>Carretera:</b> FV-2<br><b>KM:</b> 27.098",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.947268,
+          28.331118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<b>Fecha:</b> 27/01/2026 - 18:15:33<br><b>Carretera:</b> A-6103<br><b>KM:</b> 0.308",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.364915,
+          38.02405
         ]
       }
     }
