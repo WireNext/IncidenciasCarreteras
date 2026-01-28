@@ -11,20 +11,50 @@ REGIONS = {
     "Resto España": "https://nap.dgt.es/datex2/v3/dgt/SituationPublication/datex2_v36.xml"
 }
 
-# Traducciones de tipos de incidentes
-INCIDENT_TYPE_TRANSLATIONS = {
+# Diccionario de traducciones extendido
+TRANSLATIONS = {
+    # Gravedad
+    "highest": "Negro (Corte Total)",
+    "high": "Rojo (Grave)",
+    "medium": "Naranja (Moderado)",
+    "low": "Amarillo (Leve)",
+    "unknown": "Desconocido",
+    # Tipos
     "damagedVehicle": "Vehículo Averiado",
     "roadClosed": "Corte Total",
-    "roadworks": "Obras",
-    "heavy": "Retención",
-    "laneClosures": "Cierre de carril",
-    "snowChainsMandatory": "Cadenas Obligatorias",
+    "restrictions": "Restricciones",
+    "narrowLanes": "Carriles Estrechos",
     "flooding": "Inundación",
-    "fog": "Niebla"
+    "vehicleStuck": "Vehiculo Parado",
+    "both": "Ambos Sentidos",
+    "negative": "Decreciente",
+    "positive": "Creciente",
+    "useOfSpecifiedLaneAllowed": "Uso especifico de carril",
+    "useUnderSpecifiedRestrictions": "Uso con restricciones",
+    "congested": "Congestionada",
+    "freeFlow": "Sin retención",
+    "constructionWork": "Obras",
+    "impossible": "Carretera Cortada",
+    "objectOnTheRoad": "Objeto en Calzada",
+    "heavy": "Retención",
+    "vehicleOnFire": "Vehiculo en llamas",
+    "intermittentShortTermClosures": "Cortes intermitentes",
+    "laneClosures": "Cierre de algún carril",
+    "rockfalls": "Caida de piedras",
+    "trafficContolInOperation": "Itinerario alternativo",
+    "laneOrCarriagewayClosed": "Arcen cerrado",
+    "snowploughsInUse": "Quitanieves en la via",
+    "snowfall": "Nieve en la via",
+    "snowChainsMandatory": "Uso obligatorio de cadenas",
+    "rain": "Lluvia",
+    "MaintenanceWorks": "Trabajos de mantenimiento",
+    "fog": "Niebla",
+    "strongWinds": "Fuertes vientos",
+    "spillageOnTheRoad": "Derrame en la carretera"
 }
 
-def translate_incident_type(value):
-    return INCIDENT_TYPE_TRANSLATIONS.get(value, value)
+def translate(value):
+    return TRANSLATIONS.get(value, value)
 
 def format_datetime(datetime_str):
     try:
@@ -35,12 +65,11 @@ def format_datetime(datetime_str):
 
 def process_xml_from_url(url, region_name, all_incidents):
     try:
-        print(f"Descargando {region_name}...")
+        print(f"Procesando {region_name}...")
         response = requests.get(url, timeout=25)
         response.raise_for_status()
         root = ET.fromstring(response.content)
 
-        # Detectar si es V3 (DGT nueva) o V2 (Tradicional)
         is_v3 = 'http://levelC/schema/3' in root.tag or 'http://datex2.eu/schema/3' in root.tag
         
         ns_v3 = {
@@ -57,28 +86,29 @@ def process_xml_from_url(url, region_name, all_incidents):
         for record in root.findall(record_path, ns):
             description = []
             
-            # --- 1. EXTRAER GRAVEDAD (LÓGICA DE COLORES) ---
-            # Buscamos la etiqueta 'severity'
-            severity_elem = record.find("sit:severity", ns) if is_v3 else record.find("_0:severity", ns)
-            severity_val = severity_elem.text if severity_elem is not None else "unknown"
-            # Lo añadimos oculto o visible para que el JS lo lea
+            # --- 1. SEVERIDAD (Para colores y texto) ---
+            sev_elem = record.find("sit:severity", ns) if is_v3 else record.find("_0:severity", ns)
+            sev_raw = sev_elem.text if sev_elem is not None else "unknown"
+            
+            # El truco: Ponemos el raw en un comentario oculto para el JS y el traducido para el humano
             description.append(f"")
-            description.append(f"<b>Severidad:</b> {severity_val.capitalize()}")
+            description.append(f"<b>Gravedad:</b> {translate(sev_raw)}")
 
-            # --- 2. EXTRAER DATOS DE TEXTO ---
+            # --- 2. DATOS GENERALES ---
             time_elem = record.find("sit:situationRecordCreationTime", ns) if is_v3 else record.find("_0:situationRecordCreationTime", ns)
             if time_elem is not None:
                 description.append(f"<b>Fecha:</b> {format_datetime(time_elem.text)}")
 
-            # Tipo de incidente
-            type_tags = ["sit:roadOrCarriagewayOrLaneManagementType", "sit:roadMaintenanceType", "sit:obstructionType"] if is_v3 else ["_0:obstructionType", "_0:constructionWorkType"]
-            for tag in type_tags:
+            # Buscar tipo de incidente
+            found_type = False
+            for tag in ["sit:roadOrCarriagewayOrLaneManagementType", "sit:roadMaintenanceType", "sit:obstructionType", "_0:obstructionType"]:
                 t = record.find(f".//{tag}", ns)
                 if t is not None:
-                    description.append(f"<b>Tipo:</b> {translate_incident_type(t.text)}")
+                    description.append(f"<b>Incidente:</b> {translate(t.text)}")
+                    found_type = True
                     break
-
-            # Carretera y KM
+            
+            # Carretera y Punto Kilométrico
             road = record.find(".//loc:roadName", ns) if is_v3 else record.find(".//_0:roadNumber", ns)
             if road is not None:
                 description.append(f"<b>Carretera:</b> {road.text}")
@@ -86,57 +116,67 @@ def process_xml_from_url(url, region_name, all_incidents):
             km = record.find(".//lse:kilometerPoint", ns) if is_v3 else record.find(".//_0:referencePointDistance", ns)
             if km is not None:
                 val_km = km.text if is_v3 else f"{float(km.text)/1000:.1f}"
-                description.append(f"<b>KM:</b> {val_km}")
+                description.append(f"<b>Punto KM:</b> {val_km}")
 
             final_desc = "<br>".join(description)
 
-            # --- 3. LÓGICA DE GEOMETRÍA (PUNTOS Y LÍNEAS) ---
-            lat, lon = None, None
+            # --- 3. GEOMETRÍA (Líneas para tramos y Puntos para iconos) ---
+            lat_f, lon_f, lat_t, lon_t = None, None, None, None
             
+            # Intentar buscar tramo (Lineal)
             if is_v3:
-                # Caso DGT: Buscar en 'from' (inicio de obra) o 'point'
-                point = record.find(".//loc:from//loc:pointCoordinates", ns) or record.find(".//loc:point//loc:pointCoordinates", ns)
-                if point is not None:
-                    lat, lon = point.find("loc:latitude", ns).text, point.find("loc:longitude", ns).text
+                from_pt = record.find(".//loc:from//loc:pointCoordinates", ns)
+                to_pt = record.find(".//loc:to//loc:pointCoordinates", ns)
+                if from_pt is not None and to_pt is not None:
+                    lat_f, lon_f = from_pt.find("loc:latitude", ns).text, from_pt.find("loc:longitude", ns).text
+                    lat_t, lon_t = to_pt.find("loc:latitude", ns).text, to_pt.find("loc:longitude", ns).text
             else:
-                # Caso Cataluña/PV: Buscar lineal primero
                 linear = record.find(".//_0:locationContainedInGroup", ns)
                 if linear is not None and "_0:Linear" in (linear.get("{http://www.w3.org/2001/XMLSchema-instance}type") or ""):
                     f_pt = linear.find(".//_0:from//_0:pointCoordinates", ns)
                     t_pt = linear.find(".//_0:to//_0:pointCoordinates", ns)
                     if f_pt is not None and t_pt is not None:
-                        # Añadir línea simplificada para no saturar
-                        coords = [[float(f_pt.find("_0:longitude", ns).text), float(f_pt.find("_0:latitude", ns).text)],
-                                  [float(t_pt.find("_0:longitude", ns).text), float(t_pt.find("_0:latitude", ns).text)]]
-                        all_incidents.append({
-                            "type": "Feature",
-                            "properties": {"description": final_desc, "region": region_name},
-                            "geometry": {"type": "LineString", "coordinates": coords}
-                        })
-                        # El punto para la "gota" será el de inicio
-                        lat, lon = f_pt.find("_0:latitude", ns).text, f_pt.find("_0:longitude", ns).text
-                
-                if lat is None: # Si no fue lineal, buscar punto simple
-                    p_pt = record.find(".//_0:pointCoordinates", ns)
-                    if p_pt is not None:
-                        lat, lon = p_pt.find("_0:latitude", ns).text, p_pt.find("_0:longitude", ns).text
+                        lat_f, lon_f = f_pt.find("_0:latitude", ns).text, f_pt.find("_0:longitude", ns).text
+                        lat_t, lon_t = t_pt.find("_0:latitude", ns).text, t_pt.find("_0:longitude", ns).text
 
-            if lat and lon:
+            # Si tenemos dos puntos, dibujamos la LÍNEA
+            if lat_f and lat_t:
                 all_incidents.append({
                     "type": "Feature",
                     "properties": {"description": final_desc, "region": region_name},
-                    "geometry": {"type": "Point", "coordinates": [float(lon), float(lat)]}
+                    "geometry": {
+                        "type": "LineString", 
+                        "coordinates": [[float(lon_f), float(lat_f)], [float(lon_t), float(lat_t)]]
+                    }
+                })
+                # Usamos el primer punto para poner la gota/icono
+                lat_icon, lon_icon = lat_f, lon_f
+            else:
+                # Si no es lineal, buscamos un punto único
+                p_pt = record.find(".//loc:point//loc:pointCoordinates", ns) if is_v3 else record.find(".//_0:pointCoordinates", ns)
+                if p_pt is not None:
+                    lat_icon, lon_icon = p_pt.find(".//latitude", ns).text if is_v3 else p_pt.find("_0:latitude", ns).text, \
+                                         p_pt.find(".//longitude", ns).text if is_v3 else p_pt.find("_0:longitude", ns).text
+                else:
+                    lat_icon, lon_icon = None, None
+
+            # Añadir el PUNTO (la gota con el icono)
+            if lat_icon and lon_icon:
+                all_incidents.append({
+                    "type": "Feature",
+                    "properties": {"description": final_desc, "region": region_name},
+                    "geometry": {"type": "Point", "coordinates": [float(lon_icon), float(lat_icon)]}
                 })
 
-        print(f"OK: {region_name} procesada.")
+        print(f"OK: {region_name} terminada.")
     except Exception as e:
         print(f"Error en {region_name}: {e}")
 
 if __name__ == "__main__":
-    results = []
+    total_data = []
     for name, url in REGIONS.items():
-        process_xml_from_url(url, name, results)
+        process_xml_from_url(url, name, total_data)
     
     with open("traffic_data.geojson", "w", encoding='utf-8') as f:
-        json.dump({"type": "FeatureCollection", "features": results}, f, indent=2, ensure_ascii=False)
-    print(f"Éxito: {len(results)} elementos guardados.")
+        json.dump({"type": "FeatureCollection", "features": total_data}, f, indent=2, ensure_ascii=False)
+    print(f"\nÉxito: Se han generado {len(total_data)} elementos (puntos y líneas).")
