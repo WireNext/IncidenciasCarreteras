@@ -167,3 +167,4 @@ if __name__ == "__main__":
     with open("traffic_data.geojson", "w", encoding='utf-8') as f:
         json.dump({"type": "FeatureCollection", "features": final_results}, f, indent=2, ensure_ascii=False)
     print(f"\nTerminado: {len(final_results)} elementos procesados.")
+    
