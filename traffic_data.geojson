@@ -98628,8 +98628,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.9536,
-          43.2578
+          -2.9454,
+          43.2516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> BI-637",
+        "region": "País Vasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0009,
+          43.37
         ]
       }
     },
