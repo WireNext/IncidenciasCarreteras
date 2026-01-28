@@ -26194,74 +26194,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 27/01/2026 - 21:36:26<br><b>Incidente:</b> other",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.268294,
-            36.49122
-          ],
-          [
-            -6.267845,
-            36.490406
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 27/01/2026 - 21:36:26<br><b>Incidente:</b> other",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.268294,
-          36.49122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 27/01/2026 - 21:36:20<br><b>Incidente:</b> other",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.268294,
-            36.49122
-          ],
-          [
-            -6.267845,
-            36.490406
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 27/01/2026 - 21:36:20<br><b>Incidente:</b> other",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.268294,
-          36.49122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Negro (Corte Total)<br><b>Fecha:</b> 27/01/2026 - 21:43:00<br><b>Incidente:</b> Corte Total",
         "region": "Resto España"
       },
@@ -36944,40 +36876,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Amarillo (Leve)<br><b>Fecha:</b> 28/01/2026 - 12:40:29<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.535525,
-            42.069946
-          ],
-          [
-            -2.6213682,
-            42.255054
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Amarillo (Leve)<br><b>Fecha:</b> 28/01/2026 - 12:40:29<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.535525,
-          42.069946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 12:43:04<br><b>Incidente:</b> Carriles Estrechos",
         "region": "Resto España"
       },
@@ -37958,20 +37856,6 @@
         "coordinates": [
           -1.7084063,
           37.659008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 13:34:04<br><b>Incidente:</b> Carriles Estrechos",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9066117,
-          40.56371
         ]
       }
     },
@@ -39966,20 +39850,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 14:36:51<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.097008,
-          41.522972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Amarillo (Leve)<br><b>Fecha:</b> 28/01/2026 - 14:37:10<br><b>Incidente:</b> Incidente",
         "region": "Resto España"
       },
@@ -41056,20 +40926,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 14:53:19<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.639846,
-          40.395027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 14:53:23<br><b>Incidente:</b> Incidente",
         "region": "Resto España"
       },
@@ -41294,20 +41150,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 14:57:08<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.965606,
-          37.34549
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 14:58:26<br><b>Incidente:</b> Incidente",
         "region": "Resto España"
       },
@@ -41392,48 +41234,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:00:17<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.63722,
-          40.3829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:00:20<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7485516,
-          40.27079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:00:23<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.07184,
-          37.36788
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:00:31<br><b>Incidente:</b> Incidente",
         "region": "Resto España"
       },
@@ -41442,20 +41242,6 @@
         "coordinates": [
           -4.782268,
           37.851807
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:00:47<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7848344,
-          40.439888
         ]
       }
     },
@@ -41560,20 +41346,6 @@
         "coordinates": [
           -0.4559124,
           38.692448
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:02:22<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.67811,
-          40.36601
         ]
       }
     },
@@ -41692,20 +41464,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:04:25<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.69318,
-          40.346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:04:30<br><b>Incidente:</b> Incidente",
         "region": "Resto España"
       },
@@ -41714,20 +41472,6 @@
         "coordinates": [
           -0.15555778,
           41.496017
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:04:31<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.47642,
-          40.53738
         ]
       }
     },
@@ -41872,20 +41616,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:05:53<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.71313,
-          43.49644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:06:03<br><b>Incidente:</b> Incidente",
         "region": "Resto España"
       },
@@ -41908,20 +41638,6 @@
         "coordinates": [
           -5.98886,
           37.346146
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:06:46<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.15241,
-          36.51297
         ]
       }
     },
@@ -41956,20 +41672,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:07:16<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.47885,
-          40.49356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:07:32<br><b>Incidente:</b> Incidente",
         "region": "Resto España"
       },
@@ -41992,34 +41694,6 @@
         "coordinates": [
           -3.8993816,
           43.17078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:08:22<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.66152,
-          40.16209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:08:30<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.63133,
-          42.41685
         ]
       }
     },
@@ -42096,20 +41770,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:09:10<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.36360666,
-          39.435955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:09:12<br><b>Incidente:</b> Incidente",
         "region": "Resto España"
       },
@@ -42160,20 +41820,6 @@
         "coordinates": [
           -7.243682,
           42.456028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:10:19<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.4591768,
-          43.394154
         ]
       }
     },
@@ -42824,20 +42470,6 @@
         "coordinates": [
           -3.8940246,
           40.493603
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:16:57<br><b>Incidente:</b> Carriles Estrechos",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.9668612,
-          37.34448
         ]
       }
     },
@@ -43954,34 +43586,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:26:43<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6813616,
-          37.682446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:26:49<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.7723669,
-          40.243546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:26:54<br><b>Incidente:</b> Incidente",
         "region": "Resto España"
       },
@@ -44004,20 +43608,6 @@
         "coordinates": [
           -0.8810951,
           37.64473
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:27:02<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4049132,
-          42.46033
         ]
       }
     },
@@ -44184,20 +43774,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:28:34<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7030008,
-          43.41133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:28:36<br><b>Incidente:</b> Incidente",
         "region": "Resto España"
       },
@@ -44304,34 +43880,6 @@
         "coordinates": [
           -0.43190667,
           38.783203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:29:56<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1477033,
-          38.607117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:30:07<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.154378,
-          40.12153
         ]
       }
     },
@@ -44860,20 +44408,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:34:15<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.957603,
-          41.289238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:34:38<br><b>Incidente:</b> Objeto en Calzada",
         "region": "Resto España"
       },
@@ -45196,20 +44730,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:36:34<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.83665,
-          40.423492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:36:35<br><b>Incidente:</b> Incidente",
         "region": "Resto España"
       },
@@ -45218,34 +44738,6 @@
         "coordinates": [
           -4.4451785,
           40.0984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:36:35<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7061818,
-          40.363777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:36:39<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0063584,
-          42.237686
         ]
       }
     },
@@ -45294,20 +44786,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:36:51<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.8243937,
-          37.312233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:36:53<br><b>Incidente:</b> Incidente",
         "region": "Resto España"
       },
@@ -45344,34 +44822,6 @@
         "coordinates": [
           -7.505455,
           42.525223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:37:05<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.0125816,
-          38.15513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:37:05<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -16.338196,
-          28.489098
         ]
       }
     },
@@ -45420,20 +44870,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:37:11<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.390217,
-          41.76682
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:37:13<br><b>Incidente:</b> Incidente",
         "region": "Resto España"
       },
@@ -45470,20 +44906,6 @@
         "coordinates": [
           -4.786559,
           41.658554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:37:38<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.64754,
-          37.580746
         ]
       }
     },
@@ -45546,48 +44968,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:37:55<br><b>Incidente:</b> Objeto en Calzada",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4465023,
-          37.78088
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:37:58<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.0940957,
-          40.682228
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:37:58<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.0307384,
-          40.74199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:38:04<br><b>Incidente:</b> Incidente",
         "region": "Resto España"
       },
@@ -45610,76 +44990,6 @@
         "coordinates": [
           2.05744,
           41.488605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:38:05<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -16.492847,
-          28.426542
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:38:05<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.53950816,
-          38.321564
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:38:07<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.171882,
-          39.758163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:38:13<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.66252,
-          37.59394
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:38:30<br><b>Incidente:</b> Incidente",
-        "region": "Resto España"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -16.337036,
-          28.489725
         ]
       }
     },
@@ -45736,6 +45046,384 @@
         "coordinates": [
           -0.6861366,
           38.255184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:38:39<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.84935,
+          38.619602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:38:40<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.385105,
+          42.96733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:38:43<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2112875,
+          37.309444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:38:43<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.12421,
+          43.531708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:38:45<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9329567,
+          37.344856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:39:03<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.751339,
+          40.044342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:39:04<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.19353667,
+          41.016426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:39:08<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8629992,
+          40.3551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:39:12<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.139312,
+          40.710186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:39:25<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.022983,
+          41.39593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:39:32<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12303,
+          38.556507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:39:33<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5386765,
+          38.351738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:39:36<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.366255,
+          43.042927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:39:41<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0746727,
+          40.651127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:39:41<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.36843,
+          43.27453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:39:43<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3247685,
+          39.8541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:39:54<br><b>Incidente:</b> Objeto en Calzada",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2215073,
+          38.579388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:39:58<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6085114,
+          40.030224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:40:01<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9897332,
+          39.76536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:40:10<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4289546,
+          41.073624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:40:11<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.277388,
+          28.44774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:40:12<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.62227,
+          36.60311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:40:17<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.350855,
+          39.24377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:40:17<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.44764,
+          39.01656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:40:24<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.46704668,
+          42.54504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:40:30<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.92489,
+          39.02194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Fecha:</b> 28/01/2026 - 15:40:31<br><b>Incidente:</b> Incidente",
+        "region": "Resto España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.10454898,
+          38.757145
         ]
       }
     }
