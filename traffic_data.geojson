@@ -93362,20 +93362,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> BI-2238",
-        "region": "País Vasco"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.6016,
-          43.3581
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> BI-637",
         "region": "País Vasco"
       },
@@ -93874,14 +93860,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> BI-30",
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> BI-10",
         "region": "País Vasco"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.9867,
-          43.2851
+          -2.9859,
+          43.2824
         ]
       }
     },
