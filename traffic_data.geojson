@@ -67402,14 +67402,28 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> A-636",
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> GI-2638",
         "region": "País Vasco"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.2521,
-          43.0446
+          -1.8849,
+          43.2221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> GI-2132",
+        "region": "País Vasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9476,
+          43.2871
         ]
       }
     },
