@@ -67000,20 +67000,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> AP-1",
-        "region": "País Vasco"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.8718,
-          42.7089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> N-1",
         "region": "País Vasco"
       },
@@ -67424,6 +67410,20 @@
         "coordinates": [
           -2.0257,
           43.2256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> N-638",
+        "region": "País Vasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8005,
+          43.35
         ]
       }
     },
