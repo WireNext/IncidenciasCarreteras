@@ -80062,6 +80062,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> BI-3745",
+        "region": "País Vasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0126,
+          43.2989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> GI-631",
         "region": "País Vasco"
       },
