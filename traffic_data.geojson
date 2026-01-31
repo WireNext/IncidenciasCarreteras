@@ -74194,28 +74194,56 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> A-15",
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> N-1",
         "region": "País Vasco"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9731,
-          43.2615
+          -2.0694,
+          43.1395
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> N-240",
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> A-2128",
         "region": "País Vasco"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.6556,
-          42.8819
+          -2.3318,
+          42.81479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> A-2128",
+        "region": "País Vasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3318,
+          42.81479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> A-2128",
+        "region": "País Vasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3318,
+          42.81479
         ]
       }
     },
