@@ -73956,6 +73956,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> AP-1",
+        "region": "País Vasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4833,
+          43.0589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> GI-631",
         "region": "País Vasco"
       },
