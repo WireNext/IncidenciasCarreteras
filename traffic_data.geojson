@@ -85166,14 +85166,14 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> GI-20",
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> N-622",
         "region": "País Vasco"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9397,
-          43.3111
+          -2.7339,
+          42.9269
         ]
       }
     },
