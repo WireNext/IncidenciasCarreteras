@@ -74208,6 +74208,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> N-240",
+        "region": "País Vasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6556,
+          42.8819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> GI-631",
         "region": "País Vasco"
       },
