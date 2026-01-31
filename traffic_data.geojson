@@ -62672,20 +62672,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> A-1",
-        "region": "País Vasco"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.6718,
-          42.8809
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> A-636",
         "region": "País Vasco"
       },
@@ -62700,14 +62686,28 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> AP-68",
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> BI-3749",
         "region": "País Vasco"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.9155,
-          43.104
+          -3.0372,
+          43.3052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> GI-627",
+        "region": "País Vasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5019,
+          43.0323
         ]
       }
     },
