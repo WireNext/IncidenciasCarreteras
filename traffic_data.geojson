@@ -69320,6 +69320,298 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> BV-4031",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.016237,
+            42.280252
+          ],
+          [
+            2.016237,
+            42.280252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> BV-4031",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0162373,
+          42.2802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> BV-4031",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.016237,
+            42.280252
+          ],
+          [
+            2.016237,
+            42.280252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> BV-4031",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0162373,
+          42.2802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> AP-7",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.963709,
+            41.045744
+          ],
+          [
+            0.963753,
+            41.045769
+          ],
+          [
+            0.964895,
+            41.04635
+          ],
+          [
+            0.966285,
+            41.047017
+          ],
+          [
+            0.968107,
+            41.047805
+          ],
+          [
+            0.969752,
+            41.048443
+          ],
+          [
+            0.974639,
+            41.050225
+          ],
+          [
+            0.976417,
+            41.050964
+          ],
+          [
+            0.977872,
+            41.051624
+          ],
+          [
+            0.979815,
+            41.052591
+          ],
+          [
+            0.981843,
+            41.053708
+          ],
+          [
+            0.983199,
+            41.054539
+          ],
+          [
+            0.983992,
+            41.055056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> AP-7",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.96370703,
+          41.045746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> AP-7",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.963709,
+            41.045744
+          ],
+          [
+            0.963753,
+            41.045769
+          ],
+          [
+            0.964895,
+            41.04635
+          ],
+          [
+            0.966285,
+            41.047017
+          ],
+          [
+            0.968107,
+            41.047805
+          ],
+          [
+            0.969752,
+            41.048443
+          ],
+          [
+            0.974639,
+            41.050225
+          ],
+          [
+            0.976417,
+            41.050964
+          ],
+          [
+            0.977872,
+            41.051624
+          ],
+          [
+            0.979815,
+            41.052591
+          ],
+          [
+            0.981843,
+            41.053708
+          ],
+          [
+            0.983199,
+            41.054539
+          ],
+          [
+            0.983992,
+            41.055056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> AP-7",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.96370703,
+          41.045746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> AP-7",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.549768,
+            41.269575
+          ],
+          [
+            1.549768,
+            41.269575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> AP-7",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5497872,
+          41.26953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> AP-7",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.549768,
+            41.269575
+          ],
+          [
+            1.549768,
+            41.269575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> AP-7",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5497872,
+          41.26953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> A-15",
         "region": "País Vasco"
       },
