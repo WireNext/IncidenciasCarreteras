@@ -80248,20 +80248,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> BI-2238",
-        "region": "País Vasco"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.6552,
-          43.3387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> N-1",
         "region": "País Vasco"
       },
