@@ -75226,6 +75226,74 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> B-23",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.027172,
+            41.387525
+          ],
+          [
+            2.027172,
+            41.387525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> B-23",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0272355,
+          41.38754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> B-23",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.027172,
+            41.387525
+          ],
+          [
+            2.027172,
+            41.387525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> B-23",
+        "region": "Cataluña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0272355,
+          41.38754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> A-15",
         "region": "País Vasco"
       },
