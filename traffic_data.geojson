@@ -62342,210 +62342,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> C-32",
-        "region": "Cataluña"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.459938,
-            41.557562
-          ],
-          [
-            2.460069,
-            41.557592
-          ],
-          [
-            2.461002,
-            41.557829
-          ],
-          [
-            2.462202,
-            41.558165
-          ],
-          [
-            2.462788,
-            41.558347
-          ],
-          [
-            2.463412,
-            41.558522
-          ],
-          [
-            2.463887,
-            41.558652
-          ],
-          [
-            2.46465,
-            41.558856
-          ],
-          [
-            2.465134,
-            41.558967
-          ],
-          [
-            2.465781,
-            41.55909
-          ],
-          [
-            2.466396,
-            41.5592
-          ],
-          [
-            2.467043,
-            41.559284
-          ],
-          [
-            2.467667,
-            41.559351
-          ],
-          [
-            2.468491,
-            41.559416
-          ],
-          [
-            2.468984,
-            41.559441
-          ],
-          [
-            2.469466,
-            41.559458
-          ],
-          [
-            2.470293,
-            41.559459
-          ],
-          [
-            2.471568,
-            41.559402
-          ],
-          [
-            2.47161,
-            41.559399
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> C-32",
-        "region": "Cataluña"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.4599128,
-          41.557625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> C-32",
-        "region": "Cataluña"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.459938,
-            41.557562
-          ],
-          [
-            2.460069,
-            41.557592
-          ],
-          [
-            2.461002,
-            41.557829
-          ],
-          [
-            2.462202,
-            41.558165
-          ],
-          [
-            2.462788,
-            41.558347
-          ],
-          [
-            2.463412,
-            41.558522
-          ],
-          [
-            2.463887,
-            41.558652
-          ],
-          [
-            2.46465,
-            41.558856
-          ],
-          [
-            2.465134,
-            41.558967
-          ],
-          [
-            2.465781,
-            41.55909
-          ],
-          [
-            2.466396,
-            41.5592
-          ],
-          [
-            2.467043,
-            41.559284
-          ],
-          [
-            2.467667,
-            41.559351
-          ],
-          [
-            2.468491,
-            41.559416
-          ],
-          [
-            2.468984,
-            41.559441
-          ],
-          [
-            2.469466,
-            41.559458
-          ],
-          [
-            2.470293,
-            41.559459
-          ],
-          [
-            2.471568,
-            41.559402
-          ],
-          [
-            2.47161,
-            41.559399
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> C-32",
-        "region": "Cataluña"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.4599128,
-          41.557625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> A-15",
         "region": "País Vasco"
       },
@@ -67176,6 +66972,20 @@
         "coordinates": [
           -2.5043,
           43.3395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> GI-631",
+        "region": "País Vasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3521,
+          43.1329
         ]
       }
     },
