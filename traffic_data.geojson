@@ -80110,20 +80110,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> N-240",
-        "region": "País Vasco"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7535,
-          43.1062
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> N-1",
         "region": "País Vasco"
       },
