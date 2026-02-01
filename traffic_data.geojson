@@ -67074,62 +67074,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> GI-2131",
-        "region": "País Vasco"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1691,
-          43.0596
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> N-1",
-        "region": "País Vasco"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0723,
-          43.131
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> N-1",
-        "region": "País Vasco"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0726,
-          43.1304
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> GI-636",
-        "region": "País Vasco"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8919,
-          43.3124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> GI-4271",
         "region": "País Vasco"
       },
