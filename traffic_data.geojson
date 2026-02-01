@@ -73386,22 +73386,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.6465,
-          42.9256
+          -2.57,
+          43.0047
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> AP-1",
+        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> GI-20",
         "region": "País Vasco"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.57,
-          43.0047
+          -2.0246,
+          43.2866
         ]
       }
     },
