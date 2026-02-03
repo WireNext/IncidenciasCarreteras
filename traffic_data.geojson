@@ -82988,8 +82988,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9279,
-          43.2863
+          -1.9047,
+          43.2874
         ]
       }
     },
@@ -83074,20 +83074,6 @@
         "coordinates": [
           -2.9031,
           42.9153
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "<br><b>Gravedad:</b> Desconocido<br><b>Carretera:</b> AP-8",
-        "region": "País Vasco"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9279,
-          43.2863
         ]
       }
     },
