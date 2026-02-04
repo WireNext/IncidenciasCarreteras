@@ -11,16 +11,51 @@ REGIONS = {
     "Resto España": "https://nap.dgt.es/datex2/v3/dgt/SituationPublication/datex2_v36.xml"
 }
 
+# Namespaces para soportar V2 y V3
+NS = {
+    'sit': 'http://levelC/schema/3/situation',
+    'com': 'http://levelC/schema/3/common',
+    'loc': 'http://levelC/schema/3/locationReferencing',
+    'lse': 'http://levelC/schema/3/locationReferencingSpanishExtension',
+    '_0': 'http://datex2.eu/schema/1_0/1_0'
+}
+
 TRANSLATIONS = {
+    "damagedVehicle": "Vehículo Averiado",
+    "roadClosed": "Corte Total",
+    "restrictions": "Restricciones",
+    "narrowLanes": "Carriles Estrechos",
+    "flooding": "Inundación",
+    "vehicleStuck": "Vehículo Parado",
+    "both": "Ambos Sentidos",
+    "negative": "Decreciente",
+    "positive": "Creciente",
+    "useOfSpecifiedLaneAllowed": "Uso específico de carril",
+    "useUnderSpecifiedRestrictions": "Uso con restricciones",
+    "congested": "Congestionada",
+    "freeFlow": "Sin retención",
+    "constructionWork": "Obras",
+    "impossible": "Carretera Cortada",
+    "objectOnTheRoad": "Objeto en Calzada",
+    "heavy": "Retención",
+    "vehicleOnFire": "Vehículo en llamas",
+    "intermittentShortTermClosures": "Cortes intermitentes",
+    "laneClosures": "Cierre de algún carril",
+    "rockfalls": "Caída de piedras",
+    "trafficContolInOperation": "Itinerario alternativo",
+    "laneOrCarriagewayClosed": "Arcén cerrado",
+    "snowploughsInUse": "Quitanieves en la vía",
+    "snowfall": "Nieve en la vía",
+    "snowChainsMandatory": "Uso obligatorio de cadenas",
+    "rain": "Lluvia",
+    "MaintenanceWorks": "Trabajos de mantenimiento",
+    "fog": "Niebla",
+    "strongWinds": "Fuertes vientos",
+    "spillageOnTheRoad": "Derrame en la carretera",
     "highest": "Negro (Corte Total)",
     "high": "Rojo (Grave)",
     "medium": "Naranja (Moderado)",
-    "low": "Amarillo (Leve)",
-    "unknown": "Desconocido",
-    "roadClosed": "Carretera Cortada",
-    "roadworks": "Obras",
-    "heavy": "Retención Fuerte",
-    "laneClosures": "Carriles Cerrados"
+    "low": "Amarillo (Leve)"
 }
 
 def translate(value):
@@ -33,129 +68,123 @@ def format_datetime(datetime_str):
     except:
         return datetime_str
 
-def get_road_geometry(start_coords, end_coords):
-    """
-    Obtiene la polilínea real siguiendo la carretera usando OSRM.
-    start_coords y end_coords son [lon, lat]
-    """
-    # Evitar trazados si los puntos son idénticos
-    if start_coords == end_coords:
-        return [start_coords]
-
-    url = f"http://router.project-osrm.org/route/v1/driving/{start_coords[0]},{start_coords[1]};{end_coords[0]},{end_coords[1]}?overview=full&geometries=geojson"
-    
+def get_osrm_geometry(p1, p2):
+    """ Obtiene la polilínea real de la carretera entre dos puntos [lon, lat] """
+    url = f"http://router.project-osrm.org/route/v1/driving/{p1[0]},{p1[1]};{p2[0]},{p2[1]}?overview=full&geometries=geojson"
     try:
-        # Añadimos un pequeño delay para ser respetuosos con la API gratuita
-        time.sleep(0.1) 
-        response = requests.get(url, timeout=5)
-        if response.status_code == 200:
-            data = response.json()
-            if data.get('code') == 'Ok':
-                # Retorna la lista de coordenadas que forman la curva
-                return data['routes'][0]['geometry']['coordinates']
-    except Exception as e:
-        print(f"  [!] No se pudo curvar la línea: {e}")
-    
-    # Si falla, devolvemos la línea recta original
-    return [start_coords, end_coords]
+        time.sleep(0.4) # Respetar rate limit de OSRM
+        r = requests.get(url, timeout=5)
+        data = r.json()
+        if data.get("routes"):
+            return data["routes"][0]["geometry"]
+    except:
+        pass
+    return {"type": "LineString", "coordinates": [p1, p2]}
 
 def process_xml_from_url(url, region_name, all_incidents):
     try:
         print(f"Procesando {region_name}...")
-        response = requests.get(url, timeout=25)
+        response = requests.get(url, timeout=30)
         response.raise_for_status()
         root = ET.fromstring(response.content)
 
-        ns_v3 = {
-            'sit': 'http://levelC/schema/3/situation',
-            'com': 'http://levelC/schema/3/common',
-            'loc': 'http://levelC/schema/3/locationReferencing',
-            'lse': 'http://levelC/schema/3/locationReferencingSpanishExtension'
-        }
-        ns_v2 = {'_0': 'http://datex2.eu/schema/1_0/1_0'}
-        
-        records = root.findall(".//sit:situationRecord", ns_v3) or root.findall(".//_0:situationRecord", ns_v2)
+        # Buscamos records tanto en V2 como en V3
+        records = root.findall(".//sit:situationRecord", NS) or root.findall(".//_0:situationRecord", NS)
         
         for record in records:
-            curr_ns = ns_v3 if 'levelC' in record.tag else ns_v2
-            pref = 'sit:' if curr_ns == ns_v3 else '_0:'
+            is_v3 = 'levelC' in record.tag
+            pref = 'sit:' if is_v3 else '_0:'
             
-            description = []
-            sev_elem = record.find(f"{pref}severity", curr_ns)
-            sev_raw = sev_elem.text if sev_elem is not None and sev_elem.text else "unknown"
-            description.append(f"<b>Gravedad:</b> {translate(sev_raw)}")
+            desc_parts = []
+            
+            # --- 1. SEVERIDAD ---
+            sev = record.find(f"{pref}severity", NS)
+            if sev is not None:
+                desc_parts.append(f"<b>Gravedad:</b> {translate(sev.text)}")
 
-            time_elem = record.find(f"{pref}situationRecordCreationTime", curr_ns)
-            if time_elem is not None:
-                description.append(f"<b>Fecha:</b> {format_datetime(time_elem.text)}")
+            # --- 2. TIEMPO ---
+            time_e = record.find(f"{pref}situationRecordCreationTime", NS)
+            if time_e is not None:
+                desc_parts.append(f"<b>Fecha:</b> {format_datetime(time_e.text)}")
 
-            tipo = "Incidente"
-            for tag in ["roadOrCarriagewayOrLaneManagementType", "roadMaintenanceType", "obstructionType", "constructionWorkType"]:
-                t_elem = record.find(f".//{pref}{tag}", curr_ns)
-                if t_elem is not None and t_elem.text:
-                    tipo = translate(t_elem.text)
+            # --- 3. TIPO DE INCIDENTE (Múltiples etiquetas) ---
+            tags = ["obstructionType", "environmentalObstructionType", "vehicleObstructionType", 
+                    "constructionWorkType", "roadMaintenanceType", "poorEnvironmentType"]
+            for tag in tags:
+                elem = record.find(f".//{pref}{tag}", NS)
+                if elem is not None and elem.text:
+                    desc_parts.append(f"<b>Tipo:</b> {translate(elem.text)}")
                     break
-            description.append(f"<b>Incidente:</b> {tipo}")
 
-            road = record.find(".//loc:roadName", ns_v3) or record.find(".//_0:roadNumber", ns_v2)
-            road_name = road.text if road is not None else "Desconocida"
-            if road is not None: description.append(f"<b>Carretera:</b> {road_name}")
+            # --- 4. CARRETERA Y KM ---
+            road = record.find(".//loc:roadName", NS) if is_v3 else record.find(".//_0:roadNumber", NS)
+            if road is not None and road.text:
+                desc_parts.append(f"<b>Carretera:</b> {road.text}")
 
-            final_desc = "<br>".join(description)
+            km = record.find(".//lse:kilometerPoint", NS) if is_v3 else record.find(".//_0:referencePointDistance", NS)
+            if km is not None and km.text:
+                val_km = km.text if is_v3 else f"{float(km.text)/1000:.1f}"
+                desc_parts.append(f"<b>KM:</b> {val_km}")
 
-            # --- GEOMETRÍA ---
-            lat_p, lon_p = None, None
+            final_desc = "<br>".join(desc_parts)
+
+            # --- 5. GEOMETRÍA ---
+            geometry_added = False
             
-            if curr_ns == ns_v3:
-                f_pt = record.find(".//loc:from//loc:pointCoordinates", ns_v3)
-                t_pt = record.find(".//loc:to//loc:pointCoordinates", ns_v3)
-                if f_pt is not None and t_pt is not None:
-                    p1 = [float(f_pt.find("loc:longitude", ns_v3).text), float(f_pt.find("loc:latitude", ns_v3).text)]
-                    p2 = [float(t_pt.find("loc:longitude", ns_v3).text), float(t_pt.find("loc:latitude", ns_v3).text)]
-                    
-                    # LLAMADA A OSRM PARA CURVAR LA LÍNEA
-                    coords = get_road_geometry(p1, p2)
-                    
-                    all_incidents.append({"type": "Feature", "properties": {"description": final_desc, "region": region_name}, "geometry": {"type": "LineString", "coordinates": coords}})
-                    lat_p, lon_p = p1[1], p1[0]
-                else:
-                    p_pt = record.find(".//loc:point//loc:pointCoordinates", ns_v3)
-                    if p_pt is not None:
-                        lat_p, lon_p = p_pt.find("loc:latitude", ns_v3).text, p_pt.find("loc:longitude", ns_v3).text
+            # Intento de Tramo Lineal
+            f_pt, t_pt = None, None
+            if is_v3:
+                f_pt = record.find(".//loc:from//loc:pointCoordinates", NS)
+                t_pt = record.find(".//loc:to//loc:pointCoordinates", NS)
+            else:
+                linear = record.find(".//_0:locationContainedInGroup", NS)
+                if linear is not None and "_0:Linear" in (linear.get("{http://www.w3.org/2001/XMLSchema-instance}type") or ""):
+                    f_pt = linear.find(".//_0:from//_0:pointCoordinates", NS)
+                    t_pt = linear.find(".//_0:to//_0:pointCoordinates", NS)
 
-            else: # Caso V2
-                linear = record.find(".//_0:locationContainedInGroup", ns_v2)
-                is_linear = linear is not None and "_0:Linear" in (linear.get("{http://www.w3.org/2001/XMLSchema-instance}type") or "")
+            if f_pt is not None and t_pt is not None:
+                p1 = [float(f_pt.find(f"{'loc' if is_v3 else '_0'}:longitude", NS).text), 
+                      float(f_pt.find(f"{'loc' if is_v3 else '_0'}:latitude", NS).text)]
+                p2 = [float(t_pt.find(f"{'loc' if is_v3 else '_0'}:longitude", NS).text), 
+                      float(t_pt.find(f"{'loc' if is_v3 else '_0'}:latitude", NS).text)]
                 
-                if is_linear:
-                    f_pt = linear.find(".//_0:from//_0:pointCoordinates", ns_v2)
-                    t_pt = linear.find(".//_0:to//_0:pointCoordinates", ns_v2)
-                    if f_pt is not None and t_pt is not None:
-                        p1 = [float(f_pt.find("_0:longitude", ns_v2).text), float(f_pt.find("_0:latitude", ns_v2).text)]
-                        p2 = [float(t_pt.find("_0:longitude", ns_v2).text), float(t_pt.find("_0:latitude", ns_v2).text)]
-                        
-                        # LLAMADA A OSRM PARA CURVAR LA LÍNEA
-                        coords = get_road_geometry(p1, p2)
-                        
-                        all_incidents.append({"type": "Feature", "properties": {"description": final_desc, "region": region_name}, "geometry": {"type": "LineString", "coordinates": coords}})
-                        lat_p, lon_p = p1[1], p1[0]
-                else:
-                    p_pt = record.find(".//_0:pointCoordinates", ns_v2)
-                    if p_pt is not None:
-                        lat_p, lon_p = p_pt.find("_0:latitude", ns_v2).text, p_pt.find("_0:longitude", ns_v2).text
+                # Curvar línea con OSRM
+                road_geom = get_osrm_geometry(p1, p2)
+                all_incidents.append({
+                    "type": "Feature",
+                    "properties": {"description": final_desc, "region": region_name},
+                    "geometry": road_geom
+                })
+                # Punto para la "gota" de aviso (usamos el inicio)
+                all_incidents.append({
+                    "type": "Feature",
+                    "properties": {"description": final_desc, "region": region_name},
+                    "geometry": {"type": "Point", "coordinates": p1}
+                })
+                geometry_added = True
 
-            if lat_p and lon_p:
-                all_incidents.append({"type": "Feature", "properties": {"description": final_desc, "region": region_name}, "geometry": {"type": "Point", "coordinates": [float(lon_p), float(lat_p)]}})
+            # Si no hubo línea, buscar punto único
+            if not geometry_added:
+                p_pt = record.find(f".//{'loc:point//loc' if is_v3 else '_0'}:pointCoordinates", NS)
+                if p_pt is not None:
+                    lon = p_pt.find(f"{'loc' if is_v3 else '_0'}:longitude", NS).text
+                    lat = p_pt.find(f"{'loc' if is_v3 else '_0'}:latitude", NS).text
+                    all_incidents.append({
+                        "type": "Feature",
+                        "properties": {"description": final_desc, "region": region_name},
+                        "geometry": {"type": "Point", "coordinates": [float(lon), float(lat)]}
+                    })
 
-        print(f"OK: {region_name} finalizada.")
+        print(f"OK: {region_name} terminada.")
     except Exception as e:
-        print(f"Error crítico en {region_name}: {e}")
+        print(f"Error en {region_name}: {e}")
 
 if __name__ == "__main__":
-    final_results = []
+    final_data = []
     for name, url in REGIONS.items():
-        process_xml_from_url(url, name, final_results)
+        process_xml_from_url(url, name, final_data)
     
     with open("traffic_data.geojson", "w", encoding='utf-8') as f:
-        json.dump({"type": "FeatureCollection", "features": final_results}, f, indent=2, ensure_ascii=False)
-    print(f"\nTerminado: {len(final_results)} elementos procesados.")
+        json.dump({"type": "FeatureCollection", "features": final_data}, f, indent=2, ensure_ascii=False)
+    
+    print(f"\nProceso finalizado. {len(final_data)} elementos guardados en traffic_data.geojson")
