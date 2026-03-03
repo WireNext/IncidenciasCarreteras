@@ -55,7 +55,8 @@ TRANSLATIONS = {
     "highest": "Negro (Corte Total)",
     "high": "Rojo (Grave)",
     "medium": "Naranja (Moderado)",
-    "low": "Amarillo (Leve)"
+    "low": "Amarillo (Leve)",
+    "vehicleCarryingHazardousMaterials" : "Mercancias peligrosas"
 }
 
 def translate(value):
