@@ -49,16 +49,16 @@
   // Función para clasificar el impacto
   function getImpactLevel(description) {
     const desc = description.toLowerCase();
-    if (desc.includes("imposible") || desc.includes("corte") || desc.includes("cerrada") || desc.includes("cortada")) {
+    if (desc.includes("imposible") || desc.includes("corte") || desc.includes("cerrada") || desc.includes("cortada") || desc.includes("rojo")) {
       return "critico";
     }
     if (desc.includes("sin retención") || desc.includes("fluido")) {
       return "fluido";
     }
-      if (desc.includes("cadenas")) {
+      if (desc.includes("cadenas") || desc.includes("moderado")) {
       return "medio";
     }
-    return "medio";
+    return "fluido";
   }
 
   function getIconName(description) {
