@@ -55,7 +55,7 @@
     if (desc.includes("sin retención") || desc.includes("fluido")) {
       return "fluido";
     }
-      if (desc.includes("cadenas") || desc.includes("moderado")) {
+      if (desc.includes("cadenas") || desc.includes("moderado") || desc.includes("amarillo")) {
       return "medio";
     }
     return "fluido";
@@ -63,7 +63,7 @@
 
   function getIconName(description) {
     const desc = description.toLowerCase();
-    if (desc.includes("obra")) return "construction";
+    if (desc.includes("Trabajos")) return "construction";
     if (desc.includes("nieve")) return "ac_unit";
     if (desc.includes("averiado")) return "car_crash";
     if (desc.includes("fuego")) return "local_fire_department";
@@ -72,7 +72,7 @@
     if (desc.includes("piedras")) return "landslide";
     if (desc.includes("lluvia")) return "rainy";
     if (desc.includes("niebla")) return "foggy";
-    if (desc.includes("parado")) return "auto_towing";
+    if (desc.includes("parado")) return "car_crash";
     if (desc.includes("viento")) return "air";
 
 
