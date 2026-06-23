@@ -56,7 +56,8 @@ TRANSLATIONS = {
     "high": "Rojo (Grave)",
     "medium": "Naranja (Moderado)",
     "low": "Amarillo (Leve)",
-    "roadworks": "Obras"
+    "roadworks": "Obras",
+    "obstructionOnTheRoad": "Obstrucción en la calzada"
 }
 
 def translate(value):
