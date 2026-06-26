@@ -58,7 +58,8 @@ TRANSLATIONS = {
     "low": "Amarillo (Leve)",
     "roadworks": "Obras",
     "obstructionOnTheRoad": "Obstrucción en la calzada",
-    "smokeHazard": "Humo"
+    "smokeHazard": "Humo",
+    "forestFire": "Incendio forestal"
 }
 
 def translate(value):
